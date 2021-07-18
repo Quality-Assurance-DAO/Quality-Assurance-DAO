@@ -12,6 +12,7 @@
 * [Catalyst Circle](community-support/catalyst-circle.md)
 * [Catalyst-Swarm](community-support/untitled.md)
 * [The Catalyst Alliance](community-support/the-catalyst-alliance.md)
+* [The Catalyst School](community-support/the-catalyst-school.md)
 
 ## Friends
 
