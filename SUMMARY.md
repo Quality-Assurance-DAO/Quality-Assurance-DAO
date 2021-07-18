@@ -10,3 +10,7 @@
 
 * [Catalyst-Swarm](community-support/untitled.md)
 
+## Friends
+
+* [Untitled](friends/untitled.md)
+
