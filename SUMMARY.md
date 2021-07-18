@@ -10,6 +10,7 @@
 
 * [Catalyst Circle](community-support/catalyst-circle.md)
 * [Catalyst-Swarm](community-support/untitled.md)
+* [The Catalyst Alliance](community-support/the-catalyst-alliance.md)
 
 ## Friends
 
