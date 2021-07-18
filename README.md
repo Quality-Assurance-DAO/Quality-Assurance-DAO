@@ -4,5 +4,7 @@ description: Welcome to the Quality Assurance DAO
 
 # Welcome
 
-Quality Assurance DAO GitBook
+The Quality Assurance DAO grew out of a Project Catalst Fund 5 Proposal 
+
+
 
