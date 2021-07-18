@@ -4,5 +4,5 @@
 
 ## Partners
 
-* [Untitled](partners/untitled.md)
+* [Secret Decks](partners/untitled.md)
 
