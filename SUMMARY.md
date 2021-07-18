@@ -5,6 +5,7 @@
 ## Partners
 
 * [Secret Decks](partners/untitled.md)
+* [Ekphrasis](partners/ekphrasis.md)
 
 ## Community Support
 
