@@ -24,6 +24,8 @@ description: QA-DAO in the media
 
 #### 5th July 2021
 
+Danielo Ospina \(Aragon\), Stephen Whitenstall, Tevo, Seomon \(Catalyst Swarm\) and Tyler Wales \(Secret Decks\)
+
 {% embed url="https://www.youtube.com/watch?v=kv-qXx8UvPc&t" %}
 
 
