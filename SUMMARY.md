@@ -2,3 +2,7 @@
 
 * [Welcome](README.md)
 
+## Partners
+
+* [Untitled](partners/untitled.md)
+
