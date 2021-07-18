@@ -8,6 +8,7 @@
 
 ## Community Support
 
+* [Catalyst Circle](community-support/catalyst-circle.md)
 * [Catalyst-Swarm](community-support/untitled.md)
 
 ## Friends
