@@ -15,3 +15,7 @@
 
 * [Untitled](friends/untitled.md)
 
+## Studies
+
+* [Untitled](studies/untitled.md)
+
