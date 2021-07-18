@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Media](media.md)
 
 ## Partners
 
