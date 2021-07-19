@@ -12,6 +12,10 @@ description: QA-DAO in the media
 
 {% embed url="https://discord.com/channels/756943420660121600/828707796580565003/857608124756000798" %}
 
+## Youtube Channel - Stephen Whitenstall
+
+{% embed url="https://www.youtube.com/channel/UCSqcMeG4ympeqoQRI\_zczzA/featured" %}
+
 
 
 ## QA-DAO in the media
