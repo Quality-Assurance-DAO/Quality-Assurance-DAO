@@ -1,8 +1,14 @@
 ---
-description: Welcome to the Quality Assurance DAO
+description: Welcome to Quality Assurance DAO
 ---
 
 # Welcome
+
+Quality Assurance DAO is an open source project that provides support for the Cardano Project Catalsyt Community.
+
+
+
+## Background
 
 The Quality Assurance DAO was founded by Stephen Whitenstall in April 2021 and grew out of a Project Catalyst Fund 5 Proposal 
 
