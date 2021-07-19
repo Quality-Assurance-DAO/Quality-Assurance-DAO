@@ -4,6 +4,12 @@ description: QA-DAO in the media
 
 # Media
 
+## Twitter
+
+[https://twitter.com/qa\_dao](https://twitter.com/qa_dao)
+
+
+
 ## Project Catalyst Town Hall \#16
 
 #### July 14th 2021
