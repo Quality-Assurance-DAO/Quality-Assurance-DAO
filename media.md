@@ -8,9 +8,15 @@ description: QA-DAO in the media
 
 [@qa\_dao](https://twitter.com/qa_dao) -  The Distributed Autonomous Organisation of Quality Assurance
 
+## Discord Channel - Fund 5 Proposal
+
+{% embed url="https://discord.com/channels/756943420660121600/828707796580565003/857608124756000798" %}
 
 
-## Project Catalyst Town Hall \#16
+
+## QA-DAO in the media
+
+### Project Catalyst Town Hall \#16
 
 #### July 14th 2021
 
@@ -18,7 +24,7 @@ description: QA-DAO in the media
 
 {% embed url="https://www.youtube.com/watch?v=\_H-dSnMmpA4&t=936s" %}
 
-## Tracking effort and merit in Cardano
+### Tracking effort and merit in Cardano
 
 #### 11th July 2021
 
@@ -26,7 +32,7 @@ description: QA-DAO in the media
 
  Tracking effort and merit, NFTs, social media, SourceCred and testing it out in The Catalyst Alliance. A detailed summary can be found [here ](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXNWVFM3LUYxbktXbWVoU0xOeGw2VkV5OEluZ3xBQ3Jtc0tsMVluTzQ3QXdGMzVEUHlQQXFnb0V6Z0R1VUI1bTR3NjNFUTJ2OEZLeG1Ld0NUWmpqQ3RWUzJxdXJjMTlUR3dhbUVKR1FvOUNvdXFJTEhnQ2ozSlNELUVpYklVTmQxVGhFXzNlT0dHTjdWOE5uWDZOUQ&q=https%3A%2F%2Fcatalyst-swarm.gitbook.io%2Fthe-catalyst-alliance%2Ftracking-effort-and-merit-in-cardano%2Ftracking-effort-and-merit-in-cardano%23meeting-8th-july-2021).
 
-## SourceCred Use, Set-Up and Strategy
+### SourceCred Use, Set-Up and Strategy
 
 #### 5th July 2021
 
