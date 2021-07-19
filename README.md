@@ -12,6 +12,8 @@ Quality Assurance DAO is an open source project that provides support for the Ca
 
 ### Transparent Governance
 
+### Training
+
 
 
 ## Background
