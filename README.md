@@ -6,7 +6,7 @@ description: Welcome to Quality Assurance DAO
 
 ## What is Quality Assurance DAO ?
 
-Quality Assurance DAO is an open source project that provides support for the Cardano Project Catalyst Community.
+Quality Assurance DAO is an ongoing open source project that provides support for the Cardano Project Catalyst Community.
 
 ### Documentation
 
