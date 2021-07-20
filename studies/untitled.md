@@ -21,7 +21,6 @@ Bain News Service, Public domain, via Wikimedia Commons
 | **Published** | 12/05/2021 |
 | **Version** | For Community Review 1.0 |
 | **Licence** | Creative Commons Attribution |
-|  |  |
 
 | **Distribution \(Alphabetical order\)** |  |
 | :--- | :--- |
