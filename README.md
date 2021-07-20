@@ -14,7 +14,7 @@ Documentation of Catalyst Circle, Catalyst Circle, The Catalyst Alliance and The
 
 ### Transparent Governance
 
-Reporting and tracking of Catalyst Governance experiments.
+Reporting on and tracking of Catalyst Governance experiments.
 
 ### Training
 
