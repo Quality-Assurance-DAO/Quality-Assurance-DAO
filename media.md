@@ -6,7 +6,7 @@ description: QA-DAO in the media
 
 ## Twitter
 
-[@qa\_dao](https://twitter.com/qa_dao) -  The Distributed Autonomous Organisation of Quality Assurance
+![@qa\_dao -  The Distributed Autonomous Organisation of Quality Assurance](.gitbook/assets/2021-07-20-1-.png)
 
 ## Cardano Project Catalst Discord Channel - Fund 5 Proposal
 
