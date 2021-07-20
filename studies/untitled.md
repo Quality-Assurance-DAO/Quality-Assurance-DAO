@@ -4,6 +4,10 @@ description: IDO Launch Study
 
 # OccamFi OCC IDO
 
+{% embed url="https://drive.google.com/file/d/1NZxX4\_cEyqeKZZyetenO6FtchOnlQzlF/view?usp=sharing" %}
+
+
+
 ![A large group of people wearing hats
 
 Description automatically generated with low confidence](../.gitbook/assets/0%20%281%29.jpeg)
