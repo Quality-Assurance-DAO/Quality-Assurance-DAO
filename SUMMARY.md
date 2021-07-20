@@ -15,10 +15,6 @@
 * [The Catalyst Alliance](community-support/the-catalyst-alliance.md)
 * [The Catalyst School](community-support/the-catalyst-school.md)
 
-## Friends
-
-* [Untitled](friends/untitled.md)
-
 ## Studies
 
 * [OccamFi OCC IDO](studies/untitled.md)
