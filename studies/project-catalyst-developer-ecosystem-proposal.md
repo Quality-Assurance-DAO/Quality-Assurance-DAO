@@ -4,8 +4,6 @@ description: 'A deconstructed, dissected, and resurrected Fund 5 Proposal.'
 
 # Project Catalyst, Developer Ecosystem Proposal
 
-
-
 ![A picture containing text, indoor, wall, floor
 
 Description automatically generated](../.gitbook/assets/0.jpeg)
