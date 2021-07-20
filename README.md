@@ -10,7 +10,11 @@ Quality Assurance DAO is an ongoing open source project that provides support fo
 
 ### Documentation
 
+Documentation of Catalyst Circle, Catalyst Circle, The Catalyst Alliance and The Catalyst Circle in open-source GitHub repositories,
+
 ### Transparent Governance
+
+Reporting and tracking of Catalyst Governance experiments.
 
 ### Training
 
