@@ -1,8 +1,8 @@
 ---
-description: Welcome to Quality Assurance DAO
+description: The Distributed Autonomous Organisation of Quality Assurance
 ---
 
-# Welcome
+# Welcome to Quality Assurance DAO
 
 ![The Distributed Autonomous Organisation of Quality Assurance](.gitbook/assets/2021-07-20-1-.png)
 
