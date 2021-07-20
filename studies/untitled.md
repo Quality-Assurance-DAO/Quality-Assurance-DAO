@@ -6,7 +6,7 @@ description: IDO Launch Study
 
 ![A large group of people wearing hats
 
-Description automatically generated with low confidence](../.gitbook/assets/0.jpeg)
+Description automatically generated with low confidence](../.gitbook/assets/0%20%281%29.jpeg)
 
 Curb brokers in Wall Street, New York City,1920
 
@@ -183,7 +183,7 @@ Description automatically generated](../.gitbook/assets/2.png)
 
 ![Graphical user interface, application
 
-Description automatically generated](../.gitbook/assets/3.png)
+Description automatically generated](../.gitbook/assets/3%20%281%29.png)
 
 OccamFi has several articles on its Medium account. The earliest post is dated to March 29th, 2021. But not all articles are visible on the landing page \(no earliest article link\).
 
@@ -221,7 +221,7 @@ The top post is headlined as “!!! SCAM ALERT !!!”
 
 ![Graphical user interface, text, application, email
 
-Description automatically generated](../.gitbook/assets/7.png)
+Description automatically generated](../.gitbook/assets/7%20%281%29.png)
 
 #### GitBook FAQ:
 
@@ -283,7 +283,7 @@ A figures icon represents those who were able to take part as 175 participants.
 
 ![A screenshot of a computer
 
-Description automatically generated](../.gitbook/assets/11.png)
+Description automatically generated](../.gitbook/assets/11%20%281%29.png)
 
 There is a link to the Metamask wallet.
 
@@ -324,7 +324,7 @@ And provides links to the Website, Wwhitepaper, Twitter, Telegram and Medium.
 
 ![Graphical user interface, text, application, chat or text message
 
-Description automatically generated](../.gitbook/assets/13.png)
+Description automatically generated](../.gitbook/assets/13%20%281%29.png)
 
 **.**
 
