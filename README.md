@@ -22,7 +22,7 @@ Support and training of the Project Catalyst community.
 
 ### Research
 
-Collation of current research in the Cardano ecosystem and original research from the Catalyst community is documented in the Ekphrasis journal.
+Collation of current research in the Cardano ecosystem and original research from the Catalyst community is documented in the [Ekphrasis ](https://stephen-rowan.gitbook.io/ekphrasis/)journal.
 
 ## Background
 
