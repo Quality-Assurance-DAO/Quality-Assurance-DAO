@@ -18,7 +18,7 @@ Reporting on and tracking of Catalyst Governance experiments.
 
 ### Training
 
-
+Support and training of the Project Catalyst community.
 
 ## Background
 
