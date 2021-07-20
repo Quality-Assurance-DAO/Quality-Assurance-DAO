@@ -4,7 +4,7 @@ description: QA-DAO in the media
 
 # Media
 
-## Twitter
+## Twitter - [https://twitter.com/qa\_dao](https://twitter.com/qa_dao)
 
 ![@qa\_dao -  The Distributed Autonomous Organisation of Quality Assurance](.gitbook/assets/2021-07-20-1-.png)
 
