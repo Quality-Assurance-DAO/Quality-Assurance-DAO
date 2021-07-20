@@ -21,5 +21,5 @@
 
 ## Studies
 
-* [Untitled](studies/untitled.md)
+* [OccamFi OCC IDO](studies/untitled.md)
 
