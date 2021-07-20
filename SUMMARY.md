@@ -19,5 +19,4 @@
 
 * [OccamFi OCC IDO](studies/untitled.md)
 * [Project Catalyst, Developer Ecosystem Proposal](studies/project-catalyst-developer-ecosystem-proposal.md)
-* [Keep It Simple](studies/untitled-1.md)
 
