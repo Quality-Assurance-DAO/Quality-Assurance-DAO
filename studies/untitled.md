@@ -4,10 +4,6 @@ description: IDO Launch Study
 
 # OccamFi OCC IDO
 
-| Title | OccamFi OCC IDO |
-| :--- | :--- |
-| Subject | IDO Launch Study |
-
 ![A large group of people wearing hats
 
 Description automatically generated with low confidence](../.gitbook/assets/0.jpeg)
