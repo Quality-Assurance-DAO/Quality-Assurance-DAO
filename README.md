@@ -22,7 +22,7 @@ Support and training of the Project Catalyst community.
 
 ### Research
 
-Collation of current reseacrh in the Cardano ecosystem and original research from the Catalst community is documneted in Ekphrasis
+Collation of current reseacrh in the Cardano ecosystem and original research from the Catalst community is documneted in the Ekphrasis journal.
 
 ## Background
 
