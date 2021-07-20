@@ -20,6 +20,10 @@ Reporting on and tracking of Catalyst Governance experiments.
 
 Support and training of the Project Catalyst community.
 
+### Research
+
+Collation of current reseacrh in the Cardano ecosystem and original research from the Catalst community is documneted in 
+
 ## Background
 
 The Quality Assurance DAO was founded by Stephen Whitenstall in April 2021 and grew out of a Project Catalyst Fund 5 Proposal 
