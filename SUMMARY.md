@@ -19,4 +19,5 @@
 
 * [OccamFi OCC IDO](studies/untitled.md)
 * [Project Catalyst, Developer Ecosystem Proposal](studies/project-catalyst-developer-ecosystem-proposal.md)
+* [Original QA-DAO Presentation](studies/original-qa-dao-presentation.md)
 
