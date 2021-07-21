@@ -20,7 +20,7 @@ QA-DAO reports on and tracks Catalyst Governance experiments such as the Catalys
 
 ### Training
 
-QA-DAO provides support and training forthe Project Catalyst community.
+QA-DAO provides support and training for the Project Catalyst community via the Catalyst School.
 
 ### Research
 
