@@ -8,7 +8,7 @@ description: The Distributed Autonomous Organisation of Quality Assurance
 
 ## What is Quality Assurance DAO ?
 
-Quality Assurance DAO \(QA-DAO\) is an ongoing open source project that provides support for the Cardano Project Catalyst Community. QA-DAOs own GitHub Organisation is at [https://github.com/Quality-Assurance-DAO](https://github.com/Quality-Assurance-DAO).
+Quality Assurance DAO \(QA-DAO\) is an ongoing open source project that provides support for the Cardano Project Catalyst Community. QA-DAOs own GitHub Organization is at [https://github.com/Quality-Assurance-DAO](https://github.com/Quality-Assurance-DAO).
 
 ### Documentation
 
