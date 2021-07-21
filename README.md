@@ -24,7 +24,7 @@ QA-DAO provides support and training forthe Project Catalyst community.
 
 ### Research
 
-Collation of current research in the Cardano ecosystem and original research from the Catalyst community is documented in the [Ekphrasis ](https://stephen-rowan.gitbook.io/ekphrasis/)journal.
+QA-DAO collates current research in the Cardano ecosystem and original research from the Catalyst community in the [Ekphrasis ](https://stephen-rowan.gitbook.io/ekphrasis/)journal.
 
 ## Background
 
