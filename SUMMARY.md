@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Welcome to Quality Assurance DAO](README.md)
-* [Media](media.md)
+* [Welcome to Quality Assurance DAO](welcome-to-quality-assurance-dao.md)
 
 ## Partners
 
-* [Secret Decks](partners/untitled.md)
+* [Secret Decks](partners/secret-decks.md)
 * [Ekphrasis](partners/ekphrasis.md)
 
 ## Community Support

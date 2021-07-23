@@ -2,7 +2,7 @@
 description: QA-DAO in the media
 ---
 
-# Media
+# Welcome to Quality Assurance DAO
 
 ## Twitter - [https://twitter.com/qa\_dao](https://twitter.com/qa_dao)
 
