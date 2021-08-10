@@ -4,6 +4,8 @@ description: The Distributed Autonomous Organisation of Quality Assurance
 
 # Welcome to Quality Assurance DAO
 
+Funded by Project Catalyst 
+
 ![The Distributed Autonomous Organisation of Quality Assurance](.gitbook/assets/2021-07-20-1-.png)
 
 ## What is Quality Assurance DAO ?
