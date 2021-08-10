@@ -41,9 +41,7 @@ https://www.linkedin.com/in/stephen-whitenstall-166727210/
 
 ## **Website/GitHub repository \(not required\)**
 
-![A picture containing text, computer, computer, monitor
-
-Description automatically generated](../.gitbook/assets/1%20%281%29.png)
+![Website/GitHub repository \(not required\)](../.gitbook/assets/1%20%281%29.png)
 
 [https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal)
 
@@ -57,9 +55,7 @@ Description automatically generated](../.gitbook/assets/1%20%281%29.png)
 
 The aim of the QA-DAO is to encourage collaboration and innovation across all open-source Catalyst Projects. The QA-DAO project started with a GitHub organization, the repository maintainer Stephen Whitenstall [https://stephen-rowan.github.io/](https://stephen-rowan.github.io/) seeks to work with open-source projects in the Catalyst community, to gain an understanding of their context and to extend their reach to collaborators in the wider open-source community. QA-DAO's approach is iterative, recording lessons learnt from the proposal process for the community and adopting improvements from constructive criticism where they apply to a broad base.
 
-![Graphical user interface, text, application
-
-Description automatically generated](../.gitbook/assets/2%20%281%29.png)
+![https://stephen-rowan.github.io/](../.gitbook/assets/2%20%281%29.png)
 
 The repository maintainer Stephen Whitenstall
 
@@ -68,9 +64,7 @@ The repository maintainer Stephen Whitenstall
   
 QA-DAO has begun with an experimental assessment of the various open-source perspectives within this Catalyst Fund 5 Process. This contribution is FeedbackChallenge : Open Source [https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues/32](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues/32) which will run during Fund 5's Refine and Finalise stages \(to gather Issues on the Proposal Process itself\) and then continue onto Fund 5's Review and Assess stages \(to gather issues on the Review Process\).
 
-![A screenshot of a computer
-
-Description automatically generated with medium confidence](../.gitbook/assets/3.png)
+![FeedbackChallenge](../.gitbook/assets/3.png)
 
 Feedback Challenge-Open-Source
 
@@ -106,33 +100,25 @@ A QA test of whether the Catalyst Funding Process fits in a Blockchain Maturity 
   
 All work on this proposal prior to the repository going public was captured in a Alpha Version 0.0 which can be downloaded as a zip file from \( [https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/releases/tag/v0.0-alpha](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/releases/tag/v0.0-alpha) \)
 
-![A picture containing text, screenshot, monitor, computer
-
-Description automatically generated](../.gitbook/assets/4%20%281%29.png)
+![Alpha Version 0.0 &#x2013; Released](../.gitbook/assets/4%20%281%29.png)
 
 ### **Alpha Version 1.0 - 29/04/2021**
 
   
 An Alpha Release 1.0 will capture the state of this proposal when it reaches the end of the Fund 5's Refine and Finalise stages. \(Alpha Release 1.0 "Finalise Stage" - [https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues/93\)](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues/93)\)
 
-![A screenshot of a computer
-
-Description automatically generated with medium confidence](../.gitbook/assets/5%20%281%29.png)
+![Alpha Version 1.0 - 29/04/2021](../.gitbook/assets/5%20%281%29.png)
 
 ### **Alpha Version 2.0 - 26/05/2021**
 
   
 An Alpha Release 2.0 will capture the state of this proposal when it reaches the end of Fund 5's Review and Assess stages. \(Alpha Release 2.0 "Review and Assess stages" - [https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues/94\)](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues/94)\)
 
-![A picture containing text, screenshot, monitor, computer
-
-Description automatically generated](../.gitbook/assets/6%20%281%29.png)
+![Alpha Version 2.0 - 26/05/2021](../.gitbook/assets/6%20%281%29.png)
 
 ## **Project Board: F5-Developer-ecosystem-Proposal**
 
-![A picture containing text, screenshot, indoor
-
-Description automatically generated](../.gitbook/assets/7.png)
+![Project Board: F5-Developer-ecosystem-Proposal](../.gitbook/assets/7.png)
 
   
 [https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/projects/2](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/projects/2)
@@ -145,18 +131,14 @@ The content of the proposal on Ideascale will be released as a Word Document in 
 
 Also linked at the following repository location : [https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/blob/main/Project-Catalyst/Documents/01-Ideascale-Proposal-Finalise-Stage.md](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/blob/main/Project-Catalyst/Documents/01-Ideascale-Proposal-Finalise-Stage.md)
 
-![A screenshot of a computer
-
-Description automatically generated with medium confidence](../.gitbook/assets/8%20%281%29.png)
+![](../.gitbook/assets/8%20%281%29.png)
 
 ### **\(2\) Self-Assessment checklist - QA and Completion - Due: 28/04/2021:**
 
 This deliverable is specified by Project Catalyst.  
 [https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues/95](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues/95)
 
-![A picture containing text, screenshot, monitor, indoor
-
-Description automatically generated](../.gitbook/assets/9%20%281%29.png)
+![](../.gitbook/assets/9%20%281%29.png)
 
   
 **Self-Assessment checklist Summary:** How my proposal impacts the challenge metrics is articulated in this manner.
@@ -186,9 +168,7 @@ Description automatically generated](../.gitbook/assets/9%20%281%29.png)
 
 This deliverable is a QA of General Usability Issues of the Ideascale Platform \(Data Only\) to inform Output \(5\).
 
-![A screenshot of a computer
-
-Description automatically generated with medium confidence](../.gitbook/assets/10%20%281%29.png)
+![](../.gitbook/assets/10%20%281%29.png)
 
   
 [https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues/17](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues/17)
@@ -198,9 +178,7 @@ Description automatically generated with medium confidence](../.gitbook/assets/1
   
 This deliverable will be an informal document aimed at informing, celebrating, and inspiring the Catalyst open-source community.
 
-![A screenshot of a computer
-
-Description automatically generated](../.gitbook/assets/11.png)
+![](../.gitbook/assets/11.png)
 
   
 [https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/blob/main/Project-Catalyst/Reports/01-Open-Source-Assessment-Report.md](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/blob/main/Project-Catalyst/Reports/01-Open-Source-Assessment-Report.md) \)
@@ -209,9 +187,7 @@ Description automatically generated](../.gitbook/assets/11.png)
 
 This deliverable will be a formal document which will attempt a QA Assessment of the Fund 5 Process from a proposer's perspective.
 
-![A picture containing text, screenshot, monitor, computer
-
-Description automatically generated](../.gitbook/assets/12%20%281%29.png)
+![](../.gitbook/assets/12%20%281%29.png)
 
   
 [https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/blob/main/Project-Catalyst/Reports/02-Project-Catalyst-Proposal%20Process.md](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/blob/main/Project-Catalyst/Reports/02-Project-Catalyst-Proposal%20Process.md)
@@ -220,9 +196,7 @@ Description automatically generated](../.gitbook/assets/12%20%281%29.png)
 
 This deliverable will be a “leap of faith" interaction with voters to assess whether QA-DAO should be funded $5 given the delivery of 80% of outputs \(1 -5\)**.**
 
-![A screenshot of a computer
-
-Description automatically generated](../.gitbook/assets/13.png)
+![](../.gitbook/assets/13.png)
 
   
 [https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/blob/main/Project-Catalyst/Reports/03-Governance.md](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/blob/main/Project-Catalyst/Reports/03-Governance.md)
@@ -236,9 +210,7 @@ Description automatically generated](../.gitbook/assets/13.png)
 
 A high-level process outlining a means to reward community contributions has been drafted for NFT-DAO and released under a Creative Commons License
 
-![Graphical user interface, text, application, email
-
-Description automatically generated](../.gitbook/assets/14%20%281%29.png)
+![](../.gitbook/assets/14%20%281%29.png)
 
 [https://github.com/Quality-Assurance-DAO/DAO-Open-Source/blob/main/Documents/Tokens/01-Keep-It-Simple.md](https://github.com/Quality-Assurance-DAO/DAO-Open-Source/blob/main/Documents/Tokens/01-Keep-It-Simple.md)
 
