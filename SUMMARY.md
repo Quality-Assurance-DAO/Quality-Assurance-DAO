@@ -18,7 +18,7 @@
 ## Catalyst Proposals
 
 * [Project Catalyst Fund 5, Developer Ecosystem Proposal](catalyst-proposals/project-catalyst-developer-ecosystem-proposal.md)
-* [Untitled](catalyst-proposals/untitled.md)
+* [Quality-Assurance DAO Governance, Fund 5, Developer Ecosystem Proposal](catalyst-proposals/untitled.md)
 
 ## Studies
 
