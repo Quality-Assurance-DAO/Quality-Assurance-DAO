@@ -1,8 +1,8 @@
 ---
-description: 'A deconstructed, dissected, and resurrected Fund 5 Proposal.'
+description: 'A deconstructed, dissected, and resurrected Catalyst Fund 5 Proposal.'
 ---
 
-# Project Catalyst Fund 5, Developer Ecosystem Proposal
+# Fund 5, Developer Ecosystem Proposal
 
 ![A picture containing text, indoor, wall, floor
 
