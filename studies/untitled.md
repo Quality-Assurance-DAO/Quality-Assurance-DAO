@@ -328,7 +328,7 @@ And provides links to the Website, Wwhitepaper, Twitter, Telegram and Medium.
 
 ![Graphical user interface, text, application, chat or text message
 
-Description automatically generated](../.gitbook/assets/13%20%281%29.png)
+Description automatically generated](../.gitbook/assets/2%20%282%29.png)
 
 **.**
 

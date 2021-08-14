@@ -2,7 +2,7 @@
 description: 'A deconstructed, dissected, and resurrected Fund 5 Proposal.'
 ---
 
-# Project Catalyst, Developer Ecosystem Proposal
+# Project Catalyst Fund 5, Developer Ecosystem Proposal
 
 ![A picture containing text, indoor, wall, floor
 
