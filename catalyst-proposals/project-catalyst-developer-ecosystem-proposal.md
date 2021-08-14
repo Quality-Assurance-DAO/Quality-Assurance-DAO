@@ -4,9 +4,7 @@ description: 'A deconstructed, dissected, and resurrected Catalyst Fund 5 Propos
 
 # Fund 5, Developer Ecosystem Proposal
 
-![A picture containing text, indoor, wall, floor
-
-Description automatically generated](../.gitbook/assets/0.jpeg)
+![](../.gitbook/assets/0.jpeg)
 
  David Bohl, CC0, via Wikimedia Commons
 
