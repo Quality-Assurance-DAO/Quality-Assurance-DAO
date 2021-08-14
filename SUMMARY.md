@@ -15,13 +15,15 @@
 * [The Catalyst Alliance](community-support/the-catalyst-alliance.md)
 * [The Catalyst School](community-support/the-catalyst-school.md)
 
+## Catalyst Proposals
+
+* [Project Catalyst, Developer Ecosystem Proposal](catalyst-proposals/project-catalyst-developer-ecosystem-proposal.md)
+* [Untitled](catalyst-proposals/untitled.md)
+
 ## Studies
 
 * [OccamFi OCC IDO](studies/untitled.md)
 * [Original QA-DAO Presentation](studies/original-qa-dao-presentation.md)
 
-## Catalyst Proposals
 
-* [Project Catalyst, Developer Ecosystem Proposal](catalyst-proposals/project-catalyst-developer-ecosystem-proposal.md)
-* [Untitled](catalyst-proposals/untitled.md)
 
