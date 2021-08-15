@@ -56,7 +56,7 @@ The challenge then is to raise the bar of quality in Project Catalyst to a level
 
 At its heart Project Catalyst is an experiment to develop distributed governance for the Cardano blockchain. So, meeting the challenge to improve and grow auditability requires a distributed approach. An effective and equitable distribution of auditability will require connections between the funded proposer and the community to be established, the communal development of transparent audit methods and constant iteration.
 
-Distributed Auditability also needs to take account of both qualitative and quantitative measures of a funded proposal’s success.
+Distributed Auditability also needs to take account of both qualitative and quantitative measures of a funded proposal’s success. Whilst quantitative reporting can be largely automated, qualitative assessments require engagement between proposers and the community.
 
 ### Insight: Auditability & Challenge Teams
 
