@@ -90,8 +90,6 @@ The treasury for this challenge has increased from $600,000 to $1,005,000 in ada
 
 Support for quality assurance of Developer ecosystem proposals was demonstrated in Fund 5 when my own proposal Quality-Assurance DAO was voted for.
 
-## 
-
 ## F6: Distributed decision making
 
 https://cardano.ideascale.com/a/campaign-home/26104
