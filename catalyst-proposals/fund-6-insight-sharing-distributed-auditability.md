@@ -90,9 +90,9 @@ Support for quality assurance of Developer ecosystem proposals was demonstrated 
 
 ## F6: Distributed decision making
 
-https://cardano.ideascale.com/a/campaign-home/26104
+{% embed url="https://cardano.ideascale.com/a/campaign-home/26104" %}
 
-$75,000 in ada
+#### $75,000 in ada
 
 How can we help the Catalyst community to get better at distributed decision making within the next two Catalyst rounds?
 
