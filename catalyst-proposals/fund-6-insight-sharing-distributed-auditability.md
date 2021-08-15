@@ -48,6 +48,8 @@ Project Catalyst Funded Proposals have no consistent reporting of what they inte
 
 ### Access to and use of fund data
 
+{% embed url="https://cardano.ideascale.com/a/dtd/Access-to-and-use-of-fund-data/365775-48088" %}
+
 Access to how often projects get funded and the total funding amount spent is expected in the next few months \(via Fund 5 “[Catalyst Site: Project tracking](https://cardano.ideascale.com/a/dtd/350699-48088)”\). But this data requires careful analysis and needs to be supplemented with specific metrics on how a funded proposal’s budget is spent and what stages have been achieved. It is also necessary to communicate the state of a funded proposal as widely as possible and in an accessible, consistent format.
 
 ###  Networks of trust and reputation
