@@ -58,6 +58,8 @@ Such an informal network risks introducing unwarranted assessments of trust and 
 
 ### Matching the quality approach of IOHK
 
+{% embed url="https://cardano.ideascale.com/a/dtd/Matching-quality-approach-of-IOHK/365773-48088" %}
+
 The challenge then is to raise the bar of quality in Project Catalyst to a level of maturity that ultimately matches the quality approach of IOHK with its peer-reviewed research and evidence-based methods. So, a high level of quality assurance becomes integral to the success and reputation of a funded proposal.
 
 ### Distributed Auditability
