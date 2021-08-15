@@ -52,6 +52,8 @@ Access to how often projects get funded and the total funding amount spent is ex
 
 ###  Networks of trust and reputation
 
+{% embed url="https://cardano.ideascale.com/a/dtd/Networks-of-trust-reputation/365777-48088" %}
+
 The de facto situation relies to a large extent on an informal network of trust and reputation. Consequently there is a significant amount of qualitative judgment, even where quantitative assessments are possible.
 
 Such an informal network risks introducing unwarranted assessments of trust and reputation. Community assessments and ultimately the decisions of voters may rest merely on past associations. There is the danger that after a few funding rounds such an informal network begins to establish itself as a permissioned culture that draws on a permissionless chain.
