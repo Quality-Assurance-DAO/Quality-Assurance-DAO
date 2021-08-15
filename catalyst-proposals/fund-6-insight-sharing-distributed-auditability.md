@@ -42,8 +42,6 @@ How to make the auditing process of funded proposals efficient, distributed, and
 
 ### Insight: Distributed Auditability
 
-Distributed Auditability
-
 #### Description
 
 Project Catalyst Funded Proposals have no consistent reporting of what they intend to deliver or how budgets are being spent. Reporting information is presented in a variety of formats, and this inhibits the general ADA holder/voter from easily assessing progress and quality of delivery.
