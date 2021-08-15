@@ -78,6 +78,8 @@ Distributed Auditability also needs to take account of both qualitative and quan
 
 ### Insight: Auditability & Challenge Teams
 
+{% embed url="https://cardano.ideascale.com/a/dtd/Challenge-Team-support/365574-48088" %}
+
 #### Description
 
 The announcement of “Challenge Teams” at the Catalyst Town Hall of 11th August 2021 \(Catalyst Fund6 Townhall \#1\) introduces a new dimension to this auditability challenge. This circumstance opens the possibility of funding to provide ancillary support for Challenge teams.
