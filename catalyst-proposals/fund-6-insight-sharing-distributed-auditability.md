@@ -98,7 +98,7 @@ There is massive potential in Challenge Teams leading by example. By making it d
 How can we create a positive developer experience that helps the developer focus on building successful apps?
 {% endhint %}
 
-### Insight : Auditability of the Developer ecosystem.
+### Insight : Auditability of the Developer ecosystem. In Draft
 
 ### Description
 
