@@ -8,11 +8,7 @@ description: 'Project Catalyst Fund 6, Insight Sharing - Distributed Auditabilit
 | :--- | :--- |
 | Subject | Insight Sharing - Distributed Auditability |
 
-![Text
-
-Description automatically generated](../.gitbook/assets/0.png)
-
-[Wikimedia Commons Image](https://commons.wikimedia.org/wiki/File:Ball_lightning.png)
+![Wikimedia Commons Image](../.gitbook/assets/0.png)
 
 | Author | Stephen Whitenstall |
 | :--- | :--- |
@@ -21,54 +17,6 @@ Description automatically generated](../.gitbook/assets/0.png)
 | Revision | 0 |
 
 Creative Commons Attribution
-
-[**Introduction**]() **3**
-
-[**F6: Improve and Grow Auditability**]() **3**
-
-[Insight: Distributed Auditability]() 3
-
-[Description]() 3
-
-[Insight: Auditability & Challenge Teams]() 4
-
-[Description]() 4
-
-[**F6: Developer ecosystem**]() **5**
-
-[Insight : Auditability of the Developer ecosystem.]() 5
-
-[Description]() 5
-
-[**F6: Distributed decision making**]() **6**
-
-[Insight Title : Auditability of Distributed decision making.]() 6
-
-[Description]() 6
-
-[**F6: Proposer outreach**]() **7**
-
-[Insight : Auditability of Distributed decision making.]() 7
-
-[Description]() 7
-
-[**F6: Catalyst value onboarding**]() **8**
-
-[Insight Title : Auditability of Catalyst value onboarding]() 8
-
-[Description]() 8
-
-[**F6: Metadata challenge**]() **9**
-
-[Insight : Auditability of Metadata challenge]() 9
-
-[Description]() 9
-
-[**F6: NFT Business models**]() **10**
-
-[Insight : Auditability of NFT Business models]() 10
-
-[Description]() 10
 
 ## Introduction
 
