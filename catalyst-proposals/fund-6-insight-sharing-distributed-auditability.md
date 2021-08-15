@@ -52,9 +52,15 @@ The de facto situation relies to a large extent on an informal network of trust 
 
 Such an informal network risks introducing unwarranted assessments of trust and reputation. Community assessments and ultimately the decisions of voters may rest merely on past associations. There is the danger that after a few funding rounds such an informal network begins to establish itself as a permissioned culture that draws on a permissionless chain.
 
+#### Matching the quality approach of IOHK
+
 The challenge then is to raise the bar of quality in Project Catalyst to a level of maturity that ultimately matches the quality approach of IOHK with its peer-reviewed research and evidence-based methods. So, a high level of quality assurance becomes integral to the success and reputation of a funded proposal.
 
+#### Distributed Auditability
+
 At its heart Project Catalyst is an experiment to develop distributed governance for the Cardano blockchain. So, meeting the challenge to improve and grow auditability requires a distributed approach. An effective and equitable distribution of auditability will require connections between the funded proposer and the community to be established, the communal development of transparent audit methods and constant iteration.
+
+#### Qualitative and quantitative measures
 
 Distributed Auditability also needs to take account of both qualitative and quantitative measures of a funded proposal’s success. Whilst quantitative reporting can be largely automated, qualitative assessments require engagement between proposers and the community.
 
