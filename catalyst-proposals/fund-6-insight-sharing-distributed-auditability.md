@@ -32,9 +32,9 @@ The insights shared here all concern the auditability of Project Catalyst funded
 
 ## F6: Improve and Grow Auditability
 
-https://cardano.ideascale.com/a/campaign-home/26119
+{% embed url="https://cardano.ideascale.com/a/campaign-home/26119" %}
 
-$100,000 in ada
+#### $100,000 in ada
 
 How to make the auditing process of funded proposals efficient, distributed, and transparent?
 
