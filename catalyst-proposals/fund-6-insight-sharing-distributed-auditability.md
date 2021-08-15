@@ -12,7 +12,7 @@ description: 'Project Catalyst Fund 6, Insight Sharing - Distributed Auditabilit
 
 | Author | Stephen Whitenstall |
 | :--- | :--- |
-| Published | 13/08/2021 |
+| Published | 15/08/2021 |
 | Version | 1 |
 | Revision | 0 |
 
