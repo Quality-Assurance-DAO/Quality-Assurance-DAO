@@ -44,3 +44,5 @@ description: 'Governance of Quality-Assurance DAO , Fund 5, Developer Ecosystem 
 
 ![](../.gitbook/assets/2021-08-13-13-.png)
 
+![](../.gitbook/assets/2021-08-13-14-.png)
+
