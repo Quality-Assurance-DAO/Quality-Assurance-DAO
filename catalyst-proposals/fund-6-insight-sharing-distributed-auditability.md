@@ -66,9 +66,7 @@ The announcement of “Challenge Teams” at the Catalyst Town Hall of 11th Augu
 
 This audibility challenge may also inform how Challenge Teams should be structured. Such as including some input from those who supported and voted for the presentation of the challenge. This would ameliorate the risk of introducing a Challenge "closed shop".
 
-There is massive potential in Challenge Teams leading by example. By making it desirable to demonstrate quality, by distributing knowledge and expertise and
-
-Make delegation dependent on demonstrable knowledge \(not social reputation\)
+There is massive potential in Challenge Teams leading by example. By making it desirable to demonstrate quality, by distributing knowledge and expertise.
 
 ## F6: Developer ecosystem
 
