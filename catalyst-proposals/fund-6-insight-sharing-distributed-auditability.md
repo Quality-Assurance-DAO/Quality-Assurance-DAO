@@ -46,27 +46,27 @@ How to make the auditing process of funded proposals efficient, distributed, and
 
 Project Catalyst Funded Proposals have no consistent reporting of what they intend to deliver or how budgets are being spent. Reporting information is presented in a variety of formats, and this inhibits the general ADA holder/voter from easily assessing progress and quality of delivery.
 
-#### Access to and use of fund data
+### Access to and use of fund data
 
 Access to how often projects get funded and the total funding amount spent is expected in the next few months \(via Fund 5 “[Catalyst Site: Project tracking](https://cardano.ideascale.com/a/dtd/350699-48088)”\). But this data requires careful analysis and needs to be supplemented with specific metrics on how a funded proposal’s budget is spent and what stages have been achieved. It is also necessary to communicate the state of a funded proposal as widely as possible and in an accessible, consistent format.
 
-####  Networks of trust and reputation
+###  Networks of trust and reputation
 
 The de facto situation relies to a large extent on an informal network of trust and reputation. Consequently there is a significant amount of qualitative judgment, even where quantitative assessments are possible.
 
 Such an informal network risks introducing unwarranted assessments of trust and reputation. Community assessments and ultimately the decisions of voters may rest merely on past associations. There is the danger that after a few funding rounds such an informal network begins to establish itself as a permissioned culture that draws on a permissionless chain.
 
-#### Matching the quality approach of IOHK
+### Matching the quality approach of IOHK
 
 The challenge then is to raise the bar of quality in Project Catalyst to a level of maturity that ultimately matches the quality approach of IOHK with its peer-reviewed research and evidence-based methods. So, a high level of quality assurance becomes integral to the success and reputation of a funded proposal.
 
-#### Distributed Auditability
+### Distributed Auditability
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Distributed-Auditability/365770-48088" %}
 
 At its heart Project Catalyst is an experiment to develop distributed governance for the Cardano blockchain. So, meeting the challenge to improve and grow auditability requires a distributed approach. An effective and equitable distribution of auditability will require connections between the funded proposer and the community to be established, the communal development of transparent audit methods and constant iteration.
 
-#### Qualitative and quantitative measures
+### Qualitative and quantitative measures
 
 Distributed Auditability also needs to take account of both qualitative and quantitative measures of a funded proposal’s success. Whilst quantitative reporting can be largely automated, qualitative assessments require engagement between proposers and the community.
 
