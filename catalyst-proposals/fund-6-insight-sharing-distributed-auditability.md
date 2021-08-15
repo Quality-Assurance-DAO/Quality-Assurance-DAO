@@ -154,7 +154,7 @@ How can we utilize transaction metadata to solve real world problems?
 
 ### Description
 
-## F6: NFT Business models  - In Draft
+## F6: NFT Business models
 
 $200,000 in ada
 
