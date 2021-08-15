@@ -88,7 +88,7 @@ The treasury for this challenge has increased from $600,000 to $1,005,000 in ada
 
 Support for quality assurance of Developer ecosystem proposals was demonstrated in Fund 5 when my own proposal Quality-Assurance DAO was voted for.
 
-## F6: Distributed decision making
+## F6: Distributed decision making - In Draft
 
 {% embed url="https://cardano.ideascale.com/a/campaign-home/26104" %}
 
@@ -102,7 +102,7 @@ How can we help the Catalyst community to get better at distributed decision mak
 
 ## 
 
-## F6: Proposer outreach
+## F6: Proposer outreach - In Draft
 
 $100,000 in ada
 
@@ -114,7 +114,7 @@ How can we encourage entrepreneurs from outside the Cardano ecosystem to submit 
 
 ## 
 
-## F6: Catalyst value onboarding
+## F6: Catalyst value onboarding  - In Draft
 
 $75,000 in ada
 
@@ -124,9 +124,7 @@ How can we encourage meaningful participation in Project Catalyst from community
 
 ### Description
 
-## 
-
-## F6: Metadata challenge
+## F6: Metadata challenge  - In Draft
 
 $100,000 in ada
 
@@ -136,7 +134,7 @@ How can we utilize transaction metadata to solve real world problems?
 
 ### Description
 
-## F6: NFT Business models
+## F6: NFT Business models  - In Draft
 
 $200,000 in ada
 
