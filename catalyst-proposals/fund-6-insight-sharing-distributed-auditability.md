@@ -50,6 +50,8 @@ Project Catalyst Funded Proposals have no consistent reporting of what they inte
 
 Access to how often projects get funded and the total funding amount spent is expected in the next few months \(via Fund 5 “[Catalyst Site: Project tracking](https://cardano.ideascale.com/a/dtd/350699-48088)”\). But this data requires careful analysis and needs to be supplemented with specific metrics on how a funded proposal’s budget is spent and what stages have been achieved. It is also necessary to communicate the state of a funded proposal as widely as possible and in an accessible, consistent format.
 
+####  Networks of trust and reputation
+
 The de facto situation relies to a large extent on an informal network of trust and reputation. Consequently there is a significant amount of qualitative judgment, even where quantitative assessments are possible.
 
 Such an informal network risks introducing unwarranted assessments of trust and reputation. Community assessments and ultimately the decisions of voters may rest merely on past associations. There is the danger that after a few funding rounds such an informal network begins to establish itself as a permissioned culture that draws on a permissionless chain.
