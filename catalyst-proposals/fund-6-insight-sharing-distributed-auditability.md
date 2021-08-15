@@ -20,7 +20,7 @@ Creative Commons Attribution
 
 ## Introduction
 
-The insight-sharing phase of Project Catalyst Funds allows people to give their perspectives on the challenges in the funding round before proposals are launched. This phase allows the community to brainstorm Challenge subjects, to inspire and inform proposers.
+The insight-sharing phase of Project Catalyst Funds allows people to share their perspectives on the challenges in a Catalyst funding round before proposals are launched. This phase allows the community to brainstorm Challenge subjects and to inspire and inform proposers.
 
 Insight-sharing specifically asks:
 
