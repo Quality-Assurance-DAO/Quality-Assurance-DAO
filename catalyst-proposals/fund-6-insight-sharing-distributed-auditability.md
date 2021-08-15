@@ -36,7 +36,9 @@ The insights shared here all concern the auditability of Project Catalyst funded
 
 #### $100,000 in ada
 
+{% hint style="success" %}
 How to make the auditing process of funded proposals efficient, distributed, and transparent?
+{% endhint %}
 
 ### Insight: Distributed Auditability
 
