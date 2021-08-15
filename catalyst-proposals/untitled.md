@@ -60,6 +60,10 @@ When do you expect the scope of the proposal to be fully implemented?
 
 Developer Ecosystem
 
+### Were you previously successful in any of the past funding rounds? Like Fund1, 2, 3,4? 
+
+No
+
 ![](../.gitbook/assets/2021-08-13-5-.png)
 
 ![](../.gitbook/assets/2021-08-13-6-.png)
