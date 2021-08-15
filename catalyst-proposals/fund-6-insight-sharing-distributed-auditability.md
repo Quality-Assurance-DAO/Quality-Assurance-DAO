@@ -72,11 +72,13 @@ Make delegation dependent on demonstrable knowledge \(not social reputation\)
 
 ## F6: Developer ecosystem
 
-https://cardano.ideascale.com/a/campaign-home/26104
+{% embed url="https://cardano.ideascale.com/a/campaign-home/26104" %}
 
-$1,005,000 in ada
+#### $1,005,000 in ada
 
+{% hint style="success" %}
 How can we create a positive developer experience that helps the developer focus on building successful apps?
+{% endhint %}
 
 ### Insight : Auditability of the Developer ecosystem.
 
