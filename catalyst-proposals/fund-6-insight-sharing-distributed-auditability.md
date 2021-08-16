@@ -88,7 +88,7 @@ This audibility challenge may also inform how Challenge Teams should be structur
 
 There is massive potential in Challenge Teams leading by example. By making it desirable to demonstrate quality, by distributing knowledge and expertise.
 
-## F6: Developer ecosystem - In Draft
+## F6: Developer ecosystem
 
 {% embed url="https://cardano.ideascale.com/a/campaign-home/26104" %}
 
