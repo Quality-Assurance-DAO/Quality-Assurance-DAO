@@ -100,11 +100,11 @@ How can we create a positive developer experience that helps the developer focus
 
 ### Insight : Auditability of the Developer ecosystem. In Draft
 
+The treasury for this challenge has increased from $600,000 to $1,005,000 in ada.
+
 ### Description
 
-Auditability in the context of the Developer ecosystem challenge is a natural complement to its positive success metrics. Well-documented and tracked projects provide value to other developers in the Cardano community, reduce duplication of effort, contribute to a lively open-source culture on GitHub and provide assurance to enterprise dev managers that a project is scalable.
-
-The treasury for this challenge has increased from $600,000 to $1,005,000 in ada.
+Auditability in the context of the Developer ecosystem challenge is directly related to its positive success metrics. Well-documented and tracked projects provide value to other developers in the Cardano community, reduce duplication of effort, contribute to a lively open-source culture on GitHub and provide assurance to enterprise dev managers that a project is scalable.
 
 Support for quality assurance of Developer ecosystem proposals was demonstrated in Fund 5 when my own proposal Quality-Assurance DAO was voted for.
 
