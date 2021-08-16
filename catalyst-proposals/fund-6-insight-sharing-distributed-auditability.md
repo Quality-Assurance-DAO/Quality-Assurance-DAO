@@ -162,6 +162,8 @@ What non-Art use cases of NFTs can distinguish Cardano as the blockchain of choi
 
 ### Insight : Auditability of NFT Business models
 
+{% embed url="https://cardano.ideascale.com/a/dtd/Auditability-of-NFT-Business-models/365792-48088?submitted=1" %}
+
 ### Description
 
 To succeed NFT Business models need to assure their customers and clients of their own quality, reliance, robustness, and track-record.
