@@ -98,7 +98,7 @@ There is massive potential in Challenge Teams leading by example. By making it d
 How can we create a positive developer experience that helps the developer focus on building successful apps?
 {% endhint %}
 
-### Insight : Auditability of the Developer ecosystem. In Draft
+### Insight : Auditability and the Developer ecosystem.
 
 The treasury for this challenge has increased from $600,000 to $1,005,000 in ada.
 
