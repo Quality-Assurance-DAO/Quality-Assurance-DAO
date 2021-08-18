@@ -164,7 +164,9 @@ How can we utilize transaction metadata to solve real world problems?
 
 $200,000 in ada
 
+{% hint style="success" %}
 What non-Art use cases of NFTs can distinguish Cardano as the blockchain of choice for NFT based businesses?
+{% endhint %}
 
 ### Insight : Auditability of NFT Business models
 
