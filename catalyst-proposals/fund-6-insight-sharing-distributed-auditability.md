@@ -124,6 +124,8 @@ How can we help the Catalyst community to get better at distributed decision mak
 
 For people to participate in decision making there must be as few barriers as possible to entry. This implies ease of access to participation & access to clear, timely communication of the decision-making process. Those involved in decision making are responsible for its accessibility & clear communication of what is being discussed must be integral to every meeting. Otherwise, decision makers risk becoming inward looking and the community being indifferent to its activities.
 
+{% embed url="https://cardano.ideascale.com/a/dtd/Communication-of-decision-making/365916-48088" %}
+
 ## F6: Proposer outreach - In Draft
 
 $100,000 in ada
