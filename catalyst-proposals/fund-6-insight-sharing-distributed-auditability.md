@@ -118,9 +118,11 @@ Support for quality assurance of Developer ecosystem proposals was demonstrated 
 
 How can we help the Catalyst community to get better at distributed decision making within the next two Catalyst rounds?
 
-### Insight Title : Auditability of Distributed decision making.
+### Insight Title : Communication of decision making.
 
 ### Description
+
+
 
 ## 
 
