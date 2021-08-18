@@ -98,7 +98,7 @@ There is massive potential in Challenge Teams leading by example. By making it d
 How can we create a positive developer experience that helps the developer focus on building successful apps?
 {% endhint %}
 
-### Insight 6: Auditability and the Developer ecosystem.
+### 6\) Auditability and the Developer ecosystem.
 
 The treasury for this challenge has increased from $600,000 to $1,005,000 in ada.
 
@@ -120,7 +120,7 @@ Support for quality assurance of Developer ecosystem proposals was demonstrated 
 How can we help the Catalyst community to get better at distributed decision making within the next two Catalyst rounds?
 {% endhint %}
 
-### Insight Title : Communication of decision making.
+### 7\) Communication of decision making.
 
 ### Description
 
@@ -136,7 +136,7 @@ $200,000 in ada
 What non-Art use cases of NFTs can distinguish Cardano as the blockchain of choice for NFT based businesses?
 {% endhint %}
 
-### Insight : Auditability of NFT Business models
+### 8\) Auditability of NFT Business models
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Auditability-of-NFT-Business-models/365792-48088?submitted=1" %}
 
