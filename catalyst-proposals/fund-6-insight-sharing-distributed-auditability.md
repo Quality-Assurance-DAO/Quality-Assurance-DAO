@@ -40,7 +40,7 @@ The insights shared here all concern the auditability of Project Catalyst funded
 How to make the auditing process of funded proposals efficient, distributed, and transparent?
 {% endhint %}
 
-### Insight: Distributed Auditability
+### Distributed Auditability
 
 #### Description
 
