@@ -110,7 +110,7 @@ Support for quality assurance of Developer ecosystem proposals was demonstrated 
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Auditability-of-Developer-ecosystem/365916-48088?submitted=1" %}
 
-## F6: Distributed decision making - In Draft
+## F6: Distributed decision making
 
 {% embed url="https://cardano.ideascale.com/a/campaign-home/26104" %}
 
@@ -122,9 +122,7 @@ How can we help the Catalyst community to get better at distributed decision mak
 
 ### Description
 
-
-
-## 
+For people to participate in decision making there must be as few barriers as possible to entry. This implies ease of access to participation & access to clear, timely communication of the decision-making process. Those involved in decision making are responsible for its accessibility & clear communication of what is being discussed must be integral to every meeting. Otherwise, decision makers risk becoming inward looking and the community being indifferent to its activities.
 
 ## F6: Proposer outreach - In Draft
 
