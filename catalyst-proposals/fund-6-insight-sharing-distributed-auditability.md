@@ -128,38 +128,6 @@ For people to participate in decision making there must be as few barriers as po
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Communication-of-decision-making/365916-48088" %}
 
-## F6: Proposer outreach - In Draft
-
-$100,000 in ada
-
-How can we encourage entrepreneurs from outside the Cardano ecosystem to submit proposals to Catalyst in the next two funds?
-
-### Insight : Auditability of Distributed decision making.
-
-### Description
-
-## 
-
-## F6: Catalyst value onboarding  - In Draft
-
-$75,000 in ada
-
-How can we encourage meaningful participation in Project Catalyst from community members in the next two funds?
-
-### Insight Title : Auditability of Catalyst value onboarding
-
-### Description
-
-## F6: Metadata challenge  - In Draft
-
-$100,000 in ada
-
-How can we utilize transaction metadata to solve real world problems?
-
-### Insight : Auditability of Metadata challenge
-
-### Description
-
 ## F6: NFT Business models
 
 $200,000 in ada
