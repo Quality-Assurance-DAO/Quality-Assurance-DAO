@@ -116,7 +116,9 @@ Support for quality assurance of Developer ecosystem proposals was demonstrated 
 
 #### $75,000 in ada
 
+{% hint style="success" %}
 How can we help the Catalyst community to get better at distributed decision making within the next two Catalyst rounds?
+{% endhint %}
 
 ### Insight Title : Communication of decision making.
 
