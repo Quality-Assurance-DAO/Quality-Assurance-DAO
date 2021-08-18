@@ -102,7 +102,7 @@ How can we create a positive developer experience that helps the developer focus
 
 The treasury for this challenge has increased from $600,000 to $1,005,000 in ada.
 
-### Description
+#### Description
 
 Auditability in the context of the Developer ecosystem challenge is directly related to its positive success metrics. Well-documented and tracked projects provide value to other developers in the Cardano community, reduce duplication of effort, contribute to a lively open-source culture on GitHub and provide assurance to enterprise dev managers that a project is scalable.
 
@@ -122,7 +122,7 @@ How can we help the Catalyst community to get better at distributed decision mak
 
 ### 7\) Communication of decision making.
 
-### Description
+#### Description
 
 For people to participate in decision making there must be as few barriers as possible to entry. This implies ease of access to participation & access to clear, timely communication of the decision-making process. Those involved in decision making are responsible for its accessibility & clear communication of what is being discussed must be integral to every meeting. Otherwise, decision makers risk becoming inward looking and the community being indifferent to its activities.
 
