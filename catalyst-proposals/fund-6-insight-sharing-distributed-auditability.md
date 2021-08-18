@@ -108,7 +108,7 @@ Auditability in the context of the Developer ecosystem challenge is directly rel
 
 Support for quality assurance of Developer ecosystem proposals was demonstrated in Fund 5 when my own proposal Quality-Assurance DAO was voted for.
 
-{% embed url="https://cardano.ideascale.com/a/dtd/Auditability-of-Developer-ecosystem/365916-48088?submitted=1" %}
+{% embed url="https://cardano.ideascale.com/a/dtd/Auditability-of-Developer-ecosystem/366374-48088" %}
 
 ## F6: Distributed decision making
 
