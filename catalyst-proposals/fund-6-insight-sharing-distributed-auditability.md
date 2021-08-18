@@ -46,13 +46,13 @@ How to make the auditing process of funded proposals efficient, distributed, and
 
 Project Catalyst Funded Proposals have no consistent reporting of what they intend to deliver or how budgets are being spent. Reporting information is presented in a variety of formats, and this inhibits the general ADA holder/voter from easily assessing progress and quality of delivery.
 
-### Access to and use of fund data
+### 1\) Access to and use of fund data
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Access-to-and-use-of-fund-data/365775-48088" %}
 
 Access to how often projects get funded and the total funding amount spent is expected in the next few months \(via Fund 5 “[Catalyst Site: Project tracking](https://cardano.ideascale.com/a/dtd/350699-48088)”\). But this data requires careful analysis and needs to be supplemented with specific metrics on how a funded proposal’s budget is spent and what stages have been achieved. It is also necessary to communicate the state of a funded proposal as widely as possible and in an accessible, consistent format.
 
-###  Networks of trust and reputation
+###  2\) Networks of trust and reputation
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Networks-of-trust-reputation/365777-48088" %}
 
@@ -60,13 +60,13 @@ The de facto situation relies to a large extent on an informal network of trust 
 
 Such an informal network risks introducing unwarranted assessments of trust and reputation. Community assessments and ultimately the decisions of voters may rest merely on past associations. There is the danger that after a few funding rounds such an informal network begins to establish itself as a permissioned culture that draws on a permissionless chain.
 
-### Matching the quality approach of IOHK
+### 3\) Matching the quality approach of IOHK
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Matching-quality-approach-of-IOHK/365773-48088" %}
 
 The challenge then is to raise the bar of quality in Project Catalyst to a level of maturity that ultimately matches the quality approach of IOHK with its peer-reviewed research and evidence-based methods. So, a high level of quality assurance becomes integral to the success and reputation of a funded proposal.
 
-### Distributed Auditability
+### 4\) Distributed Auditability
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Distributed-Auditability/365770-48088" %}
 
@@ -76,7 +76,7 @@ At its heart Project Catalyst is an experiment to develop distributed governance
 
 Distributed Auditability also needs to take account of both qualitative and quantitative measures of a funded proposal’s success. Whilst quantitative reporting can be largely automated, qualitative assessments require engagement between proposers and the community.
 
-### Insight: Auditability & Challenge Teams
+### 5\) Auditability & Challenge Teams
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Challenge-Team-support/365574-48088" %}
 
@@ -98,7 +98,7 @@ There is massive potential in Challenge Teams leading by example. By making it d
 How can we create a positive developer experience that helps the developer focus on building successful apps?
 {% endhint %}
 
-### Insight : Auditability and the Developer ecosystem.
+### Insight 6: Auditability and the Developer ecosystem.
 
 The treasury for this challenge has increased from $600,000 to $1,005,000 in ada.
 
