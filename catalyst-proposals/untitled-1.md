@@ -1,8 +1,8 @@
 ---
-description: Distributed Auditability
+description: Fund 6 - Auditability Proposal - Distributed Auditability
 ---
 
-# Project Catalyst Fund 6 - Auditability Challenge
+# Fund 6 - Auditability Proposal - Distributed Auditability
 
 | Title | Project Catalyst Fund 6 - Auditability Challenge |
 | :--- | :--- |
