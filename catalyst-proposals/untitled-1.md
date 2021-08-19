@@ -19,20 +19,6 @@ description: Fund 6 - Auditability Proposal - Distributed Auditability
 
 Creative Commons Attribution
 
-[Problem statement: 3]()
-
-[Describe your solution to the problem. 3]()
-
-[Relevant experience 3]()
-
-[Website/GitHub repository \(not required\) 4]()
-
-[Detailed Plan 4]()
-
-[Estimated cost: 4]()
-
-[Requested funds in USD: 4]()
-
 ## **Problem statement:**
 
 No common audit standards in funded proposals.
