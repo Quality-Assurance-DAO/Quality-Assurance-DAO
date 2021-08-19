@@ -17,7 +17,7 @@
 
 ## Catalyst Proposals
 
-* [Untitled](catalyst-proposals/untitled-1.md)
+* [Project Catalyst Fund 6 - Auditability Challenge](catalyst-proposals/untitled-1.md)
 * [Fund 6, Insight Sharing - Distributed Auditability](catalyst-proposals/fund-6-insight-sharing-distributed-auditability.md)
 * [Fund 5, Developer Ecosystem Proposal](catalyst-proposals/project-catalyst-developer-ecosystem-proposal.md)
 * [Fund 5, Developer Ecosystem Proposal - Governance](catalyst-proposals/untitled.md)

@@ -1,18 +1,20 @@
-# Untitled
+---
+description: Distributed Auditability
+---
+
+# Project Catalyst Fund 6 - Auditability Challenge
 
 | Title | Project Catalyst Fund 6 - Auditability Challenge |
 | :--- | :--- |
 | Subject | Distributed Auditability |
 
-![A screenshot of a computer
+![ Continuous delivery - Wikimedia Commons](../.gitbook/assets/0%20%281%29.png)
 
-Description automatically generated with medium confidence](../.gitbook/assets/0%20%281%29.png)
 
- David Bohl, CC0, via Wikimedia Commons
 
 | **Author** | Stephen Whitenstall |
 | :--- | :--- |
-| **Published** | 19/04/2021 |
+| **Published** | 19/08/2021 |
 | **Version** | Alpha Version 1.0 |
 
 Creative Commons Attribution
