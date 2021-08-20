@@ -19,6 +19,10 @@ description: Fund 6 - Auditability Proposal - Distributed Auditability
 
 Creative Commons Attribution
 
+## **Ideascale link :** 
+
+{% embed url="https://cardano.ideascale.com/a/dtd/Distributed-Auditability/366707-48088" %}
+
 ## **Problem statement:**
 
 No common audit standards in funded proposals.
