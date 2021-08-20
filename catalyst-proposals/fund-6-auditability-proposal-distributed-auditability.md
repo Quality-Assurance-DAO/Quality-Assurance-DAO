@@ -59,7 +59,13 @@ This Fund 6 Auditability proposal will draw upon the successful Fund 5 Developer
 
 ### Phase 1: Research and prototyping – present to November 2021
 
+#### Research
+
 How different teams and individuals report the progress of their funded proposals will be researched. This will be done in collaboration with the funded cohort, IOG and Catalyst ecosystem toolmakers.
+
+#### Prototyping
+
+
 
 ## **Estimated cost**:
 
