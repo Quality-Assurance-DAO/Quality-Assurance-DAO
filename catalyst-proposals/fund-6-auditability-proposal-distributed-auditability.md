@@ -65,6 +65,10 @@ How different teams and individuals report the progress of their funded proposal
 
 #### Prototyping
 
+Stephen provides support to Catalst Swarm by documenting and tracking it's activities 
+
+
+
 
 
 ## **Estimated cost**:
