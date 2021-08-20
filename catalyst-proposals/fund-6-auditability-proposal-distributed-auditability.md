@@ -57,7 +57,7 @@ In August 2021 the QA-DAO proposal was successful in receiving votes and was fun
 
 This Fund 6 Auditability proposal will draw upon the successful Fund 5 Developer ecosystem proposal for research and its path through the proposal process will be tracked and documented as per the previous proposal.
 
-### Phase 1: Research and prototyping – present to November 2021
+### Phase 0 : Research and prototyping – present to November 2021
 
 #### Research
 
