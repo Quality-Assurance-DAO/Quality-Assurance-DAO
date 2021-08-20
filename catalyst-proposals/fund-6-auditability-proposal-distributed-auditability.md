@@ -75,7 +75,11 @@ Stephen provides support to Catalyst Swarm by documenting and tracking it's acti
 
 #### Automation
 
-The ongoing experience of working with a widely distributed team working on many different projects has led to automation solutions such as Issue templates and forms.
+The ongoing experience of working with a widely distributed team working on many different projects has led to automation solutions such as Issue templates and forms. This is now being extended by using Continuous Integration tools such as GitHub Actions.
+
+
+
+
 
 
 
