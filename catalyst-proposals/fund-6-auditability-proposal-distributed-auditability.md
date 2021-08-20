@@ -49,6 +49,18 @@ Build an automated distributed auditability system.
 
 At its heart Project Catalyst is an experiment to develop distributed governance for the Cardano blockchain. So, meeting the challenge to improve and grow auditability requires a distributed approach. An effective and equitable distribution of auditability will require connections between the funded proposer and the community to be established, the communal development of transparent audit methods and constant iteration.
 
+### Roadmap
+
+### The present – Fund 5 QA-DAO proposal and community collaborations.
+
+In August 2021 the QA-DAO proposal was successful in receiving votes and was funded. This confirmed that voters wish to see Quality Assurance Implemented in Project Catalyst and provides support for this proposal.
+
+This Fund 6 Auditability proposal will draw upon the successful Fund 5 Developer ecosystem proposal for research and its path through the proposal process will be tracked and documented as per the previous proposal.
+
+### Phase 1: Research and prototyping – present to November 2021
+
+How different teams and individuals report the progress of their funded proposals will be researched. This will be done in collaboration with the funded cohort, IOG and Catalyst ecosystem toolmakers.
+
 ## **Estimated cost**:
 
 TBA
