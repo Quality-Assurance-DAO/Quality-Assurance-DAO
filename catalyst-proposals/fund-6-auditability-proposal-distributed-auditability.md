@@ -47,6 +47,8 @@ https://www.linkedin.com/in/stephen-whitenstall-166727210/
 
 ## **Website/GitHub repository \(not required\)**
 
+{% embed url="https://github.com/Quality-Assurance-DAO/F6-Improve-and-Grow-Auditability-Proposal-Distributed-Auditability" caption="GitHub Repo" %}
+
 ## **Detailed Plan**
 
 Build an automated distributed auditability system.
