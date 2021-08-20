@@ -69,7 +69,7 @@ The initial intention of the Fund 5 - QA-DAO proposal is to examine how the Fund
 
 Stephen provides support to Catalyst Swarm by documenting and tracking it's activities. This has been done continuously since 7th July 2021 by raising GitHub issues that track Core Swarm Activities such as meetings, After Town Halls, events \(Idea Fest\) and Saturday Swarm Sessions.
 
-The ongoing experience of working with a widely distributed team working on many different projects has led to automation solutions such as Issue templates and forms. This is now being extended by using Continuous Integration tools such as GitHub Actions.
+The ongoing experience of working with a widely distributed team working on many different projects has led to dewveloping automation solutions such as Issue templates and forms. This is now being extended by using Continuous Integration tools such as GitHub Actions.
 
 ### Auditability Workflows
 
