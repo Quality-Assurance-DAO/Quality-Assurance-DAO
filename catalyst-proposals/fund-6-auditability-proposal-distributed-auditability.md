@@ -79,6 +79,8 @@ The ongoing experience of working with a widely distributed team working on many
 
 The data from funded cohort reporting and qualitative research into how reporting varies will inform the design of auditability workflows. An auditability workflow would model some of the working practices of particpants, the metrics they report on, whether this fit into their own documentation and how they might benefit from automation.
 
+### Phase 1 - Funded Proposal - November 2021 to February 2022
+
 
 
  
