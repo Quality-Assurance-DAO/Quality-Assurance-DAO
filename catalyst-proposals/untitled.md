@@ -8,7 +8,9 @@ description: 'Governance of Quality-Assurance DAO , Fund 5, Developer Ecosystem 
 
 This section will report the progress of the **Fund 5 - Quality Assurance DAO** project as it documents and assess the Fund 5 Governance process. This will include documenation of the pathway of a funded cohort and an assessment of funded cohort reporting requirements.
 
-## Cohort On-boarding
+## Cohort On-boarding - Email Survey 
+
+
 
 ## Email
 
