@@ -65,29 +65,33 @@ This Fund 6 Auditability proposal will draw upon the successful Fund 5 Developer
 
 ### Phase 0 : Research and prototyping – present to November 2021
 
-#### Research
+### 0.1 Research
 
 How different teams and individuals report the progress of their funded proposals will be researched. This will be done in collaboration with the funded cohort, IOG and Catalyst ecosystem toolmakers.
 
 The initial intention of the Fund 5 - QA-DAO proposal is to examine how the Fund 5 - Developer Ecosystem  cohort reports its progress. 
 
-#### Prototyping
+### 0.2 Prototyping
 
 Stephen provides support to Catalyst Swarm by documenting and tracking it's activities. This has been done continuously since 7th July 2021 by raising GitHub issues that track Core Swarm Activities such as meetings, After Town Halls, events \(Idea Fest\) and Saturday Swarm Sessions.
 
+![Catalyst-Swarm Issue Templates](../.gitbook/assets/2021-08-21-2-.png)
+
+![Catalyst-Swarm Project Board](../.gitbook/assets/2021-08-21-3-.png)
+
 The ongoing experience of working with a widely distributed team working on many different projects has led to developing automation solutions such as Issue templates and forms. This is now being extended by using Continuous Integration tools such as GitHub Actions.
 
-### Auditability Workflows
+### 0.3 Auditability Workflows
 
 The data from funded cohort reporting and qualitative research \(into how reporting varies\) will inform the design of auditability workflows. An auditability workflow will model the working practices of participants, the metrics they report on, whether this fit into their own documentation and how they might benefit from automation.
 
 ### Phase 1 - Funded Proposal - November 2021 to February 2022
 
-### Auditability Workshops
+### 1.1 Auditability Workshops
 
 Once funded Distributed Auditability will offer or participate in workshops with the funded cohort on discovering their workflows and examining how these may be documented, reported on and automated. This part of the proposal may be offered in collaboration with a community F6: DLT Entrepreneurship Toolbox proposal.
 
-### Continuous Integration Development
+### 1.2 Continuous Integration Development
 
 Building on Core Swarm prototypes from Phase 0 specific auditing workflows will be automated using GitHub Actions.
 
