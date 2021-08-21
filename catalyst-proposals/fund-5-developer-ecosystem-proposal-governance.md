@@ -25,4 +25,7 @@ This section will report the progress of the **Fund 5 - Quality Assurance DAO** 
 | **Ideascale Username** | @swhitenstall |
 | **Which challenge were you successful in ?** | Developer Ecosystem |
 | **Were you previously successful in any of the past funding rounds? Like Fund1, 2, 3,4?** | No |
+| Last Name | Whitenstall |
+| First Name | Stephen |
+|  |  |
 
