@@ -87,7 +87,11 @@ The data from funded cohort reporting and qualitative research \(into how report
 
 Once funded Distributed Auditability will offer or participate in workshops with the funded cohort on discovering their workflows and examining how these may be documented, reported on and automated. This part of the proposal may be offered in collaboration with a community F6: DLT Entrepreneurship Toolbox proposal.
 
-Contious Integartion Development
+### Continuous Integration Development
+
+Building on prototypes from Phase 0
+
+
 
 
 
