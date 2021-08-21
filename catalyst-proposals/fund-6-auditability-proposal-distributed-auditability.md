@@ -91,6 +91,14 @@ Once funded Distributed Auditability will offer or participate in workshops with
 
 Building on prototypes from Phase 0 specific auditing workflows will be automated using GitHub Actions.
 
+![Example of a GitHub Action automation of Team Activities Documentation](../.gitbook/assets/2021-08-21-1-.png)
+
+
+
+
+
+
+
 
 
 
