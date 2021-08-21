@@ -14,5 +14,6 @@ This section will report the progress of the **Fund 5 - Quality Assurance DAO** 
 | :--- | :--- |
 | Ideascale Project Title | Quality Assurance DAO |
 | Short Description of Project | QA Assessment of Catalyst Proposal Process. |
+| Specific Industry | Quality Assurance / Information Technology |
 |  |  |
 
