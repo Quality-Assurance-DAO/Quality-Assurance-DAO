@@ -12,6 +12,8 @@ This section will report the progress of the **Fund 5 - Quality Assurance DAO** 
 
 
 
+
+
 ## Email
 
 ![](../.gitbook/assets/2021-08-13.png)
