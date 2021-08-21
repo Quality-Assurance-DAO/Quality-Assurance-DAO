@@ -35,7 +35,7 @@ Funded reporting is manual.
 
 Identify common community standards.
 
-Incentivise and ease evaluation
+Incentivize and ease evaluation
 
 Automate funded proposal reporting.
 
