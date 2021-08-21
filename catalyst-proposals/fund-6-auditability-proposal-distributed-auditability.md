@@ -85,7 +85,7 @@ The data from funded cohort reporting and qualitative research \(into how report
 
 ### Auditability Workshops
 
-Once funded Distributed Auditability will offer or participate in workshops with the funded cohort on discovering their workflows and examining how these may be documented, reported on and automated. This part of the proposal may be offered in colloboartion with a community F6: DLT Entrepreneurship Toolbox proposal.
+Once funded Distributed Auditability will offer or participate in workshops with the funded cohort on discovering their workflows and examining how these may be documented, reported on and automated. This part of the proposal may be offered in collaboration with a community F6: DLT Entrepreneurship Toolbox proposal.
 
 
 
