@@ -89,7 +89,9 @@ Once funded Distributed Auditability will offer or participate in workshops with
 
 ### Continuous Integration Development
 
-Building on prototypes from Phase 0
+Building on prototypes from Phase 0 specific auditing workflows will be automated using GitHub Actions.
+
+
 
 
 
