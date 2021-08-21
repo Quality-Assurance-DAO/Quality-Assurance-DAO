@@ -83,11 +83,7 @@ The data from funded cohort reporting and qualitative research \(into how report
 
 ### Phase 1 - Funded Proposal - November 2021 to February 2022
 
-Once funded Distributed Auditability 
-
-
-
- 
+Once funded Distributed Auditability will offer workshops with funded cohort  
 
 
 
