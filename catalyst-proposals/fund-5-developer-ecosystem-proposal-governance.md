@@ -10,7 +10,9 @@ This section will report the progress of the **Fund 5 - Quality Assurance DAO** 
 
 ## Cohort On-boarding - Email Survey
 
-| xxxx | xxx |
+| Question | Answer |
 | :--- | :--- |
-| xxx | xx |
+| Ideascale Project Title | Quality Assurance DAO |
+| Short Description of Project | QA Assessment of Catalyst Proposal Process. |
+|  |  |
 
