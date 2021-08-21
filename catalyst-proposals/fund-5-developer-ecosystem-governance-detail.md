@@ -1,9 +1,5 @@
 # Fund 5, Developer Ecosystem - Governance Detail
 
-
-
-
-
 ## Email
 
 ![](../.gitbook/assets/2021-08-13.png)
@@ -12,53 +8,51 @@
 
 ## General Project Information
 
-### What is your project title as it appears on Ideascale? 
+### What is your project title as it appears on Ideascale?
 
 Quality-Assurance-DAO
 
 ![](../.gitbook/assets/2021-08-13-2-.png)
 
-### Please, provide ONE sentence description of your project that best characterizes its purpose and intent.  
+### Please, provide ONE sentence description of your project that best characterizes its purpose and intent.
 
-QA Assessment of Catalyst Proposal Process. 
+QA Assessment of Catalyst Proposal Process.
 
-### What specific industry does your proposal cater to?  
+### What specific industry does your proposal cater to?
 
-Quality Assurance / Information Technology 
+Quality Assurance / Information Technology
 
-### Who are the end users of your proposal project? \* Everyone, governments, enterprises, etc. 
+### Who are the end users of your proposal project? \* Everyone, governments, enterprises, etc.
 
 Project Catalyst Voters, Community, Proposers, Implementers and Community Advisors.
 
 ![](../.gitbook/assets/2021-08-13-3-.png)
 
-
-
-### How many members does your team have today? 
+### How many members does your team have today?
 
 1 \(yourself\)
 
 ### What is your current planned implementation/delivery date?
 
-When do you expect the scope of the proposal to be fully implemented? 
+When do you expect the scope of the proposal to be fully implemented?
 
 29/09/2021
 
 ![](../.gitbook/assets/2021-08-13-4-.png)
 
-### Please provide a link to your Catalyst proposal on Ideascale. 
+### Please provide a link to your Catalyst proposal on Ideascale.
 
- [https://cardano.ideascale.com/a/dtd/Quality-Assurance-DAO/351678-48088](https://cardano.ideascale.com/a/dtd/Quality-Assurance-DAO/351678-48088) 
+[https://cardano.ideascale.com/a/dtd/Quality-Assurance-DAO/351678-48088](https://cardano.ideascale.com/a/dtd/Quality-Assurance-DAO/351678-48088)
 
-### What is your primary Ideascale username that published the proposal?  
+### What is your primary Ideascale username that published the proposal?
 
-@swhitenstall 
+@swhitenstall
 
 ### Which challenge were you successful in ?
 
 Developer Ecosystem
 
-### Were you previously successful in any of the past funding rounds? Like Fund1, 2, 3,4? 
+### Were you previously successful in any of the past funding rounds? Like Fund1, 2, 3,4?
 
 No
 
@@ -87,6 +81,4 @@ No
 ![](../.gitbook/assets/2021-08-13-13-.png)
 
 ![](../.gitbook/assets/2021-08-13-14-.png)
-
-
 
