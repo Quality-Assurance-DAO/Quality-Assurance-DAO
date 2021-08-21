@@ -12,8 +12,13 @@ This section will report the progress of the **Fund 5 - Quality Assurance DAO** 
 
 | Question | Answer |
 | :--- | :--- |
-| Ideascale Project Title | Quality Assurance DAO |
-| Short Description of Project | QA Assessment of Catalyst Proposal Process. |
-| Specific Industry | Quality Assurance / Information Technology |
+| **Ideascale Project Title** | Quality Assurance DAO |
+| **Short Description of Project** | QA Assessment of Catalyst Proposal Process. |
+| **Specific Industry** | Quality Assurance / Information Technology |
+| **End users** | Project Catalyst Voters, Community, Proposers, Implementers and Community Advisors. |
+| No. Member\(s\) | 1 |
+| Implementation Date | 29/09/2021 |
+| Link to Ideascale Proposal | [https://cardano.ideascale.com/a/dtd/Quality-Assurance-DAO/351678-48088](https://cardano.ideascale.com/a/dtd/Quality-Assurance-DAO/351678-48088) |
+| Ideascale Username | @swhitenstall |
 |  |  |
 
