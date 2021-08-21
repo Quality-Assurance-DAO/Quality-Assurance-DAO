@@ -10,7 +10,7 @@ This section will report the progress of the **Fund 5 - Quality Assurance DAO** 
 
 ## Cohort On-boarding - Email Survey
 
-|  |  |
+| xxxx | xxx |
 | :--- | :--- |
-|  |  |
+| xxx | xx |
 
