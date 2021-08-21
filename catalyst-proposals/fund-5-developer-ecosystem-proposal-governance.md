@@ -8,8 +8,8 @@ description: 'Governance of Quality-Assurance DAO , Fund 5, Developer Ecosystem 
 
 This section will report the progress of the **Fund 5 - Quality Assurance DAO** project as it documents and assesses the **Fund 5 Governance process**. This will include documentation of :
 
-- The pathway of a funded cohort and 
-- An assessment of funded cohort reporting requirements.
+* The pathway of a funded cohort and 
+* An assessment of funded cohort reporting requirements.
 
 ## Cohort On-boarding - Email Survey
 
@@ -23,5 +23,6 @@ This section will report the progress of the **Fund 5 - Quality Assurance DAO** 
 | Implementation Date | 29/09/2021 |
 | Link to Ideascale Proposal | [https://cardano.ideascale.com/a/dtd/Quality-Assurance-DAO/351678-48088](https://cardano.ideascale.com/a/dtd/Quality-Assurance-DAO/351678-48088) |
 | Ideascale Username | @swhitenstall |
-|  |  |
+| Which challenge were you successful in ? | Developer Ecosystem |
+| Were you previously successful in any of the past funding rounds? Like Fund1, 2, 3,4? | No |
 
