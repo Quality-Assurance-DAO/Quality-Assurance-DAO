@@ -2,7 +2,7 @@
 description: Homeless Hub Fund 6 Proposal
 ---
 
-# F6: Scale-UP Cardano's Community Hubs - Homeless Hub
+# Fund 6: Scale-UP Cardano's Community Hubs - Homeless Hub
 
 | Title | F6: Scale-UP Cardano's Community Hubs |
 | :--- | :--- |
