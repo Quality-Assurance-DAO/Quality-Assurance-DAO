@@ -20,6 +20,12 @@ Creative Commons Attribution
 
 {% embed url="https://cardano.ideascale.com/a/campaign-home/26118" %}
 
+## Homeless Hub Gitbook
+
+{% embed url="https://stephen-rowan.gitbook.io/homeless-hub/" %}
+
+## Proposal Text
+
 ## Problem
 
 Homeless people have a unique culture, with much to share on key issues like value / contribution; but Cardano hasn’t yet engaged with them.
