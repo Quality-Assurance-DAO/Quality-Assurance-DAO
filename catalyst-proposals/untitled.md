@@ -1,4 +1,8 @@
-# Untitled
+---
+description: Homeless Hub Fund 6 Proposal
+---
+
+# F6: Scale-UP Cardano's Community Hubs
 
 | Title | F6: Scale-UP Cardano's Community Hubs |
 | :--- | :--- |
@@ -12,23 +16,17 @@
 
 Creative Commons Attribution
 
-[Problem 3]()
+## Ideascale Link
 
-[Describe Your Solution to the Problem 3]()
+{% embed url="https://cardano.ideascale.com/a/campaign-home/26118" %}
 
-[Relevant experience 3]()
 
-### 
 
-## 
-
-## https://cardano.ideascale.com/a/campaign-home/26118
-
-## Problem - 140 characters
+## Problem
 
 Homeless people have a unique culture, with much to share on key issues like value / contribution; but Cardano hasn’t yet engaged with them.
 
-## Describe Your Solution to the Problem - 140 characters
+## Describe Your Solution to the Problem
 
 Introduce the Cardano Community to homeless communities in Manchester, UK, through in-person workshops and online sessions
 
@@ -42,7 +40,7 @@ This proposal will initiate a 6-month experiment in communication and understand
 
 We have included money for interpretation where needed, and plan to use and pay people from within the community itself as interpreters.
 
-Background
+### Background
 
 Homeless people in developed countries like the United Kingdom form a distinct community. This community is a diverse mix of people from different social backgrounds, cultures, migration status and languages.
 
@@ -52,19 +50,21 @@ This perspective could enrich the Cardano community; and Cardano could empower h
 
 The first step in empowering any community to change their lives is to create a space where people can develop and crystallise their OWN understanding of the problem. This might be called community “problem-sensing”.
 
-Problem Sensing Workshops
+### Problem Sensing Workshops
 
 A series of workshops will be held with migrant homeless communities in Manchester, UK.
 
 These workshops will explore questions of value, worth and contribution.
 
-Building a community hub
+### Building a community hub
 
 These initial workshops will build confidence and shared understanding to enable a group of homeless people to lead a community hub.
 
 This hub would have its roots in the homeless community but can also engage others locally. We imagine it leading to an event where homeless people can tell non-homeless locals about blockchain technology and its implications for all of our empowerment.
 
-References
+### References
 
-https://www.crisis.org.uk/media/241452/a\_home\_for\_all\_understanding\_migrant\_homelessness\_in\_great\_britain\_2019.pdf
+{% embed url="https://www.crisis.org.uk/media/241452/a\_home\_for\_all\_understanding\_migrant\_homelessness\_in\_great\_britain\_2019.pdf" %}
+
+
 

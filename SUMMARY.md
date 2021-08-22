@@ -18,7 +18,7 @@
 ## Catalyst Proposals
 
 * [Fund 6 - Auditability Proposal - Distributed Auditability](catalyst-proposals/fund-6-auditability-proposal-distributed-auditability.md)
-* [Untitled](catalyst-proposals/untitled.md)
+* [F6: Scale-UP Cardano's Community Hubs](catalyst-proposals/untitled.md)
 * [Fund 6, Insight Sharing - Distributed Auditability](catalyst-proposals/fund-6-insight-sharing-distributed-auditability.md)
 * [Fund 5, Developer Ecosystem Proposal](catalyst-proposals/project-catalyst-developer-ecosystem-proposal.md)
 * [Fund 5, Developer Ecosystem Proposal - Governance](catalyst-proposals/fund-5-developer-ecosystem-proposal-governance.md)
