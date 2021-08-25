@@ -18,7 +18,7 @@ Creative Commons Attribution
 
 ## Ideascale Link
 
-{% embed url="https://cardano.ideascale.com/a/campaign-home/26118" %}
+{% embed url="https://cardano.ideascale.com/a/dtd/Homeless-Hub/367891-48088" %}
 
 ## Homeless Hub Gitbook
 
