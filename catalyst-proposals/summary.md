@@ -14,6 +14,14 @@ description: Summary of Proposals QA-DAO is involved in.
 
 #### Summary
 
+### F6: Scale-UP Cardano's Community Hubs - Homeless Hub
+
+#### Ideascale
+
+{% embed url="https://cardano.ideascale.com/a/dtd/Homeless-Hub/367891-48088" %}
+
+#### Summary
+
 
 
 ## Fund 5
