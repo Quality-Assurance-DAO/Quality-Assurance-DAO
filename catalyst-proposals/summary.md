@@ -16,7 +16,5 @@ description: Summary of Proposals QA-DAO is involved in.
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Quality-Assurance-DAO/351678-48088" %}
 
-
-
 #### Summary
 
