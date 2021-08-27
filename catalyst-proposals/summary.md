@@ -6,7 +6,7 @@ description: Summary of Proposals QA-DAO is involved in.
 
 ## Fund 6
 
-### Fund 6 - Auditability Proposal - Distributed Auditability
+### Auditability Proposal - Distributed Auditability
 
 #### Ideascale
 
@@ -14,7 +14,7 @@ description: Summary of Proposals QA-DAO is involved in.
 
 #### Summary
 
-### F6: Scale-UP Cardano's Community Hubs - Homeless Hub
+### Scale-UP Cardano's Community Hubs - Homeless Hub
 
 #### Ideascale
 
