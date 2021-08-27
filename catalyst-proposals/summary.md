@@ -14,7 +14,7 @@ description: Summary of Proposals QA-DAO is involved in.
 
 #### Summary
 
-### Scale-UP Cardano's Community Hubs - Homeless Hub
+### F6: Scale-UP Cardano's Community Hubs - Homeless Hub
 
 #### Ideascale
 
@@ -30,7 +30,7 @@ description: Summary of Proposals QA-DAO is involved in.
 
 #### Summary
 
-
+### F6: Catalyst value onboarding Ekphrasis - Academic GitBook
 
 
 
