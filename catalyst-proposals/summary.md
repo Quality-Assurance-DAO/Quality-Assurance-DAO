@@ -6,7 +6,7 @@ description: Summary of Proposals QA-DAO is involved in.
 
 ## Fund 6
 
-### Auditability Proposal - Distributed Auditability
+### F6: Improve and Grow Auditability Distributed Auditability
 
 #### Ideascale
 
