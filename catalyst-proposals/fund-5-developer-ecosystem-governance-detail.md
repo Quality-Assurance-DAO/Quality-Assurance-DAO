@@ -84,5 +84,5 @@ No
 
 ## Cohort Progress Report \#1
 
-![](../.gitbook/assets/2021-08-27.png)
+![](../.gitbook/assets/2021-08-27%20%281%29.png)
 
