@@ -12,5 +12,11 @@ description: Summary of Proposals QA-DAO is involved in.
 
 ### Fund 5, Developer Ecosystem Proposal - Quality Assurance DAO
 
-Summary
+#### Ideascale 
+
+{% embed url="https://cardano.ideascale.com/a/dtd/Quality-Assurance-DAO/351678-48088" %}
+
+
+
+#### Summary
 
