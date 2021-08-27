@@ -32,6 +32,12 @@ description: Summary of Proposals QA-DAO is involved in.
 
 ### F6: Catalyst value onboarding Ekphrasis - Academic GitBook
 
+#### Ideascale
+
+{% embed url="https://cardano.ideascale.com/a/dtd/Ekphrasis-Academic-GitBook/369556-48088" %}
+
+
+
 
 
 
