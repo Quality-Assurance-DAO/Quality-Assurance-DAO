@@ -38,11 +38,21 @@ description: Summary of Proposals QA-DAO is involved in.
 
 #### Summary
 
-### F6: Distributed decision making Oversight of Catalyst Circle
+### F6: Distributed decision making - Oversight of Catalyst Circle
 
 #### Ideascale
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Oversight-of-Catalyst-Circle/370088-48088" %}
+
+#### Summary
+
+
+
+### F6: Fund7 challenge setting - Equip Socially Excluded Communities
+
+#### Ideascale
+
+{% embed url="https://cardano.ideascale.com/a/dtd/Equip-Socially-Excluded-Communities/369593-48088" %}
 
 #### Summary
 
