@@ -24,6 +24,10 @@ description: Summary of Proposals QA-DAO is involved in.
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Homeless-Hub/367891-48088" %}
 
+#### 
+
+#### 
+
 #### Summary
 
 ### F6: DLT Entrepreneurship Toolbox - Open Source Training
