@@ -58,11 +58,13 @@ description: Summary of Fund 6 Proposals QA-DAO is involved in.
 
 ![](../.gitbook/assets/2021-08-30-2-.png)
 
-#### Ideascale
+### Ideascale
+
+![](../.gitbook/assets/2021-08-30-3-.png)
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Oversight-of-Catalyst-Circle/370088-48088" %}
 
-#### Summary
+### Summary
 
 
 
