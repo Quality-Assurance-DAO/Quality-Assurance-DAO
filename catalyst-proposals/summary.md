@@ -36,6 +36,10 @@ description: Summary of Proposals QA-DAO is involved in.
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Open-Source-Training/368678-48088" %}
 
+#### GitHub Repository
+
+{% embed url="https://github.com/Quality-Assurance-DAO/F6-DLT-Entrepreneurship-Toolbox-Open-Source-Training" %}
+
 #### Summary
 
 ### F6: Catalyst value onboarding Ekphrasis - Academic GitBook
