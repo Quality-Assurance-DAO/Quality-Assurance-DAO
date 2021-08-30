@@ -4,6 +4,8 @@ description: Fund 6 - Auditability Proposal - Distributed Auditability
 
 # Fund 6 - Auditability Proposal - Distributed Auditability
 
+![](../.gitbook/assets/2021-08-30-1-.png)
+
 | Title | Project Catalyst Fund 6 - Auditability Challenge |
 | :--- | :--- |
 | Subject | Distributed Auditability |
