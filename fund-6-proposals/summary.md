@@ -56,6 +56,8 @@ description: Summary of Fund 6 Proposals QA-DAO is involved in.
 
 ## F6: Distributed decision making - Oversight of Catalyst Circle
 
+![](../.gitbook/assets/2021-08-30-2-.png)
+
 #### Ideascale
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Oversight-of-Catalyst-Circle/370088-48088" %}
