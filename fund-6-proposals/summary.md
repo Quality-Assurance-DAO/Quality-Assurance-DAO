@@ -76,6 +76,10 @@ description: Summary of Fund 6 Proposals QA-DAO is involved in.
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Oversight-of-Catalyst-Circle/370088-48088" %}
 
+### GitHub Repository
+
+{% embed url="https://github.com/Quality-Assurance-DAO/F6-Distributed-decision-making-Oversight-of-Catalyst-Circle" %}
+
 ### Summary
 
 
