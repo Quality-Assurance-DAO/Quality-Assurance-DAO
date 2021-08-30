@@ -4,23 +4,21 @@ description: Summary of Fund 6 Proposals QA-DAO is involved in.
 
 # Fund 6 - Summary
 
-## Fund 6
-
-### F6: Improve and Grow Auditability Distributed Auditability
+## F6: Improve and Grow Auditability Distributed Auditability
 
 ![](../.gitbook/assets/2021-08-30-1-.png)
 
-#### Ideascale
+### Ideascale
 
 ![](../.gitbook/assets/2021-08-30.png)
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Distributed-Auditability/366707-48088" %}
 
-#### GitHub Repository
+### GitHub Repository
 
 {% embed url="https://github.com/Quality-Assurance-DAO/F6-Improve-and-Grow-Auditability-Proposal-Distributed-Auditability" %}
 
-#### Summary
+### Summary
 
 ### F6: Scale-UP Cardano's Community Hubs - Homeless Hub
 
