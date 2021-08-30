@@ -4,7 +4,7 @@ description: Summary of Fund 6 Proposals QA-DAO is involved in.
 
 # Fund 6 - Summary
 
-## F6: Improve and Grow Auditability Distributed Auditability
+## Improve and Grow Auditability - Distributed Auditability
 
 ![](../.gitbook/assets/2021-08-30-1-.png)
 
@@ -20,9 +20,9 @@ description: Summary of Fund 6 Proposals QA-DAO is involved in.
 
 ### Summary
 
-## F6: Scale-UP Cardano's Community Hubs - Homeless Hub
+## Scale-UP Cardano's Community Hubs - Homeless Hub
 
-#### Ideascale
+### Ideascale
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Homeless-Hub/367891-48088" %}
 
@@ -30,9 +30,9 @@ description: Summary of Fund 6 Proposals QA-DAO is involved in.
 
 #### 
 
-#### Summary
+### Summary
 
-## F6: DLT Entrepreneurship Toolbox - Open Source Training
+## DLT Entrepreneurship Toolbox - Open Source Training
 
 #### Ideascale
 
@@ -44,17 +44,17 @@ description: Summary of Fund 6 Proposals QA-DAO is involved in.
 
 #### Summary
 
-## F6: Catalyst value onboarding Ekphrasis - Academic GitBook
+## Catalyst value onboarding Ekphrasis - Academic GitBook
 
-#### Ideascale
+### Ideascale
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Ekphrasis-Academic-GitBook/369556-48088" %}
 
 #### 
 
-#### Summary
+### Summary
 
-## F6: Distributed decision making - Oversight of Catalyst Circle
+## Distributed decision making - Oversight of Catalyst Circle
 
 ![](../.gitbook/assets/2021-08-30-2-.png)
 
@@ -68,7 +68,7 @@ description: Summary of Fund 6 Proposals QA-DAO is involved in.
 
 
 
-## F6: Fund7 challenge setting - Equip Socially Excluded Communities
+## Fund7 challenge setting - Equip Socially Excluded Communities
 
 #### Ideascale
 
