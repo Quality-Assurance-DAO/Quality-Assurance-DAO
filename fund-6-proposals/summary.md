@@ -32,6 +32,8 @@ description: Summary of Fund 6 Proposals QA-DAO is involved in.
 
 ## DLT Entrepreneurship Toolbox - Open Source Training
 
+![](../.gitbook/assets/2021-08-30-5-.png)
+
 ### Ideascale
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Open-Source-Training/368678-48088" %}
