@@ -28,6 +28,12 @@ description: Summary of Fund 6 Proposals QA-DAO is involved in.
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Homeless-Hub/367891-48088" %}
 
+### GitHub Repository
+
+{% embed url="https://github.com/Quality-Assurance-DAO/F6-Scale-UP-Cardanos-Community-Hubs-Homeless-Hub" %}
+
+
+
 ### Summary
 
 ## DLT Entrepreneurship Toolbox - Open Source Training
