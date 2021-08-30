@@ -12,6 +12,10 @@ description: Summary of Proposals QA-DAO is involved in.
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Distributed-Auditability/366707-48088" %}
 
+#### GitHub Repository
+
+{% embed url="https://github.com/Quality-Assurance-DAO/F6-Improve-and-Grow-Auditability-Proposal-Distributed-Auditability" %}
+
 #### Summary
 
 ### F6: Scale-UP Cardano's Community Hubs - Homeless Hub
