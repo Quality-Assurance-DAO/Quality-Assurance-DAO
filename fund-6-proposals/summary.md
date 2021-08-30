@@ -46,11 +46,17 @@ description: Summary of Fund 6 Proposals QA-DAO is involved in.
 
 ## Catalyst value onboarding Ekphrasis - Academic GitBook
 
+![](../.gitbook/assets/2021-08-30-6-.png)
+
 ### Ideascale
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Ekphrasis-Academic-GitBook/369556-48088" %}
 
-#### 
+### GitHub Repository
+
+{% embed url="https://github.com/Quality-Assurance-DAO/-F6-Catalyst-value-onboarding-Ekphrasis-Academic-GitBook" %}
+
+
 
 ### Summary
 
