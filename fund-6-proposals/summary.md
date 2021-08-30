@@ -60,7 +60,7 @@ description: Summary of Fund 6 Proposals QA-DAO is involved in.
 
 ### GitHub Repository
 
-{% embed url="https://github.com/Quality-Assurance-DAO/-F6-Catalyst-value-onboarding-Ekphrasis-Academic-GitBook" %}
+{% embed url="https://github.com/Quality-Assurance-DAO/F6-Catalyst-value-onboarding-Ekphrasis-Academic-GitBook" %}
 
 
 
