@@ -6,13 +6,13 @@ description: Summary of Proposals QA-DAO is involved in.
 
 ## Fund 6
 
-![](../.gitbook/assets/2021-08-30-1-.png)
-
 ### F6: Improve and Grow Auditability Distributed Auditability
 
-![](../.gitbook/assets/2021-08-30.png)
+![](../.gitbook/assets/2021-08-30-1-.png)
 
 #### Ideascale
+
+![](../.gitbook/assets/2021-08-30.png)
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Distributed-Auditability/366707-48088" %}
 
