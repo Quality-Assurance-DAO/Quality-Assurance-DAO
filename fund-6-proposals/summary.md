@@ -20,7 +20,7 @@ description: Summary of Fund 6 Proposals QA-DAO is involved in.
 
 ### Summary
 
-### F6: Scale-UP Cardano's Community Hubs - Homeless Hub
+## F6: Scale-UP Cardano's Community Hubs - Homeless Hub
 
 #### Ideascale
 
@@ -32,7 +32,7 @@ description: Summary of Fund 6 Proposals QA-DAO is involved in.
 
 #### Summary
 
-### F6: DLT Entrepreneurship Toolbox - Open Source Training
+## F6: DLT Entrepreneurship Toolbox - Open Source Training
 
 #### Ideascale
 
@@ -44,7 +44,7 @@ description: Summary of Fund 6 Proposals QA-DAO is involved in.
 
 #### Summary
 
-### F6: Catalyst value onboarding Ekphrasis - Academic GitBook
+## F6: Catalyst value onboarding Ekphrasis - Academic GitBook
 
 #### Ideascale
 
@@ -54,7 +54,7 @@ description: Summary of Fund 6 Proposals QA-DAO is involved in.
 
 #### Summary
 
-### F6: Distributed decision making - Oversight of Catalyst Circle
+## F6: Distributed decision making - Oversight of Catalyst Circle
 
 #### Ideascale
 
@@ -64,7 +64,7 @@ description: Summary of Fund 6 Proposals QA-DAO is involved in.
 
 
 
-### F6: Fund7 challenge setting - Equip Socially Excluded Communities
+## F6: Fund7 challenge setting - Equip Socially Excluded Communities
 
 #### Ideascale
 
@@ -77,14 +77,4 @@ description: Summary of Fund 6 Proposals QA-DAO is involved in.
 
 
 
-
-## Fund 5
-
-### Fund 5, Developer Ecosystem Proposal - Quality Assurance DAO
-
-#### Ideascale 
-
-{% embed url="https://cardano.ideascale.com/a/dtd/Quality-Assurance-DAO/351678-48088" %}
-
-#### Summary
 
