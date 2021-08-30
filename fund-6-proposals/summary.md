@@ -8,6 +8,8 @@ description: Summary of Proposals QA-DAO is involved in.
 
 ### F6: Improve and Grow Auditability Distributed Auditability
 
+![](../.gitbook/assets/2021-08-30.png)
+
 #### Ideascale
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Distributed-Auditability/366707-48088" %}
