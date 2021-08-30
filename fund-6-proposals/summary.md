@@ -86,6 +86,8 @@ description: Summary of Fund 6 Proposals QA-DAO is involved in.
 
 ## Fund7 challenge setting - Equip Socially Excluded Communities
 
+![](../.gitbook/assets/2021-08-30-7-.png)
+
 ### Ideascale
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Equip-Socially-Excluded-Communities/369593-48088" %}
