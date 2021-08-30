@@ -48,6 +48,8 @@ description: Summary of Proposals QA-DAO is involved in.
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Ekphrasis-Academic-GitBook/369556-48088" %}
 
+#### 
+
 #### Summary
 
 ### F6: Distributed decision making - Oversight of Catalyst Circle
