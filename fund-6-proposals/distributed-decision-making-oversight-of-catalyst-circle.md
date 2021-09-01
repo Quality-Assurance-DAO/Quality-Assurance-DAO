@@ -41,7 +41,7 @@ The text of this proposal is version controlled [here ](https://github.com/Quali
 
 ## **Community Oversight**
 
-#### **How can we help the Catalyst community to get better at distributed decision making within the next two Catalyst rounds?**
+**How can we help the Catalyst community to get better at distributed decision making within the next two Catalyst rounds?**
 
 The Catalyst Circle Oversight GitBook documents and tracks the activities of the Catalyst Circle a initiative started by IOHK to advance governance in Project Catalyst. The aim of the Catalyst Circle Oversight GitBook is to improve distributed decision making by making the activities, discussions and decisions of Catalyst Circle accessible to all.
 
