@@ -77,13 +77,13 @@ A shift to note-taking on a proprietary platform inhibited documentation and tra
 
 ### Weekly Breakdown
 
-|  |  |
-| :--- | :--- |
-|  |  |
+| Week beginning | Event\(s\) | Hours Worked |
+| :--- | :--- | :--- |
+| Monday 12th July 2021 | Circle Meeting 1 - July 12th, 2021 | 06:40 |
 
-Week beginning
 
-#### Monday 12th July 2021 - 06:40 hours
+
+####  Monday 12th July 2021 - 06:40 hours
 
 [Circle Meeting 1 - July 12th, 2021](https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-1-july-12th-2021)
 
