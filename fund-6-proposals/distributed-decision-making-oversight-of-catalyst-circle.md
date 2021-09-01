@@ -49,6 +49,10 @@ This site is maintained by QA-DAO in collaboration with the Cardano and Project 
 
 The Catalyst Circle Oversight GitBook has been maintained since July 11th 2021.
 
+### **Secretary / Facilitator**
+
+This proposal is separate from the Catalyst Circle Secretary / Facilitator roles. And does not include any associated costs. All documentation and tracking described in this proposal is independent of Catalyst Circle resources.
+
 ### Relevant experience
 
 Stephen Whitenstall: Stephen Whitenstall has 30 years' experience in organizing academic, community and business projects. He develops, maintains documentation and provides technical project management support for Catalyst Swarm. As QA-DAO he tracks and documents the Catalyst Circle and maintains 'Ekphrasis' a repository of academic content from across the Cardano community. 
