@@ -6,6 +6,8 @@ description: >-
 
 # Distributed decision making - Oversight of Catalyst Circle
 
+![](../.gitbook/assets/2021-08-30-2-.png)
+
 | Title | Project Catalyst Fund 6: Distributed decision making |
 | :--- | :--- |
 | Subject | Oversight of Catalyst Circle |
