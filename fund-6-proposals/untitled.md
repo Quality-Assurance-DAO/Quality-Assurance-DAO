@@ -1,9 +1,3 @@
----
-description: >-
-  Project Catalyst Fund 6: Distributed decision making : Project Catalyst Fund
-  6: Distributed decision making
----
-
 # Distributed decision making - Oversight of Catalyst Circle
 
 ![](../.gitbook/assets/2021-08-30-2-.png)
@@ -12,9 +6,7 @@ description: >-
 | :--- | :--- |
 | Subject | Oversight of Catalyst Circle |
 
-![Graphical user interface, text, application, chat or text message
-
-Description automatically generated](../.gitbook/assets/0%20%282%29.png)
+![Catalyst Circle Tracking - Project Board](../.gitbook/assets/0%20%282%29.png)
 
 | **Author** | Stephen Whitenstall |
 | :--- | :--- |
