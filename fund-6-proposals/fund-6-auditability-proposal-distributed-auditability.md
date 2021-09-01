@@ -2,7 +2,7 @@
 description: Fund 6 - Auditability Proposal - Distributed Auditability
 ---
 
-# Fund 6 - Auditability Proposal - Distributed Auditability
+# Auditability Proposal - Distributed Auditability
 
 ![](../.gitbook/assets/2021-08-30-1-.png)
 

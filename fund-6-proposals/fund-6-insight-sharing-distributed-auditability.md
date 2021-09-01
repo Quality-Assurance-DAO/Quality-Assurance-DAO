@@ -2,7 +2,7 @@
 description: 'Project Catalyst Fund 6, Insight Sharing - Distributed Auditability'
 ---
 
-# Fund 6, Insight Sharing - Distributed Auditability
+# Insight Sharing - Distributed Auditability
 
 ![](../.gitbook/assets/2021-08-30-1-.png)
 
