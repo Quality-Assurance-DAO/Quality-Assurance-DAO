@@ -39,9 +39,11 @@ A more readable GitBook version of this proposal can found [here](https://stephe
 
 The text of this proposal is version controlled [here ](https://github.com/Quality-Assurance-DAO/F6-Distributed-decision-making-Oversight-of-Catalyst-Circle/blob/main/Proposal/F6-Distributed-decision-making-Oversight-of-Catalyst-Circle.md)and tracked [here ](https://github.com/Quality-Assurance-DAO/F6-Distributed-decision-making-Oversight-of-Catalyst-Circle/projects/1).
 
-### Community Oversight
+## **Community Oversight**
 
-The Catalyst Circle Oversight GitBook documents and tracks the activities of the Catalyst Circle a initiative started by IOHK to advance governance in Project Catalyst.
+#### **How can we help the Catalyst community to get better at distributed decision making within the next two Catalyst rounds?**
+
+The Catalyst Circle Oversight GitBook documents and tracks the activities of the Catalyst Circle a initiative started by IOHK to advance governance in Project Catalyst. The aim of the Catalyst Circle Oversight GitBook is to improve distributed decision making by making the activities, discussions and decisions of Catalyst Circle accessible to all.
 
 This site is maintained by QA-DAO in collaboration with the Cardano and Project Catalyst communities. All content recorded is open source, licensed under Apache 2.0.
 
@@ -71,8 +73,6 @@ A total of 27:40 hours have been spent to the 30th August 2021. Approx 18 hours 
 
 A shift to note-taking on a proprietary platform inhibited documentation and tracking for Circle Meetings 3 and 4. More time may be allocated in September 2021 to resolve this issue. Documented here \( Barriers to tracking and documenting the content of Catalyst Circle Meetings - [https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/20](https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/20)\)\) and discussed here \([https://catalyst-swarm.gitbook.io/catalyst-circle/commentary/commentary-on-catalyst-circle](https://catalyst-swarm.gitbook.io/catalyst-circle/commentary/commentary-on-catalyst-circle) \).
 
-
-
 ### Weekly Breakdown
 
 | Week beginning | Event\(s\) | Hours Worked |
@@ -89,6 +89,8 @@ A shift to note-taking on a proprietary platform inhibited documentation and tra
 |  | [CA & vCA Rewarding Model - 27th August 2021](https://catalyst-swarm.gitbook.io/catalyst-circle/community-advisors/community-advisor-activity#27th-august-2021-ca-and-vca-rewarding-model-project-catalyst-fund-6) |  |
 | Monday 30th August 2021 |  | 00:55 |
 | **Total hours to date** | \*\*\*\* | **27:40** |
+
+## 
 
 ## Checklist
 
