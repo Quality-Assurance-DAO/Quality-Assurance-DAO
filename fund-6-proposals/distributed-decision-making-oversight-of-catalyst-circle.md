@@ -69,7 +69,9 @@ The raw Clockify data to 30th August 2021 can be found here :
 
 A total of 27:40 hours have been spent to the 30th August 2021. Approx 18 hours were spent documenting and tracking in July 2021 and 9 hours in August 2021. More time was spent in July 2021 setting up the GitBook and documenting an extensive problem sensing exercise conducted by Catalyst Circle.
 
-A shift to note-taking on a proprietary platform inhibited documentation and tracking for Circle Meetings 3 and 4. More time may be allocated in September 2021 to resolve this issue. Documented here \( Barriers to tracking and documenting the content of Catalyst Circle Meetings - [https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/20](https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/20)\)\) and discussed here \([https://catalyst-swarm.gitbook.io/catalyst-circle/commentary/commentary-on-catalyst-circle](https://catalyst-swarm.gitbook.io/catalyst-circle/commentary/commentary-on-catalyst-circle) \)
+A shift to note-taking on a proprietary platform inhibited documentation and tracking for Circle Meetings 3 and 4. More time may be allocated in September 2021 to resolve this issue. Documented here \( Barriers to tracking and documenting the content of Catalyst Circle Meetings - [https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/20](https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/issues/20)\)\) and discussed here \([https://catalyst-swarm.gitbook.io/catalyst-circle/commentary/commentary-on-catalyst-circle](https://catalyst-swarm.gitbook.io/catalyst-circle/commentary/commentary-on-catalyst-circle) \).
+
+
 
 ### Weekly Breakdown
 
