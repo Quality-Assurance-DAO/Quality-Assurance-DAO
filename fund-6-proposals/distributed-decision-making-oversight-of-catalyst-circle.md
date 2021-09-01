@@ -86,12 +86,6 @@ A shift to note-taking on a proprietary platform inhibited documentation and tra
 
 #### 
 
-#### Monday 9th August 2021 - 02:15 hours
-
-Circle Meeting 3 - August 12th, 2021
-
-[https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-3-august-12th-2021](https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-3-august-12th-2021)
-
 #### Monday 16th August 2021 - 00:44 hours
 
 #### Monday 23rd August 2021 - 02:17 hours
