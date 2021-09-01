@@ -18,7 +18,7 @@
 ## Fund 6 Proposals
 
 * [Fund 6 - Summary](fund-6-proposals/summary.md)
-* [Untitled](fund-6-proposals/untitled.md)
+* [Distributed decision making - Oversight of Catalyst Circle](fund-6-proposals/untitled.md)
 * [Fund 6 - Auditability Proposal - Distributed Auditability](fund-6-proposals/fund-6-auditability-proposal-distributed-auditability.md)
 * [Fund 6, Insight Sharing - Distributed Auditability](fund-6-proposals/fund-6-insight-sharing-distributed-auditability.md)
 * [Fund 6: Scale-UP Cardano's Community Hubs - Homeless Hub](fund-6-proposals/fund-6-scale-up-cardanos-community-hubs-homeless-hub.md)

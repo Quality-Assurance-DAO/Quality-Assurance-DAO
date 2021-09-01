@@ -1,4 +1,4 @@
-# Untitled
+# Distributed decision making - Oversight of Catalyst Circle
 
 | Title | Project Catalyst Fund 6: Distributed decision making |
 | :--- | :--- |
