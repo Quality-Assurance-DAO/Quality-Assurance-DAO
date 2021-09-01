@@ -94,7 +94,43 @@ A shift to note-taking on a proprietary platform inhibited documentation and tra
 | Monday 30th August 2021 |  | 00:55 |
 | **Total hours to date** | \*\*\*\* | **27:40** |
 
-## 
+### **Roadmap \( Definition of success after 3, 6 and 12 months\)**
+
+**Prior to funding**
+
+**Catalyst Circle Version 1 - July 2021 to September 2021**
+
+Documentation and tracking can be completed and is live.
+
+**3 months**
+
+**Catalyst Circle Version 2 - October 2021 to December 2021**
+
+Catalyst Circle Version 2 roughly coincides with the release of Fund 6 ADA. \(November 2022\).
+
+Once funded Catalyst Circle Oversight will aim to communicate its documentation and tracking via social media in order to reach a wider audience. Documentation and tracking will be supplemented with commentary. Sponsorships will be sought.
+
+**6 months**
+
+**Catalyst Circle Version 3 - January 2022 to March 2022 \(?\)**
+
+If Catalyst Circle Version 3 proceeds it will roughly coincide with the release of Fund 7 ADA \(February 2022\).
+
+But this would require a new Fund 7 proposal.
+
+**12 months**
+
+**Catalyst Circle Version 4+ - April 2022 to September 2022 \(?\)**
+
+In the long term any oversight should be self-sustaining and sponsorships will be sought to achieve this aim.
+
+--------------------------------------------------------------------------------------------------
+
+### **Draft Budget**
+
+Given the commitments outlined in the roadmap above it is estimated that 20 hours per month will be spent for 3 months.
+
+A total of 60 hours at $35 an hour = $ 2,100
 
 ## Checklist
 
