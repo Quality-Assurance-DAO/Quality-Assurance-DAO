@@ -75,31 +75,27 @@ A shift to note-taking on a proprietary platform inhibited documentation and tra
 
 | Week beginning | Event\(s\) | Hours Worked |
 | :--- | :--- | :--- |
-| Monday 12th July 2021 | Circle Meeting 1 - July 12th, 2021 | 06:40 |
+| Monday 12th July 2021 | [Circle Meeting 1 - July 12th, 2021](https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-1-july-12th-2021) | 06:40 |
+| Monday 19th July 2021 | [Toolmakers and Maintainers problem sensing](https://catalyst-swarm.gitbook.io/catalyst-circle/toolmakers-and-maintainers/activity#t-and-m-problem-sensing-1) | 08:25 |
+| Monday 26th July 2021 | [Toolmakers and Maintainers problem sensing](https://catalyst-swarm.gitbook.io/catalyst-circle/toolmakers-and-maintainers/activity#t-and-m-problem-sensing-4) | 02:58 |
+|  | [Community Advisor Problem Sensing](https://catalyst-swarm.gitbook.io/catalyst-circle/community-advisors/community-advisor-activity) |  |
+|  | [Circle Meeting 2 - July 29th, 2021](https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-2-july-29th-2021) |  |
 
-
-
-####  Monday 12th July 2021 - 06:40 hours
-
-[Circle Meeting 1 - July 12th, 2021](https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-1-july-12th-2021)
-
-#### Monday 19th July 2021 - 08:25 hours
-
-[Toolmakers and Maintainers problem sensing](https://catalyst-swarm.gitbook.io/catalyst-circle/toolmakers-and-maintainers/activity#t-and-m-problem-sensing-1)
+#### 
 
 #### Monday 26th July 2021 - 02:58 hours
 
 Toolmakers and Maintainers problem sensing
 
-{% embed url="https://catalyst-swarm.gitbook.io/catalyst-circle/toolmakers-and-maintainers/activity\#t-and-m-problem-sensing-4" %}
+[https://catalyst-swarm.gitbook.io/catalyst-circle/toolmakers-and-maintainers/activity\#t-and-m-problem-sensing-4](https://catalyst-swarm.gitbook.io/catalyst-circle/toolmakers-and-maintainers/activity#t-and-m-problem-sensing-4)
 
 Community Advisor Problem Sensing
 
-{% embed url="https://catalyst-swarm.gitbook.io/catalyst-circle/community-advisors/community-advisor-activity" %}
+[https://catalyst-swarm.gitbook.io/catalyst-circle/community-advisors/community-advisor-activity](https://catalyst-swarm.gitbook.io/catalyst-circle/community-advisors/community-advisor-activity)
 
 Circle Meeting 2 - July 29th, 2021
 
-{% embed url="https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-2-july-29th-2021" %}
+[https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-2-july-29th-2021](https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-2-july-29th-2021)
 
 #### Monday 2nd August 2021 - 03:24 hours
 
@@ -107,7 +103,7 @@ Circle Meeting 2 - July 29th, 2021
 
 Circle Meeting 3 - August 12th, 2021
 
-{% embed url="https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-3-august-12th-2021" %}
+[https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-3-august-12th-2021](https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-3-august-12th-2021)
 
 #### Monday 16th August 2021 - 00:44 hours
 
@@ -115,7 +111,7 @@ Circle Meeting 3 - August 12th, 2021
 
 Meeting 4 - August 26th 2021
 
-{% embed url="https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-4-august-26th-2021" %}
+[https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-4-august-26th-2021](https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-4-august-26th-2021)
 
 CA & vCA Rewarding Model - 27th August 2021
 
