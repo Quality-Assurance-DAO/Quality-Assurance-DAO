@@ -33,7 +33,11 @@ Stephen has 30 years' experience in organizing academic, community and business 
 
 ## Detailed plan \(not required\) - Fill in here any additional details
 
-#### Draft
+## **Presentation / tracking**
+
+A more readable GitBook version of this proposal can found [here](https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-6-proposals/distributed-decision-making-oversight-of-catalyst-circle). 
+
+The text of this proposal is version controlled [here ](https://github.com/Quality-Assurance-DAO/F6-Distributed-decision-making-Oversight-of-Catalyst-Circle/blob/main/Proposal/F6-Distributed-decision-making-Oversight-of-Catalyst-Circle.md)and tracked [here ](https://github.com/Quality-Assurance-DAO/F6-Distributed-decision-making-Oversight-of-Catalyst-Circle/projects/1).
 
 ### Community Oversight
 
