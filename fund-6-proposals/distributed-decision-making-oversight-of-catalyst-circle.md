@@ -80,24 +80,11 @@ A shift to note-taking on a proprietary platform inhibited documentation and tra
 | Monday 26th July 2021 | [Toolmakers and Maintainers problem sensing](https://catalyst-swarm.gitbook.io/catalyst-circle/toolmakers-and-maintainers/activity#t-and-m-problem-sensing-4) | 02:58 |
 |  | [Community Advisor Problem Sensing](https://catalyst-swarm.gitbook.io/catalyst-circle/community-advisors/community-advisor-activity) |  |
 |  | [Circle Meeting 2 - July 29th, 2021](https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-2-july-29th-2021) |  |
+| Monday 2nd August 2021 |  | 03:24 |
+| Monday 9th August 2021 | [Circle Meeting 3 - August 12th, 2021](https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-3-august-12th-2021) | 02:15 |
+|  |  |  |
 
 #### 
-
-#### Monday 26th July 2021 - 02:58 hours
-
-Toolmakers and Maintainers problem sensing
-
-[https://catalyst-swarm.gitbook.io/catalyst-circle/toolmakers-and-maintainers/activity\#t-and-m-problem-sensing-4](https://catalyst-swarm.gitbook.io/catalyst-circle/toolmakers-and-maintainers/activity#t-and-m-problem-sensing-4)
-
-Community Advisor Problem Sensing
-
-[https://catalyst-swarm.gitbook.io/catalyst-circle/community-advisors/community-advisor-activity](https://catalyst-swarm.gitbook.io/catalyst-circle/community-advisors/community-advisor-activity)
-
-Circle Meeting 2 - July 29th, 2021
-
-[https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-2-july-29th-2021](https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-2-july-29th-2021)
-
-#### Monday 2nd August 2021 - 03:24 hours
 
 #### Monday 9th August 2021 - 02:15 hours
 
