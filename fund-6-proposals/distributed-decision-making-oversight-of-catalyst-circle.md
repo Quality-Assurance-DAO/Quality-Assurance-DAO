@@ -85,24 +85,8 @@ A shift to note-taking on a proprietary platform inhibited documentation and tra
 | Monday 16th August 2021 |  | 00:44 |
 | Monday 23rd August 2021 | [Meeting 4 - August 26th 2021](https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-4-august-26th-2021) | 02:17 |
 |  | [CA & vCA Rewarding Model - 27th August 2021](https://catalyst-swarm.gitbook.io/catalyst-circle/community-advisors/community-advisor-activity#27th-august-2021-ca-and-vca-rewarding-model-project-catalyst-fund-6) |  |
-
-#### 
-
-#### Monday 16th August 2021 - 00:44 hours
-
-#### Monday 23rd August 2021 - 02:17 hours
-
-Meeting 4 - August 26th 2021
-
-[https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-4-august-26th-2021](https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-4-august-26th-2021)
-
-CA & vCA Rewarding Model - 27th August 2021
-
-[https://catalyst-swarm.gitbook.io/catalyst-circle/community-advisors/community-advisor-activity\#27th-august-2021-ca-and-vca-rewarding-model-project-catalyst-fund-6](https://catalyst-swarm.gitbook.io/catalyst-circle/community-advisors/community-advisor-activity#27th-august-2021-ca-and-vca-rewarding-model-project-catalyst-fund-6)
-
-#### Monday 30th August 2021 - 00:55 hours
-
-#### Total hours to date : 27:40
+| Monday 30th August 2021 |  | 00:55 |
+| **Total hours to date** | \*\*\*\* | **27:40** |
 
 ## Checklist
 
