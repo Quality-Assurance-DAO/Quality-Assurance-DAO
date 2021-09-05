@@ -22,11 +22,15 @@ QA-DAOs own GitHub Organization is at [https://github.com/Quality-Assurance-DAO]
 
 ### Documentation
 
-> QA-DAO designs and maintains documentation in open-source GitHub repositories for the Catalyst Circle, Catalyst Swarm, The Catalyst Alliance and The Catalyst School.
+{% hint style="info" %}
+QA-DAO designs and maintains documentation in open-source GitHub repositories for the Catalyst Circle, Catalyst Swarm, The Catalyst Alliance and The Catalyst School.
+{% endhint %}
 
 ### Transparent Governance
 
-> QA-DAO reports on and tracks Catalyst Governance experiments such as the Catalyst Circle.
+{% hint style="info" %}
+QA-DAO reports on and tracks Catalyst Governance experiments such as the Catalyst Circle.
+{% endhint %}
 
 ### Training
 
