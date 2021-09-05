@@ -4,8 +4,6 @@ description: The Distributed Autonomous Organisation of Quality Assurance
 
 # Welcome to Quality Assurance DAO
 
-
-
 ## What is Quality Assurance DAO ?
 
 {% hint style="info" %}
