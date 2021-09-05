@@ -34,11 +34,15 @@ QA-DAO reports on and tracks Catalyst Governance experiments such as the Catalys
 
 ### Training
 
-> QA-DAO provides support and training for the Project Catalyst community via the Catalyst School.
+{% hint style="info" %}
+QA-DAO provides support and training for the Project Catalyst community via the Catalyst School.
+{% endhint %}
 
 ### Research
 
-> QA-DAO collates current research in the Cardano ecosystem and original research from the Catalyst community in the [Ekphrasis ](https://stephen-rowan.gitbook.io/ekphrasis/)journal.
+{% hint style="info" %}
+QA-DAO collates current research in the Cardano ecosystem and original research from the Catalyst community in the [Ekphrasis ](https://stephen-rowan.gitbook.io/ekphrasis/)journal.
+{% endhint %}
 
 ## Background
 
