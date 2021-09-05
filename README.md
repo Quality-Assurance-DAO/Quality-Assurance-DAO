@@ -11,7 +11,7 @@ description: The Distributed Autonomous Organisation of Quality Assurance
 ## What is Quality Assurance DAO ?
 
 {% hint style="info" %}
-QA-DAO has submitted proposals in Fund 6 of Project Catalyst. Follow the link to the Fund 6 Proposals Section for more details.
+QA-DAO has submitted proposals in Fund 6 of Project Catalyst. Follow this [link ](https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-6-proposals/summary)to the Fund 6 Proposals Section for more details.
 {% endhint %}
 
 Quality Assurance DAO \(QA-DAO\) is an ongoing open source project that provides support for the Cardano Project Catalyst Community. 
