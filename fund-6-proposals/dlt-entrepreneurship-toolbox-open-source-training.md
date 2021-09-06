@@ -58,6 +58,8 @@ The direction of the workshops will aim to discover participants workflows and e
 
 Stephen Whitenstall: Stephen Whitenstall has 30 years' experience in organizing academic, community and business projects. He develops, maintains documentation and provides technical project management support for Catalyst Swarm. As QA-DAO he tracks and documents the Catalyst Circle.  
 
+Stephen is working in colloboartion with the Catalyst School ...
+
 
 
 [https://www.linkedin.com/in/stephen-whitenstall-166727210](https://www.linkedin.com/in/stephen-whitenstall-166727210)
