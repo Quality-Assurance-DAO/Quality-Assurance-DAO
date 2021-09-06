@@ -62,7 +62,9 @@ Stephen is working in collaboration with the Catalyst School ...
 
 
 
+{% hint style="info" %}
 [https://www.linkedin.com/in/stephen-whitenstall-166727210](https://www.linkedin.com/in/stephen-whitenstall-166727210)
+{% endhint %}
 
 ### **Roadmap \( Definition of success after 3, 6 and 12 months\)**
 
