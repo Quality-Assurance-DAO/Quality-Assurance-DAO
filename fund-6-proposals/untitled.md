@@ -4,28 +4,12 @@
 | :--- | :--- |
 | Subject | Open Source Training |
 
- David Bohl, CC0, via Wikimedia Commons
-
 | **Author** | Stephen Whitenstall |
 | :--- | :--- |
 | **Published** | 25/08/2021 |
 | **Version** | Alpha Version 1.0 |
 
 Creative Commons Attribution
-
-[Problem statement: 3]()
-
-[Describe your solution to the problem. 3]()
-
-[Relevant experience 3]()
-
-[Website/GitHub repository \(not required\) 4]()
-
-[Detailed Plan 4]()
-
-[Estimated cost: 4]()
-
-[Requested funds in USD: 4]()
 
 ## **Problem statement:**
 
