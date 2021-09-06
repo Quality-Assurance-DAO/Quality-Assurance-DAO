@@ -8,8 +8,7 @@
 
 | **Author** | Stephen Whitenstall |
 | :--- | :--- |
-| **Published** | 25/08/2021 |
-| **Version** | Alpha Version 1.0 |
+| **Published** | 08/08/2021 |
 
 Creative Commons Attribution
 
