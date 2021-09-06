@@ -182,9 +182,9 @@ The following metrics will measure the progress and success of this proposal:
 
 2\) Survey difference in understanding open-source between those using the workshop sessions and those not.
 
-3\) Survey if gaps have been filled in the entrepreneurial skills base of particpants.
+3\) Survey if gaps have been filled in the entrepreneurial skills base of participants.
 
-4\) Survey if use of open-source infrastrure promotes sustainability of venture plans.
+4\) Survey if use of open-source infrastructure promotes sustainability of venture plans.
 
 
 
