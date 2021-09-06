@@ -63,11 +63,11 @@ The Saturday workshop sessions will be introduced by the pre-recorded screencast
 
 The training materials will cover :
 
-Introduction to GitHub for entrepreneurs - focusing on using issues and project boards \(Kanban\) to track and manage projects.‌
+**Introduction to GitHub for entrepreneurs** - focusing on using issues and project boards \(Kanban\) to track and manage projects.‌
 
-Intermediate use of GitHub for entrepreneurs - focusing on GitHub's document revision features. Pull requests and reviews.‌
+**Intermediate use of GitHub for entrepreneurs** - focusing on GitHub's document revision features. Pull requests and reviews.‌
 
-Advanced use of GitHub for entrepreneurs - static site generation and GitHub Action. Continuous Integration features.
+**Advanced use of GitHub for entrepreneurs** - static site generation and GitHub Action. Continuous Integration features.
 
 ### **Documentation**
 
