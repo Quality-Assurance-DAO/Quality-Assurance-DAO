@@ -1,5 +1,7 @@
 # DLT-Entrepreneurship-Toolbox Open Source Training
 
+![](../.gitbook/assets/2021-08-30-5-.png)
+
 | Title | Project Catalyst Fund 6 DLT-Entrepreneurship-Toolbox |
 | :--- | :--- |
 | Subject | Open Source Training |
