@@ -20,7 +20,7 @@
 * [Fund 6 - Summary](fund-6-proposals/summary.md)
 * [Distributed decision making - Oversight of Catalyst Circle](fund-6-proposals/distributed-decision-making-oversight-of-catalyst-circle.md)
 * [Auditability Proposal - Distributed Auditability](fund-6-proposals/fund-6-auditability-proposal-distributed-auditability.md)
-* [DLT-Entrepreneurship-Toolbox Open Source Training](fund-6-proposals/untitled.md)
+* [DLT-Entrepreneurship-Toolbox Open Source Training](fund-6-proposals/dlt-entrepreneurship-toolbox-open-source-training.md)
 * [Insight Sharing - Distributed Auditability](fund-6-proposals/fund-6-insight-sharing-distributed-auditability.md)
 * [Scale-UP Cardano's Community Hubs - Homeless Hub](fund-6-proposals/fund-6-scale-up-cardanos-community-hubs-homeless-hub.md)
 
