@@ -133,5 +133,5 @@ $ 40 per hour
 
 ##  **Requested funds in USD:**
 
-**8320**
+**$ 8320**
 
