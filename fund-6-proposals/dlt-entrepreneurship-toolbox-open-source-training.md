@@ -10,8 +10,6 @@
 | :--- | :--- |
 | **Published** | 08/08/2021 |
 
-Creative Commons Attribution
-
 ## **Fund 6 Proposal**
 
 ### **Problem statement:**
