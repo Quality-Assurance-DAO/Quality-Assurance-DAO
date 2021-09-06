@@ -67,7 +67,7 @@ The training materials will cover :
 
 **Intermediate use of GitHub for entrepreneurs** - focusing on GitHub's document revision features. Pull requests and reviews.‌
 
-**Advanced use of GitHub for entrepreneurs** - static site generation and GitHub Action. Continuous Integration features.
+**Advanced use of GitHub for entrepreneurs** - static site generation and GitHub Actions. Continuous Integration features.
 
 ### **Documentation**
 
