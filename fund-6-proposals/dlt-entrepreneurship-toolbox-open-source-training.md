@@ -71,7 +71,7 @@ The direction of the workshops will aim to discover participants workflows and e
 
 Stephen Whitenstall: Stephen Whitenstall has 30 years' experience in organizing academic, community and business projects. He develops, maintains documentation and provides technical project management support for Catalyst Swarm. As QA-DAO he tracks and documents the Catalyst Circle.  
 
-Stephen is currently working in collaboration with the Catalyst School to develop documentation and to host workshops. He has also co-hosted Tevo Sak's Mini-Proposal workshops since 
+Stephen is currently working in collaboration with the Catalyst School to develop documentation and to host workshops. He has also co-hosted Tevo Sak's Mini-Proposal workshops since 24th July 2021.
 
 
 
