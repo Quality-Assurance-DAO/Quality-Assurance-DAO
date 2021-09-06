@@ -24,9 +24,9 @@ No access to open-source infrastructure for early stage entrepreneurs.
 
 ### **Describe your solution to the problem.**
 
-Provide open-source training materials for the Entrepreneurship-Toolbox
+Open-source training materials for Entrepreneurship-Toolbox
 
-Provide a structured approach to open-source infrastructure that will empower early entrepreneurs.
+Workshops explaining open-source infrastructure to early stage entrepreneurs.
 
 ### **Relevant experience**
 
