@@ -79,9 +79,12 @@ The direction of the workshops will aim to discover participants workflows and e
 
 ### **Relevant experience \(identifying information\)**
 
-Stephen Whitenstall: Stephen Whitenstall has 30 years' experience in organizing academic, community and business projects. He develops, maintains documentation and provides technical project management support for Catalyst Swarm. As QA-DAO he tracks and documents the Catalyst Circle.  
+Stephen Whitenstall has 30 years' experience in organizing academic, community and business projects. He develops, maintains documentation and provides technical project management support for Catalyst Swarm.
 
+In Fund 5 of Project Catalyst Stephen's QA-DAO \(https://stephen-rowan.gitbook.io/quality-assurance-dao/\) submitted a proposal "Quality Assurance DAO" in the Developer Ecosystem Challenge that was funded in August 2021.  
 Stephen is currently working in collaboration with the Catalyst School to develop documentation and to host workshops. He has also co-hosted Tevo Sak's Mini-Proposal workshops since 24th July 2021.
+
+​https://www.linkedin.com/in/stephen-whitenstall-166727210
 
 {% hint style="info" %}
 [https://www.linkedin.com/in/stephen-whitenstall-166727210](https://www.linkedin.com/in/stephen-whitenstall-166727210)
