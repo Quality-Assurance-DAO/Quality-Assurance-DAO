@@ -174,3 +174,17 @@ $ 40 per hour
 
 **$ 8320**
 
+### **Key Metrics**
+
+The following metrics will measure the progress and success of this proposal:
+
+Number of users attending workshops sessions, viewing Youtube videos and visiting online documentary materials.
+
+Survey difference in understanding open-source between those using the workshop sessions and those not.
+
+Survey if gaps have been filled in the entrepreneurial skills base of particpants.
+
+Survey if use of open-source infrastrure promotes sustainability of venture plans.
+
+
+
