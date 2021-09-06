@@ -1,4 +1,4 @@
-# Untitled
+# DLT-Entrepreneurship-Toolbox Open Source Training
 
 | Title | Project Catalyst Fund 6 DLT-Entrepreneurship-Toolbox |
 | :--- | :--- |
