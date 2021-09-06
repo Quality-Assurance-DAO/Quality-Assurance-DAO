@@ -33,6 +33,10 @@ https://www.linkedin.com/in/stephen-whitenstall-166727210/
 
 ## **Website/GitHub repository \(not required\)**
 
+{% hint style="info" %}
+ [https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-6-proposals/dlt-entrepreneurship-toolbox-open-source-training](https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-6-proposals/dlt-entrepreneurship-toolbox-open-source-training)
+{% endhint %}
+
 ## **Detailed Plan**
 
 **Revisiting the Problem Statement**
