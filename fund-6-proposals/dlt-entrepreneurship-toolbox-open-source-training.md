@@ -42,13 +42,13 @@ https://www.linkedin.com/in/stephen-whitenstall-166727210/
 
 ### **Detailed Plan**
 
-### **Revisiting the Problem Statement**
+### **Revisiting the Problem Statement** 
 
-Project Catalyst is rapidly expanding, and its decentralized funding platform needs to support industry standard collaborative coding, tracking and documentation tools such as GitHub. 1000s of Cardano developers use version control tools such as GitHub, but there is often a gap in knowledge for entrepreneurs who do not take advantage of GitHub's organisational and collaborative features.
+Project Catalyst is rapidly expanding, and its decentralized funding platform needs to support industry standard collaborative coding, tracking and documentation tools such as GitHub. 1000s of Cardano developers use version control tools such as GitHub, but there is often a gap in knowledge for early stage entrepreneurs who do not have the knowledge to take advantage of GitHub's organisational and collaborative features.
 
-### **Introducing the Solution**
+### **Introducing the Solution \(**How I address the challenge question\).
 
-In partnership with the Catalyst School – QA-DAO will offer introductory training materials for entrepreneurs to take advantage of open-source tools such as GitHub.  
+In partnership with the Catalyst School – QA-DAO will offer introductory training materials for early stage entrepreneurs to develop skills in open-source tools such as GitHub.  
 This will comprise a series of workshops comprising of a short screencast, screen share and Q&A on the use of GitHub in Project Catalyst projects.
 
 ### **Short screencasts**
