@@ -10,6 +10,10 @@
 | :--- | :--- |
 | **Published** | 08/08/2021 |
 
+## **Summary**
+
+Welcome to the landing page for the Project Catalyst Fund 6 DLT-Entrepreneurship-Toolbox proposal - Open Source Training. 
+
 ## **Fund 6 Proposal**
 
 ### **Problem statement:**
