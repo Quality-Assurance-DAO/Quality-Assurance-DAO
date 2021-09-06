@@ -59,6 +59,16 @@ The short screencasts will be produced in advance of Saturday workshop sessions 
 
 The Saturday workshop sessions will be introduced by the pre-recorded screencasts and followed by a screen share demonstration of the GitHub use cases for that week. The session will conclude with a Question and Answer \(Q & A\) to explore individual areas of interest and provoke discussion.
 
+### Training Material Content
+
+The training materials will cover :
+
+Introduction to GitHub for entrepreneurs - focusing on using issues and project boards \(Kanban\) to track and manage projects.‌
+
+Intermediate use of GitHub for entrepreneurs - focusing on GitHub's document revision features. Pull requests and reviews.‌
+
+Advanced use of GitHub for entrepreneurs - static site generation and GitHub Action. Continuous Integration features.
+
 ### **Documentation**
 
 All the workshop materials will be documented and made available in a GitBook documentary format for ease of reference and re-use. All materials will be released under an open-source license.
