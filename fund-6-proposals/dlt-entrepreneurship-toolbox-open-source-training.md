@@ -52,7 +52,13 @@ In partnership with the Catalyst School – QA-DAO will offer introductory train
 
 This will provide a series of workshops comprising of a short screencast, screen share and Q&A on the use of GitHub in Project Catalyst projects.
 
+### Short screencasts
+
 The short screencasts will be produced in advance of Saturday workshop sessions and uploaded to Youtube. These will provide bite sized introductions to GitHub tracking and documentation tools.
+
+### Saturday workshop sessions
+
+The Saturday workshop sessions will be introduced by the pre-recorded screencasts and followed by a screen share demonstration of the GitHub use cases for that week. The session will conclude with a Question and Answer \(Q & A\) to explore the individual areas of interest and provoke discussion.
 
 The direction of the workshops will aim to discover participants workflows and examine how these may be documented, reported on, and automated using GitHub. This part of the proposal is offered in collaboration with F6: Improve and Grow Auditability : Distributed Auditability \( [https://cardano.ideascale.com/a/dtd/Distributed-Auditability/366707-48088](https://cardano.ideascale.com/a/dtd/Distributed-Auditability/366707-48088) \)
 
