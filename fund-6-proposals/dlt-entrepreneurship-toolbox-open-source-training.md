@@ -18,9 +18,9 @@ Welcome to the landing page for the Project Catalyst Fund 6 DLT-Entrepreneurship
 
 ### **Problem statement:**
 
-No open-source training materials in the Entrepreneurship-Toolbox
+No open-source training materials in the Entrepreneurship-Toolbox.
 
-Lack of structure in entrepreneurial use of open-source infrastructure.
+No access to open-source infrastructure for early stage entrepreneurs.
 
 ### **Describe your solution to the problem.**
 
