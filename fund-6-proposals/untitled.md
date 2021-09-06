@@ -131,20 +131,6 @@ $ 40 per hour
 
 **Total = $ 8320**
 
-|  | **Hours Prep** | **Hours Workshop** |  |  | **Youtube Screencast** | **Youtube Session Recording** | **Documentation** |  |  |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Workshop 1 | 6 | 2 |  |  | 2 | 8 |  |  | 8 |
-| Workshop 2 | 6 | 2 |  |  | 2 | 8 |  |  | 8 |
-| Workshop 3 | 6 | 2 |  |  | 2 | 8 |  |  | 8 |
-| Workshop 4 | 6 | 2 |  |  | 2 | 8 |  |  | 8 |
-| Workshop 5 | 6 | 2 |  |  | 2 | 8 |  |  | 8 |
-| Workshop 6 | 6 | 2 |  |  | 2 | 8 |  |  | 8 |
-| Workshop 7 | 6 | 2 |  |  | 2 | 8 |  |  | 8 |
-| Workshop 8 | 6 | 2 |  |  | 2 | 8 |  |  | 8 |
-|  | 48 | 16 | **64** |  | 16 | 64 | **80** |  | **64** |
-|  |  |  |  |  |  |  |  |  |  |
-| Cost $ per hour | 40 |  | 208 | 8320 |  |  |  |  |  |
-
 ##  **Requested funds in USD:**
 
 **8320**
