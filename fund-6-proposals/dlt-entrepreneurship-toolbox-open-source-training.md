@@ -73,8 +73,6 @@ Stephen Whitenstall: Stephen Whitenstall has 30 years' experience in organizing 
 
 Stephen is currently working in collaboration with the Catalyst School to develop documentation and to host workshops. He has also co-hosted Tevo Sak's Mini-Proposal workshops since 24th July 2021.
 
-
-
 {% hint style="info" %}
 [https://www.linkedin.com/in/stephen-whitenstall-166727210](https://www.linkedin.com/in/stephen-whitenstall-166727210)
 {% endhint %}
