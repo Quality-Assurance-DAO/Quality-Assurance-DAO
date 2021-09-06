@@ -15,37 +15,37 @@ Creative Commons Attribution
 
 ## **Fund 6 Proposal**
 
-## **Problem statement:**
+### **Problem statement:**
 
 No open-source training materials in the Entrepreneurship-Toolbox
 
 Lack of structure in entrepreneurial use of open-source infrastructure.
 
-## **Describe your solution to the problem.**
+### **Describe your solution to the problem.**
 
 Provide open-source training materials for the Entrepreneurship-Toolbox
 
 Provide a structured approach to open-source infrastructure that will empower early entrepreneurs.
 
-## **Relevant experience**
+### **Relevant experience**
 
 Stephen has 30 years’ experience in organizing academic, community and business projects.
 
 https://www.linkedin.com/in/stephen-whitenstall-166727210/
 
-## **Website/GitHub repository \(not required\)**
+### **Website/GitHub repository \(not required\)**
 
 {% hint style="info" %}
  [https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-6-proposals/dlt-entrepreneurship-toolbox-open-source-training](https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-6-proposals/dlt-entrepreneurship-toolbox-open-source-training)
 {% endhint %}
 
-## **Detailed Plan**
+### **Detailed Plan**
 
-**Revisiting the Problem Statement**
+### **Revisiting the Problem Statement**
 
 Project Catalyst is rapidly expanding, and its decentralized funding platform needs to support industry standard collaborative coding, tracking and documentation tools such as GitHub. 1000s of Cardano developers use version control tools such as GitHub, but there is often a gap in knowledge for entrepreneurs who do not take advantage of GitHub's organisational and collaborative features.
 
-**Introducing the Solution**
+### **Introducing the Solution**
 
 In partnership with the Catalyst School – QA-DAO will offer introductory training materials for entrepreneurs to take advantage of open-source tools such as GitHub.
 
@@ -53,13 +53,13 @@ This will provide a series of workshops comprising of a short screencast, screen
 
 The direction of the workshops will aim to discover participants workflows and examine how these may be documented, reported on, and automated using GitHub. This part of the proposal is offered in collaboration with F6: Improve and Grow Auditability : Distributed Auditability \( [https://cardano.ideascale.com/a/dtd/Distributed-Auditability/366707-48088](https://cardano.ideascale.com/a/dtd/Distributed-Auditability/366707-48088) \)
 
-**Relevant experience \(identifying information\)**
+### **Relevant experience \(identifying information\)**
 
 Stephen Whitenstall: Stephen Whitenstall has 30 years' experience in organizing academic, community and business projects. He develops, maintains documentation and provides technical project management support for Catalyst Swarm. As QA-DAO he tracks and documents the Catalyst Circle and maintains 'Ekphrasis' a repository of academic content from across the Cardano community.
 
 [https://www.linkedin.com/in/stephen-whitenstall-166727210](https://www.linkedin.com/in/stephen-whitenstall-166727210)
 
-**Roadmap \( Definition of success after 3, 6 and 12 months\)**
+### **Roadmap \( Definition of success after 3, 6 and 12 months\)**
 
 **Prior to funding**
 
@@ -109,7 +109,7 @@ Screencasts and Workshop recordings will be available on Youtube
 
 Course documentation will be available on GitBook and GitHub and can be updated via pull requests and/or issues.
 
-**Budget**
+### **Budget**
 
 **Workshops**
 
@@ -139,7 +139,7 @@ $ 40 per hour
 
 **Total = $ 8320**
 
-##  **Requested funds in USD:**
+### Re**quested funds in USD:**
 
 **$ 8320**
 
