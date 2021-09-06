@@ -56,7 +56,9 @@ The direction of the workshops will aim to discover participants workflows and e
 
 ### **Relevant experience \(identifying information\)**
 
-Stephen Whitenstall: Stephen Whitenstall has 30 years' experience in organizing academic, community and business projects. He develops, maintains documentation and provides technical project management support for Catalyst Swarm. As QA-DAO he tracks and documents the Catalyst Circle and maintains 'Ekphrasis' a repository of academic content from across the Cardano community.
+Stephen Whitenstall: Stephen Whitenstall has 30 years' experience in organizing academic, community and business projects. He develops, maintains documentation and provides technical project management support for Catalyst Swarm. As QA-DAO he tracks and documents the Catalyst Circle.  
+
+
 
 [https://www.linkedin.com/in/stephen-whitenstall-166727210](https://www.linkedin.com/in/stephen-whitenstall-166727210)
 
