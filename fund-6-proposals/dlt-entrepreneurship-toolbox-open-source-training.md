@@ -13,6 +13,8 @@
 
 Creative Commons Attribution
 
+## **Fund 6 Proposal**
+
 ## **Problem statement:**
 
 No open-source training materials in the Entrepreneurship-Toolbox
