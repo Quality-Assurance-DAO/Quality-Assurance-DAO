@@ -95,7 +95,7 @@ Metrics and Reporting on Governance outcomes depends upon collaboration with IOH
 
 Governance of the Quality-Assurance DAO , Fund 5, Developer Ecosystem Proposal is being documented in this section of the QA-DAO GitBook \([https://stephen-rowan.gitbook.io/quality-assurance-dao/catalyst-proposals/fund-5-developer-ecosystem-proposal-governance](https://stephen-rowan.gitbook.io/quality-assurance-dao/catalyst-proposals/fund-5-developer-ecosystem-proposal-governance) \). I will try to align my reporting to the biweekly schedule.
 
-## September 7th, 2021 - Funded Cohort Meeting
+## September 7th, 2021 - Cohort Meeting
 
 ![](../.gitbook/assets/2021-09-07.png)
 
