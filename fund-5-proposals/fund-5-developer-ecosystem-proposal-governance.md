@@ -95,3 +95,29 @@ Metrics and Reporting on Governance outcomes depends upon collaboration with IOH
 
 Governance of the Quality-Assurance DAO , Fund 5, Developer Ecosystem Proposal is being documented in this section of the QA-DAO GitBook \([https://stephen-rowan.gitbook.io/quality-assurance-dao/catalyst-proposals/fund-5-developer-ecosystem-proposal-governance](https://stephen-rowan.gitbook.io/quality-assurance-dao/catalyst-proposals/fund-5-developer-ecosystem-proposal-governance) \). I will try to align my reporting to the biweekly schedule.
 
+## September 7th, 2021 - Funded Cohort Meeting
+
+![](../.gitbook/assets/2021-09-07.png)
+
+Greetings All Cohorts! 👋
+
+Few housekeeping items 🧹
+
+👉 See you later for today's Coordinator meeting
+
+👉 Agenda: 1. Catalyst updates: Fund 6, Catalyst Incubators, Summit 2. Coordinator standup: What you've done since last meeting? What is your next milestone? When will this be achieved?
+
+👉 Wen today? September 7th, Tuesday at 6pm UTC \(bi-weekly\) 👉 Where? Live on Zoom - register now via [https://bit.ly/37kHZFB](https://bit.ly/37kHZFB)
+
+⚠️ Also - this week is the next reporting cycle for the week of September 6th. Unsure where to submit your forms? Bookmark below link. If you missed previous weeks - make sure to submit another entry for that missing week as well.
+
+🔗 Reporting Form: [https://forms.gle/4Vs8bL8384a9Dr7t9](https://forms.gle/4Vs8bL8384a9Dr7t9)
+
+👀 Kindly note that reporting cadence will now be publicly accessible and shared in each TH. You can access and review all cohorts via link below to see progress across Coordinator. We appreciate your valuable time spent on filling these in. It's V1 version of giving community more transparency on reporting process as well as greater accountability to funded projects.
+
+👉 Public Reports: [https://bit.ly/3DcyVBo](https://bit.ly/3DcyVBo)
+
+In case of any doubts, please, let us know. Happy to help. 🤝
+
+Zoom Video Communications \([https://bit.ly/37kHZFB](https://bit.ly/37kHZFB)\) Welcome! You are invited to join a meeting: Catalyst Coordinator. After registering, you will receive a confirmation email about joining the meeting.
+
