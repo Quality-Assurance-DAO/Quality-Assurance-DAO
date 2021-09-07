@@ -29,7 +29,7 @@ This section reports the progress of the **Fund 5 - Quality Assurance DAO** proj
 | First Name | Stephen |
 |  |  |
 
-## Fund 5 Cohort Report \#1
+## Cohort Report \#1
 
 #### Cohort Progress Report 
 
