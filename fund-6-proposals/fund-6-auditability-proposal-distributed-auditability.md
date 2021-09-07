@@ -42,7 +42,7 @@ Automate funded proposal reporting.
 
 ## **Relevant experience**
 
-Stephen has 30 years’ experience in organizing academic, community and business projects.
+Stephen has 30 years' experience in organizing academic, community and business projects \(See Detailed plan\).
 
 https://www.linkedin.com/in/stephen-whitenstall-166727210/
 
