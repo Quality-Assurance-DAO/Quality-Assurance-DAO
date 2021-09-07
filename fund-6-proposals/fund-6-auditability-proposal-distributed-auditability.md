@@ -17,7 +17,6 @@ description: Fund 6 - Auditability Proposal - Distributed Auditability
 | **Author** | Stephen Whitenstall |
 | :--- | :--- |
 | **Published** | 19/08/2021 |
-| **Version** | Alpha Version 1.0 |
 
 Creative Commons Attribution
 
