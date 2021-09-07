@@ -107,7 +107,7 @@ Few housekeeping items 🧹
 
 👉 Agenda: 1. Catalyst updates: Fund 6, Catalyst Incubators, Summit 2. Coordinator standup: What you've done since last meeting? What is your next milestone? When will this be achieved?
 
-👉 Wen today? September 7th, Tuesday at 6pm UTC \(bi-weekly\) 👉 Where? Live on Zoom - register now via [https://bit.ly/37kHZFB](https://bit.ly/37kHZFB)
+👉 Wen today? September 7th, Tuesday at 6pm UTC \(bi-weekly\) 👉 Where? Live on Zoom - register now via
 
 ⚠️ Also - this week is the next reporting cycle for the week of September 6th. Unsure where to submit your forms? Bookmark below link. If you missed previous weeks - make sure to submit another entry for that missing week as well.
 
