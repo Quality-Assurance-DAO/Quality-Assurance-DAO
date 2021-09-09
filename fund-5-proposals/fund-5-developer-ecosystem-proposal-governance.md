@@ -121,7 +121,7 @@ In case of any doubts, please, let us know. Happy to help. 🤝
 
 Zoom Video Communications \([https://bit.ly/37kHZFB](https://bit.ly/37kHZFB)\) Welcome! You are invited to join a meeting: Catalyst Coordinator. After registering, you will receive a confirmation email about joining the meeting.
 
-## Cohort Meeting
+### Meeting Recording
 
 {% embed url="https://www.youtube.com/watch?v=pDWSgWDsqHE" %}
 
