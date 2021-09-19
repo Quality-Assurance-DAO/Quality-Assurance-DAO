@@ -25,7 +25,6 @@
 
 ## Catalyst Proposals <a id="catalyst-proposals-1"></a>
 
-* [DLT-Entrepreneurship-Toolbox Open Source Training](catalyst-proposals-1/dlt-entrepreneurship-toolbox-open-source-training.md)
 * [Fund 5, Developer Ecosystem Proposal](catalyst-proposals-1/project-catalyst-developer-ecosystem-proposal.md)
 * [Fund 5, Developer Ecosystem Proposal - Governance](catalyst-proposals-1/fund-5-developer-ecosystem-proposal-governance.md)
 * [Fund 5, Developer Ecosystem - Governance Detail](catalyst-proposals-1/fund-5-developer-ecosystem-governance-detail.md)
@@ -37,5 +36,6 @@
 
 ## Fund 6 Proposals
 
+* [DLT-Entrepreneurship-Toolbox Open Source Training](fund-6-proposals/dlt-entrepreneurship-toolbox-open-source-training.md)
 * [Untitled](fund-6-proposals/untitled.md)
 
