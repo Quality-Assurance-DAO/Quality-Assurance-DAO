@@ -35,3 +35,7 @@
 * [OccamFi OCC IDO](studies/untitled.md)
 * [Original QA-DAO Presentation](studies/original-qa-dao-presentation.md)
 
+## Fund 6 Proposals
+
+* [Untitled](fund-6-proposals/untitled.md)
+
