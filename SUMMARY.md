@@ -21,11 +21,11 @@
 * [Distributed decision making - Oversight of Catalyst Circle](catalyst-proposals/distributed-decision-making-oversight-of-catalyst-circle.md)
 * [Auditability Proposal - Distributed Auditability](catalyst-proposals/fund-6-auditability-proposal-distributed-auditability.md)
 * [Insight Sharing - Distributed Auditability](catalyst-proposals/fund-6-insight-sharing-distributed-auditability.md)
-* [DLT-Entrepreneurship-Toolbox Open Source Training](catalyst-proposals/dlt-entrepreneurship-toolbox-open-source-training.md)
 * [Scale-UP Cardano's Community Hubs - Homeless Hub](catalyst-proposals/fund-6-scale-up-cardanos-community-hubs-homeless-hub.md)
 
 ## Catalyst Proposals <a id="catalyst-proposals-1"></a>
 
+* [DLT-Entrepreneurship-Toolbox Open Source Training](catalyst-proposals-1/dlt-entrepreneurship-toolbox-open-source-training.md)
 * [Fund 5, Developer Ecosystem Proposal](catalyst-proposals-1/project-catalyst-developer-ecosystem-proposal.md)
 * [Fund 5, Developer Ecosystem Proposal - Governance](catalyst-proposals-1/fund-5-developer-ecosystem-proposal-governance.md)
 * [Fund 5, Developer Ecosystem - Governance Detail](catalyst-proposals-1/fund-5-developer-ecosystem-governance-detail.md)
