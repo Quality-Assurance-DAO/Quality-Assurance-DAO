@@ -31,67 +31,67 @@ This section reports the progress of the **Fund 5 - Quality Assurance DAO** proj
 
 ## Cohort Report \#1
 
-#### Cohort Progress Report 
+#### Cohort Progress Report
 
-#### Catalyst Coordinator reporting 
+#### Catalyst Coordinator reporting
 
-**Email**  _****swhitenstall@googlemail.com_ 
+**Email** _\*\*swhitenstall@googlemail.com_
 
-_**Your Full Name**_  Stephen Whitenstall 
+_**Your Full Name**_ Stephen Whitenstall
 
-### Proposal Name  _Proposal name must match your Ideascale title_ 
+### Proposal Name  _Proposal name must match your Ideascale title_
 
-_Quality-Assurance-DAO_ 
+_Quality-Assurance-DAO_
 
-### _Describe two significant successes you had this month and what you learned from each._ 
+### _Describe two significant successes you had this month and what you learned from each._
 
-_Your answer will not be shared with the public. Text box will expand as you type._  
+_Your answer will not be shared with the public. Text box will expand as you type._
 
-Meeting with other Fund 5 Cohort members agreed to collaborate on sharing Catalyst Fund data and progress with IOHK. Began tracking Fund 5, Developer Ecosystem Proposal - Governance \([https://stephen-rowan.gitbook.io/quality-assurance-dao/catalyst-proposals/fund-5-developer-ecosystem-proposal-governance](https://stephen-rowan.gitbook.io/quality-assurance-dao/catalyst-proposals/fund-5-developer-ecosystem-proposal-governance) \) 
+Meeting with other Fund 5 Cohort members agreed to collaborate on sharing Catalyst Fund data and progress with IOHK. Began tracking Fund 5, Developer Ecosystem Proposal - Governance \([https://stephen-rowan.gitbook.io/quality-assurance-dao/catalyst-proposals/fund-5-developer-ecosystem-proposal-governance](https://stephen-rowan.gitbook.io/quality-assurance-dao/catalyst-proposals/fund-5-developer-ecosystem-proposal-governance) \)
 
 ### Describe two significant setbacks, obstacles, or failures you had this month and what you learned from each \(regardless of whether or not you solved them\).
 
-_Y_our answer will not be shared with the public. Text box will expand as you type.  __
+_Your answer will not be shared with the public. Text box will expand as you type._ 
 
-_Lack of response from IOHK by email on changes to onboarding data and Collaboration with IOHK. I learnt that email might not be the most effective way to contact IOHK - will try Telegram. Also aware that this is a very busy time for IOHK._ 
+_Lack of response from IOHK by email on changes to onboarding data and Collaboration with IOHK. I learnt that email might not be the most effective way to contact IOHK - will try Telegram. Also aware that this is a very busy time for IOHK._
 
-### _Is your Proposal in Fund2, Fund3, Fund4 or Fund5?_  
+### _Is your Proposal in Fund2, Fund3, Fund4 or Fund5?_
 
 Fund5
 
-### Which Challenge is your Proposal in?  __
+### Which Challenge is your Proposal in?  \_\_
 
 _F5: Developer Ecosystem_
 
-### _Fund5: Developer Ecosystem - Reporting Project Launch Date?_  Actual or Projected Launch Date 
+### _Fund5: Developer Ecosystem - Reporting Project Launch Date?_  Actual or Projected Launch Date
 
-DD 11 / MM 04 / YYYY 2021 
+DD 11 / MM 04 / YYYY 2021
 
-### Has your Project Launched?  __
+### Has your Project Launched?  \_\_
 
 _Yes_
 
-### _Launched F5 Developer Ecosystem - Progress_ 
+### _Launched F5 Developer Ecosystem - Progress_
 
-_These metrics should be reported for just this reporting cycle, not Cumulative._ 
+_These metrics should be reported for just this reporting cycle, not Cumulative._
 
-### _How many developers did your proposal engage?_  
+### _How many developers did your proposal engage?_
 
-34 in April 2021 Open Source Survey 
+34 in April 2021 Open Source Survey
 
-### Thanks to your proposal, How many developers were successfully onboarded to develop software on top of Cardano? \* 
+### Thanks to your proposal, How many developers were successfully onboarded to develop software on top of Cardano? \*
 
-Uncertain 
+Uncertain
 
 ### Did anyone from the community provide you help? Give a shoutout to those who deserve it.
 
-Everyone involved with the Open Source Survey \( [https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues?q=is%3Aopen+is%3Aissue+label%3A%22FeedbackChallenge+%3A+Open+Source%22](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues?q=is%3Aopen+is%3Aissue+label%3A%22FeedbackChallenge+%3A+Open+Source%22)\). I will provide a more accessible summary in "Feedback Challenge : Open-Source Assessment Report". 
+Everyone involved with the Open Source Survey \( [https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues?q=is%3Aopen+is%3Aissue+label%3A%22FeedbackChallenge+%3A+Open+Source%22](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues?q=is%3Aopen+is%3Aissue+label%3A%22FeedbackChallenge+%3A+Open+Source%22)\). I will provide a more accessible summary in "Feedback Challenge : Open-Source Assessment Report".
 
-### Any other metric to share about outcomes? 
+### Any other metric to share about outcomes?
 
-Metrics and Reporting on Governance outcomes depends upon collaboration with IOHK. As I wish to document and report on 1\) The pathway of a funded cohort and 2\) An assessment of funded cohort reporting requirements. 
+Metrics and Reporting on Governance outcomes depends upon collaboration with IOHK. As I wish to document and report on 1\) The pathway of a funded cohort and 2\) An assessment of funded cohort reporting requirements.
 
-### Any status report you would like to share? 
+### Any status report you would like to share?
 
 Governance of the Quality-Assurance DAO , Fund 5, Developer Ecosystem Proposal is being documented in this section of the QA-DAO GitBook \([https://stephen-rowan.gitbook.io/quality-assurance-dao/catalyst-proposals/fund-5-developer-ecosystem-proposal-governance](https://stephen-rowan.gitbook.io/quality-assurance-dao/catalyst-proposals/fund-5-developer-ecosystem-proposal-governance) \). I will try to align my reporting to the biweekly schedule.
 
@@ -123,7 +123,7 @@ Zoom Video Communications \([https://bit.ly/37kHZFB](https://bit.ly/37kHZFB)\) W
 
 ### Meeting Recording
 
-{% embed url="https://www.youtube.com/watch?v=pDWSgWDsqHE" %}
+{% embed url="https://www.youtube.com/watch?v=pDWSgWDsqHE" caption="" %}
 
 ### Telegram
 
