@@ -131,27 +131,3 @@ Zoom Video Communications \([https://bit.ly/37kHZFB](https://bit.ly/37kHZFB)\) W
 
 ## Cohort Report \#2
 
-
-
-![](../.gitbook/assets/2021-09-22.png)
-
-![](../.gitbook/assets/2021-09-22-1-.png)
-
-![](../.gitbook/assets/2021-09-22-2-.png)
-
-![](../.gitbook/assets/2021-09-22-3-.png)
-
-![](../.gitbook/assets/2021-09-22-5-.png)
-
-![](../.gitbook/assets/2021-09-22-7-.png)
-
-![](../.gitbook/assets/2021-09-22-8-.png)
-
-![](../.gitbook/assets/2021-09-22-9-.png)
-
-![](../.gitbook/assets/2021-09-22-10-.png)
-
-![](../.gitbook/assets/2021-09-22-11-.png)
-
-![](../.gitbook/assets/2021-09-22-12-.png)
-
