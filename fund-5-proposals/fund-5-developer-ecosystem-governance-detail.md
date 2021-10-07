@@ -152,3 +152,7 @@ No
 >
 > Hi, and thanks for you application. We will get back to you at latest on the 13th of October. Feel free to contact me here and I will answer as soon as I can. Best Christoffer
 
+{% embed url="https://catalyst.entreprenerdy.com/cases/24222" %}
+
+
+
