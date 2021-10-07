@@ -137,3 +137,13 @@ Zoom Video Communications \([https://bit.ly/37kHZFB](https://bit.ly/37kHZFB)\) W
 
 > Hi there - I \(QA-DAO\) completed the new Progress Report without any issues. For anyone interested completion of the old and new forms can be compared on my GitBook : Old Form \([https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-5-proposals/fund-5-developer-ecosystem-governance-detail\#cohort-progress-report-1](https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-5-proposals/fund-5-developer-ecosystem-governance-detail#cohort-progress-report-1) \) and New Form \([https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-5-proposals/fund-5-developer-ecosystem-governance-detail\#cohort-progress-report-2](https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-5-proposals/fund-5-developer-ecosystem-governance-detail#cohort-progress-report-2)\). All my cohort reporting is documented here - from the onboarding form onwards. I plan to use these materials to illustrate and provide commentary on the funded cohort experience. All the best S.
 
+
+
+## 7th October 2021
+
+### Boostcamp application
+
+![](../.gitbook/assets/2021-10-07.png)
+
+
+
