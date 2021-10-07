@@ -142,3 +142,13 @@ No
 
 ![](../.gitbook/assets/2021-09-28-7-.png)
 
+## 7th October 2021
+
+### Catalyst Boost Camp Application
+
+![](../.gitbook/assets/2021-10-07%20%281%29.png)
+
+> Kriss Baird, 30.09.2021 at 09:23
+>
+> Hi, and thanks for you application. We will get back to you at latest on the 13th of October. Feel free to contact me here and I will answer as soon as I can. Best Christoffer
+
