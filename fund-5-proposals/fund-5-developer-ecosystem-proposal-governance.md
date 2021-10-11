@@ -1,5 +1,5 @@
 ---
-description: 'Governance of Quality-Assurance DAO , Fund 5, Developer Ecosystem Proposal'
+description: Governance of Quality-Assurance DAO , Fund 5, Developer Ecosystem Proposal
 ---
 
 # Fund 5, Developer Ecosystem Proposal - Governance
@@ -13,23 +13,23 @@ This section reports the progress of the **Fund 5 - Quality Assurance DAO** proj
 
 ## Cohort On-boarding - Email Survey
 
-| Question | Answer |
-| :--- | :--- |
-| **Ideascale Project Title** | Quality Assurance DAO |
-| **Short Description of Project** | QA Assessment of Catalyst Proposal Process. |
-| **Specific Industry** | Quality Assurance / Information Technology |
-| **End users** | Project Catalyst Voters, Community, Proposers, Implementers and Community Advisors. |
-| **No. Member\(s\)** | 1 |
-| **Implementation Date** | 29/09/2021 - Change to November 2021 |
-| **Link to Ideascale Proposal** | [https://cardano.ideascale.com/a/dtd/Quality-Assurance-DAO/351678-48088](https://cardano.ideascale.com/a/dtd/Quality-Assurance-DAO/351678-48088) |
-| **Ideascale Username** | @swhitenstall |
-| **Which challenge were you successful in ?** | Developer Ecosystem |
-| **Were you previously successful in any of the past funding rounds? Like Fund1, 2, 3,4?** | No |
-| Last Name | Whitenstall |
-| First Name | Stephen |
-|  |  |
+| Question                                                                                  | Answer                                                                                                                                           |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Ideascale Project Title**                                                               | Quality Assurance DAO                                                                                                                            |
+| **Short Description of Project**                                                          | QA Assessment of Catalyst Proposal Process.                                                                                                      |
+| **Specific Industry**                                                                     | Quality Assurance / Information Technology                                                                                                       |
+| **End users**                                                                             | Project Catalyst Voters, Community, Proposers, Implementers and Community Advisors.                                                              |
+| **No. Member(s)**                                                                         | 1                                                                                                                                                |
+| **Implementation Date**                                                                   | 29/09/2021 - Change to November 2021                                                                                                             |
+| **Link to Ideascale Proposal**                                                            | [https://cardano.ideascale.com/a/dtd/Quality-Assurance-DAO/351678-48088](https://cardano.ideascale.com/a/dtd/Quality-Assurance-DAO/351678-48088) |
+| **Ideascale Username**                                                                    | @swhitenstall                                                                                                                                    |
+| **Which challenge were you successful in ?**                                              | Developer Ecosystem                                                                                                                              |
+| **Were you previously successful in any of the past funding rounds? Like Fund1, 2, 3,4?** | No                                                                                                                                               |
+| Last Name                                                                                 | Whitenstall                                                                                                                                      |
+| First Name                                                                                | Stephen                                                                                                                                          |
+|                                                                                           |                                                                                                                                                  |
 
-## Cohort Report \#1
+## Cohort Report #1
 
 #### Cohort Progress Report
 
@@ -47,11 +47,11 @@ _Quality-Assurance-DAO_
 
 _Your answer will not be shared with the public. Text box will expand as you type._
 
-Meeting with other Fund 5 Cohort members agreed to collaborate on sharing Catalyst Fund data and progress with IOHK. Began tracking Fund 5, Developer Ecosystem Proposal - Governance \([https://stephen-rowan.gitbook.io/quality-assurance-dao/catalyst-proposals/fund-5-developer-ecosystem-proposal-governance](https://stephen-rowan.gitbook.io/quality-assurance-dao/catalyst-proposals/fund-5-developer-ecosystem-proposal-governance) \)
+Meeting with other Fund 5 Cohort members agreed to collaborate on sharing Catalyst Fund data and progress with IOHK. Began tracking Fund 5, Developer Ecosystem Proposal - Governance ([https://stephen-rowan.gitbook.io/quality-assurance-dao/catalyst-proposals/fund-5-developer-ecosystem-proposal-governance](https://stephen-rowan.gitbook.io/quality-assurance-dao/catalyst-proposals/fund-5-developer-ecosystem-proposal-governance) )
 
-### Describe two significant setbacks, obstacles, or failures you had this month and what you learned from each \(regardless of whether or not you solved them\).
+### Describe two significant setbacks, obstacles, or failures you had this month and what you learned from each (regardless of whether or not you solved them).
 
-_Your answer will not be shared with the public. Text box will expand as you type._ 
+_Your answer will not be shared with the public. Text box will expand as you type. _
 
 _Lack of response from IOHK by email on changes to onboarding data and Collaboration with IOHK. I learnt that email might not be the most effective way to contact IOHK - will try Telegram. Also aware that this is a very busy time for IOHK._
 
@@ -59,7 +59,7 @@ _Lack of response from IOHK by email on changes to onboarding data and Collabora
 
 Fund5
 
-### Which Challenge is your Proposal in?  \_\_
+### Which Challenge is your Proposal in?  \__
 
 _F5: Developer Ecosystem_
 
@@ -67,7 +67,7 @@ _F5: Developer Ecosystem_
 
 DD 11 / MM 04 / YYYY 2021
 
-### Has your Project Launched?  \_\_
+### Has your Project Launched?  \__
 
 _Yes_
 
@@ -85,17 +85,17 @@ Uncertain
 
 ### Did anyone from the community provide you help? Give a shoutout to those who deserve it.
 
-Everyone involved with the Open Source Survey \( [https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues?q=is%3Aopen+is%3Aissue+label%3A%22FeedbackChallenge+%3A+Open+Source%22](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues?q=is%3Aopen+is%3Aissue+label%3A%22FeedbackChallenge+%3A+Open+Source%22)\). I will provide a more accessible summary in "Feedback Challenge : Open-Source Assessment Report".
+Everyone involved with the Open Source Survey ( [https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues?q=is%3Aopen+is%3Aissue+label%3A%22FeedbackChallenge+%3A+Open+Source%22](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/issues?q=is%3Aopen+is%3Aissue+label%3A%22FeedbackChallenge+%3A+Open+Source%22)). I will provide a more accessible summary in "Feedback Challenge : Open-Source Assessment Report".
 
 ### Any other metric to share about outcomes?
 
-Metrics and Reporting on Governance outcomes depends upon collaboration with IOHK. As I wish to document and report on 1\) The pathway of a funded cohort and 2\) An assessment of funded cohort reporting requirements.
+Metrics and Reporting on Governance outcomes depends upon collaboration with IOHK. As I wish to document and report on 1) The pathway of a funded cohort and 2) An assessment of funded cohort reporting requirements.
 
 ### Any status report you would like to share?
 
-Governance of the Quality-Assurance DAO , Fund 5, Developer Ecosystem Proposal is being documented in this section of the QA-DAO GitBook \([https://stephen-rowan.gitbook.io/quality-assurance-dao/catalyst-proposals/fund-5-developer-ecosystem-proposal-governance](https://stephen-rowan.gitbook.io/quality-assurance-dao/catalyst-proposals/fund-5-developer-ecosystem-proposal-governance) \). I will try to align my reporting to the biweekly schedule.
+Governance of the Quality-Assurance DAO , Fund 5, Developer Ecosystem Proposal is being documented in this section of the QA-DAO GitBook ([https://stephen-rowan.gitbook.io/quality-assurance-dao/catalyst-proposals/fund-5-developer-ecosystem-proposal-governance](https://stephen-rowan.gitbook.io/quality-assurance-dao/catalyst-proposals/fund-5-developer-ecosystem-proposal-governance) ). I will try to align my reporting to the biweekly schedule.
 
-## Cohort Meeting \#2 - September 7th, 2021
+## Cohort Meeting #2 - September 7th, 2021
 
 ![](../.gitbook/assets/2021-09-07.png)
 
@@ -107,7 +107,7 @@ Few housekeeping items 🧹
 
 👉 Agenda: 1. Catalyst updates: Fund 6, Catalyst Incubators, Summit 2. Coordinator standup: What you've done since last meeting? What is your next milestone? When will this be achieved?
 
-👉 Wen today? September 7th, Tuesday at 6pm UTC \(bi-weekly\) 👉 Where? Live on Zoom - register now via
+👉 Wen today? September 7th, Tuesday at 6pm UTC (bi-weekly) 👉 Where? Live on Zoom - register now via
 
 ⚠️ Also - this week is the next reporting cycle for the week of September 6th. Unsure where to submit your forms? Bookmark below link. If you missed previous weeks - make sure to submit another entry for that missing week as well.
 
@@ -119,23 +119,23 @@ Few housekeeping items 🧹
 
 In case of any doubts, please, let us know. Happy to help. 🤝
 
-Zoom Video Communications \([https://bit.ly/37kHZFB](https://bit.ly/37kHZFB)\) Welcome! You are invited to join a meeting: Catalyst Coordinator. After registering, you will receive a confirmation email about joining the meeting.
+Zoom Video Communications ([https://bit.ly/37kHZFB](https://bit.ly/37kHZFB)) Welcome! You are invited to join a meeting: Catalyst Coordinator. After registering, you will receive a confirmation email about joining the meeting.
 
 ### Meeting Recording
 
-{% embed url="https://www.youtube.com/watch?v=pDWSgWDsqHE" caption="" %}
+{% embed url="https://www.youtube.com/watch?v=pDWSgWDsqHE" %}
 
 ### Telegram
 
 ![](../.gitbook/assets/2021-09-09-6-.png)
 
-## Cohort Report \#2
+## Cohort Report #2
 
 ### 22nd September 2021
 
 ![](../.gitbook/assets/2021-09-22-15-.png)
 
-> Hi there - I \(QA-DAO\) completed the new Progress Report without any issues. For anyone interested completion of the old and new forms can be compared on my GitBook : Old Form \([https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-5-proposals/fund-5-developer-ecosystem-governance-detail\#cohort-progress-report-1](https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-5-proposals/fund-5-developer-ecosystem-governance-detail#cohort-progress-report-1) \) and New Form \([https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-5-proposals/fund-5-developer-ecosystem-governance-detail\#cohort-progress-report-2](https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-5-proposals/fund-5-developer-ecosystem-governance-detail#cohort-progress-report-2)\). All my cohort reporting is documented here - from the onboarding form onwards. I plan to use these materials to illustrate and provide commentary on the funded cohort experience. All the best S.
+> Hi there - I (QA-DAO) completed the new Progress Report without any issues. For anyone interested completion of the old and new forms can be compared on my GitBook : Old Form ([https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-5-proposals/fund-5-developer-ecosystem-governance-detail#cohort-progress-report-1](https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-5-proposals/fund-5-developer-ecosystem-governance-detail#cohort-progress-report-1) ) and New Form ([https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-5-proposals/fund-5-developer-ecosystem-governance-detail#cohort-progress-report-2](https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-5-proposals/fund-5-developer-ecosystem-governance-detail#cohort-progress-report-2)). All my cohort reporting is documented here - from the onboarding form onwards. I plan to use these materials to illustrate and provide commentary on the funded cohort experience. All the best S.
 
 
 
@@ -144,6 +144,4 @@ Zoom Video Communications \([https://bit.ly/37kHZFB](https://bit.ly/37kHZFB)\) W
 ### Boostcamp application
 
 ![](../.gitbook/assets/2021-10-07.png)
-
-
 

@@ -6,15 +6,15 @@ description: Homeless Hub Fund 6 Proposal
 
 ![](../.gitbook/assets/2021-08-30-4-.png)
 
-| Title | F6: Scale-UP Cardano's Community Hubs |
-| :--- | :--- |
-| Subject | Homeless Hub |
+| Title   | F6: Scale-UP Cardano's Community Hubs |
+| ------- | ------------------------------------- |
+| Subject | Homeless Hub                          |
 
-| Author | Stephen Whitenstall |
-| :--- | :--- |
-| Published | 18/08/2021 |
-| Version | 1 |
-| Revision | 0 |
+| Author    | Stephen Whitenstall |
+| --------- | ------------------- |
+| Published | 18/08/2021          |
+| Version   | 1                   |
+| Revision  | 0                   |
 
 Creative Commons Attribution
 
@@ -70,7 +70,5 @@ This hub would have its roots in the homeless community but can also engage othe
 
 ### References
 
-{% embed url="https://www.crisis.org.uk/media/241452/a\_home\_for\_all\_understanding\_migrant\_homelessness\_in\_great\_britain\_2019.pdf" %}
-
-
+{% embed url="https://www.crisis.org.uk/media/241452/a_home_for_all_understanding_migrant_homelessness_in_great_britain_2019.pdf" %}
 

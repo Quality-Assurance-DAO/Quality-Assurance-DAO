@@ -6,21 +6,21 @@ description: Fund 6 - Auditability Proposal - Distributed Auditability
 
 ![](../.gitbook/assets/2021-08-30-1-.png)
 
-| Title | Project Catalyst Fund 6 - Auditability Challenge |
-| :--- | :--- |
-| Subject | Distributed Auditability |
+| Title   | Project Catalyst Fund 6 - Auditability Challenge |
+| ------- | ------------------------------------------------ |
+| Subject | Distributed Auditability                         |
 
-![ Continuous delivery - Wikimedia Commons](../.gitbook/assets/0%20%281%29.png)
+![ Continuous delivery - Wikimedia Commons](<../.gitbook/assets/0 (1).png>)
 
 
 
-| **Author** | Stephen Whitenstall |
-| :--- | :--- |
-| **Published** | 19/08/2021 |
+| **Author**    | Stephen Whitenstall |
+| ------------- | ------------------- |
+| **Published** | 19/08/2021          |
 
 Creative Commons Attribution
 
-## **Ideascale link :** 
+## **Ideascale link : **
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Distributed-Auditability/366707-48088" %}
 
@@ -42,13 +42,15 @@ Automate funded proposal reporting.
 
 ## **Relevant experience**
 
-Stephen has 30 years' experience in organizing academic, community and business projects \(See Detailed plan\).
+Stephen has 30 years' experience in organizing academic, community and business projects (See Detailed plan).
 
 https://www.linkedin.com/in/stephen-whitenstall-166727210/
 
-## **Website/GitHub repository \(not required\)**
+## **Website/GitHub repository (not required)**
 
-{% embed url="https://github.com/Quality-Assurance-DAO/F6-Improve-and-Grow-Auditability-Proposal-Distributed-Auditability" caption="GitHub Repo" %}
+{% embed url="https://github.com/Quality-Assurance-DAO/F6-Improve-and-Grow-Auditability-Proposal-Distributed-Auditability" %}
+GitHub Repo
+{% endembed %}
 
 ## **Detailed Plan**
 
@@ -74,7 +76,7 @@ The initial intention of the Fund 5 - QA-DAO proposal is to examine how the Fund
 
 ### 0.2 Prototyping
 
-Stephen provides support to Catalyst Swarm by documenting and tracking it's activities. This has been done continuously since 7th July 2021 by raising GitHub issues that track Core Swarm Activities such as meetings, After Town Halls, events \(Idea Fest\) and Saturday Swarm Sessions.
+Stephen provides support to Catalyst Swarm by documenting and tracking it's activities. This has been done continuously since 7th July 2021 by raising GitHub issues that track Core Swarm Activities such as meetings, After Town Halls, events (Idea Fest) and Saturday Swarm Sessions.
 
 ![Catalyst-Swarm Issue Templates](../.gitbook/assets/2021-08-21-2-.png)
 
@@ -84,7 +86,7 @@ The ongoing experience of working with a widely distributed team working on many
 
 ### 0.3 Auditability Workflows
 
-The data from funded cohort reporting and qualitative research \(into how reporting varies\) will inform the design of auditability workflows. An auditability workflow will model the working practices of participants, the metrics they report on, whether this fit into their own documentation and how they might benefit from automation.
+The data from funded cohort reporting and qualitative research (into how reporting varies) will inform the design of auditability workflows. An auditability workflow will model the working practices of participants, the metrics they report on, whether this fit into their own documentation and how they might benefit from automation.
 
 ### Phase 1 - Funded Proposal - November 2021 to February 2022
 
@@ -147,4 +149,3 @@ TBA
 ##  **Requested funds in USD:**
 
 TBA
-

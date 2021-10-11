@@ -30,7 +30,7 @@ Project Catalyst Voters, Community, Proposers, Implementers and Community Adviso
 
 ### How many members does your team have today?
 
-1 \(yourself\)
+1 (yourself)
 
 ### What is your current planned implementation/delivery date?
 
@@ -70,7 +70,7 @@ No
 
 ### Page 4
 
-![](../.gitbook/assets/2021-08-13-10-%20%281%29%20%281%29.png)
+![](<../.gitbook/assets/2021-08-13-10- (1) (1).png>)
 
 ![](../.gitbook/assets/2021-08-13-11-.png)
 
@@ -82,9 +82,9 @@ No
 
 ![](../.gitbook/assets/2021-08-13-14-.png)
 
-## Week 34 - Cohort Progress Report \#1
+## Week 34 - Cohort Progress Report #1
 
-![](../.gitbook/assets/2021-08-27%20%281%29.png)
+![](<../.gitbook/assets/2021-08-27 (1).png>)
 
 ![](../.gitbook/assets/2021-08-27-1-.png)
 
@@ -100,7 +100,7 @@ No
 
 ![](../.gitbook/assets/2021-08-27-9-.png)
 
-## Week 36 - Cohort Progress Report \#2 - Test Case
+## Week 36 - Cohort Progress Report #2 - Test Case
 
 ![](../.gitbook/assets/2021-09-22.png)
 
@@ -146,7 +146,7 @@ No
 
 ### Catalyst Boost Camp Application
 
-![](../.gitbook/assets/2021-10-07%20%281%29.png)
+![](<../.gitbook/assets/2021-10-07 (1).png>)
 
 > Kriss Baird, 30.09.2021 at 09:23
 >
@@ -157,6 +157,21 @@ No
 ## Week 40 - 4th October 2021
 
 {% hint style="info" %}
-Cohort Report due : 18th October 2021
+Cohort Progress report due : 10th October 2021
 {% endhint %}
 
+![](<../.gitbook/assets/2021-10-11 (5).png>)
+
+
+
+![](<../.gitbook/assets/2021-10-11 (6).png>)
+
+
+
+![](<../.gitbook/assets/2021-10-11 (7).png>)
+
+![](<../.gitbook/assets/2021-10-11 (8).png>)
+
+![](<../.gitbook/assets/2021-10-11 (9).png>)
+
+![](<../.gitbook/assets/2021-10-11 (10).png>)

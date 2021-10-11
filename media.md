@@ -4,9 +4,9 @@ description: QA-DAO in the media
 
 # Media
 
-## Twitter - [https://twitter.com/qa\_dao](https://twitter.com/qa_dao)
+## Twitter - [https://twitter.com/qa_dao](https://twitter.com/qa_dao)
 
-![@qa\_dao -  The Distributed Autonomous Organisation of Quality Assurance](.gitbook/assets/2021-07-20-1-.png)
+![@qa_dao -  The Distributed Autonomous Organisation of Quality Assurance](.gitbook/assets/2021-07-20-1-.png)
 
 ## Cardano Project Catalyst Discord Channel - Fund 5 Proposal
 
@@ -14,19 +14,19 @@ description: QA-DAO in the media
 
 ## Youtube Channel - Stephen Whitenstall
 
-{% embed url="https://www.youtube.com/channel/UCSqcMeG4ympeqoQRI\_zczzA/featured" %}
+{% embed url="https://www.youtube.com/channel/UCSqcMeG4ympeqoQRI_zczzA/featured" %}
 
 
 
 ## QA-DAO in the media
 
-### Project Catalyst Town Hall \#16
+### Project Catalyst Town Hall #16
 
 #### July 14th 2021
 
- [00:04:17](https://www.youtube.com/watch?v=_H-dSnMmpA4&t=257s) Presentation by Stephen Whitenstall from Catalyst GitBook Project
+ [00:04:17](https://www.youtube.com/watch?v=\_H-dSnMmpA4\&t=257s) Presentation by Stephen Whitenstall from Catalyst GitBook Project
 
-{% embed url="https://www.youtube.com/watch?v=\_H-dSnMmpA4&t=936s" %}
+{% embed url="https://www.youtube.com/watch?v=_H-dSnMmpA4&t=936s" %}
 
 ### Tracking effort and merit in Cardano
 
@@ -34,15 +34,13 @@ description: QA-DAO in the media
 
 {% embed url="https://www.youtube.com/watch?v=Vf74Ia7UMlU&t" %}
 
- Tracking effort and merit, NFTs, social media, SourceCred and testing it out in The Catalyst Alliance. A detailed summary can be found [here ](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXNWVFM3LUYxbktXbWVoU0xOeGw2VkV5OEluZ3xBQ3Jtc0tsMVluTzQ3QXdGMzVEUHlQQXFnb0V6Z0R1VUI1bTR3NjNFUTJ2OEZLeG1Ld0NUWmpqQ3RWUzJxdXJjMTlUR3dhbUVKR1FvOUNvdXFJTEhnQ2ozSlNELUVpYklVTmQxVGhFXzNlT0dHTjdWOE5uWDZOUQ&q=https%3A%2F%2Fcatalyst-swarm.gitbook.io%2Fthe-catalyst-alliance%2Ftracking-effort-and-merit-in-cardano%2Ftracking-effort-and-merit-in-cardano%23meeting-8th-july-2021).
+ Tracking effort and merit, NFTs, social media, SourceCred and testing it out in The Catalyst Alliance. A detailed summary can be found [here ](https://www.youtube.com/redirect?event=video_description\&redir_token=QUFFLUhqbXNWVFM3LUYxbktXbWVoU0xOeGw2VkV5OEluZ3xBQ3Jtc0tsMVluTzQ3QXdGMzVEUHlQQXFnb0V6Z0R1VUI1bTR3NjNFUTJ2OEZLeG1Ld0NUWmpqQ3RWUzJxdXJjMTlUR3dhbUVKR1FvOUNvdXFJTEhnQ2ozSlNELUVpYklVTmQxVGhFXzNlT0dHTjdWOE5uWDZOUQ\&q=https%3A%2F%2Fcatalyst-swarm.gitbook.io%2Fthe-catalyst-alliance%2Ftracking-effort-and-merit-in-cardano%2Ftracking-effort-and-merit-in-cardano%23meeting-8th-july-2021).
 
 ### SourceCred Use, Set-Up and Strategy
 
 #### 5th July 2021
 
-Danielo Ospina \(Aragon\), Stephen Whitenstall, Tevo, Seomon \(Catalyst Swarm\) and Tyler Wales \(Secret Decks\)
+Danielo Ospina (Aragon), Stephen Whitenstall, Tevo, Seomon (Catalyst Swarm) and Tyler Wales (Secret Decks)
 
 {% embed url="https://www.youtube.com/watch?v=kv-qXx8UvPc&t" %}
-
-
 

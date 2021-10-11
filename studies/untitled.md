@@ -4,32 +4,32 @@ description: IDO Launch Study
 
 # OccamFi OCC IDO
 
-{% embed url="https://drive.google.com/file/d/1NZxX4\_cEyqeKZZyetenO6FtchOnlQzlF/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1NZxX4_cEyqeKZZyetenO6FtchOnlQzlF/view?usp=sharing" %}
 
 
 
 ![A large group of people wearing hats
 
-Description automatically generated with low confidence](../.gitbook/assets/0%20%281%29.jpeg)
+Description automatically generated with low confidence](<../.gitbook/assets/0 (1).jpeg>)
 
 Curb brokers in Wall Street, New York City,1920
 
 Bain News Service, Public domain, via Wikimedia Commons
 
-| **Author** | Stephen Whitenstall |
-| :--- | :--- |
-| **Published** | 12/05/2021 |
-| **Version** | For Community Review 1.0 |
-| **Licence** | Creative Commons Attribution |
+| **Author**    | Stephen Whitenstall          |
+| ------------- | ---------------------------- |
+| **Published** | 12/05/2021                   |
+| **Version**   | For Community Review 1.0     |
+| **Licence**   | Creative Commons Attribution |
 
-| **Distribution \(Alphabetical order\)** |  |
-| :--- | :--- |
-| Aldea \(Catalyst Proposal\) | Aldea Discord Server |
-| Liqwid Finance \(Catalyst Proposal\) | Liqwid Finance Discord Server |
-| NFT-DAO \(Catalyst Proposal\) | NFT-DAO Discord Server |
-| OccamFi | OccamFi Discord Server |
-| Project Catalyst | Project Catalyst Discord Server |
-| Innovatio \(Catalyst Proposal\) | Innovatio Discord Server |
+| **Distribution (Alphabetical order)** |                                 |
+| ------------------------------------- | ------------------------------- |
+| Aldea (Catalyst Proposal)             | Aldea Discord Server            |
+| Liqwid Finance (Catalyst Proposal)    | Liqwid Finance Discord Server   |
+| NFT-DAO (Catalyst Proposal)           | NFT-DAO Discord Server          |
+| OccamFi                               | OccamFi Discord Server          |
+| Project Catalyst                      | Project Catalyst Discord Server |
+| Innovatio (Catalyst Proposal)         | Innovatio Discord Server        |
 
 ## Overview
 
@@ -37,7 +37,7 @@ The purpose of this study is to:
 
 1 – Document and communicate with the Catalyst Community the launch of a token that aims to bridge the Ethereum and Cardano blockchains.
 
-2 – Provide a detailed timeline of a Token launch to inform future strategy, development, and testing in other Catalyst proposals \(particularly Token launches\).
+2 – Provide a detailed timeline of a Token launch to inform future strategy, development, and testing in other Catalyst proposals (particularly Token launches).
 
 3 – Assess with the Catalyst Community how different financing models such as outside Venture Capital, in contrast to Project Catalyst funding, may impact the reception of a token launch.
 
@@ -45,9 +45,9 @@ The purpose of this study is to:
 
 ## Scope
 
-This study examines the period between **March 29th** and **April 14th, 2021** when OccamFi announced and released an “Initial Distribution Offer” \(IDO\) of a token called OCC intended to bring capital liquidity to Cardano via OccamFi’s DEFI LaunchPad.
+This study examines the period between **March 29th** and **April 14th, 2021** when OccamFi announced and released an “Initial Distribution Offer” (IDO) of a token called OCC intended to bring capital liquidity to Cardano via OccamFi’s DEFI LaunchPad.
 
-The roadmap for OccamFi’s LaunchPad is to build a DEX and Capital Markets on its launchpad and progress towards a single governance layer which aims to be a distributed autonomous organisation \(DAO\).
+The roadmap for OccamFi’s LaunchPad is to build a DEX and Capital Markets on its launchpad and progress towards a single governance layer which aims to be a distributed autonomous organisation (DAO).
 
 OccamFi’s web hosted platform is called OccamRazor. The OccamRazor web platform has an overview and detailed section that displays its OCC offering and links to Metamask wallet for transactions.
 
@@ -57,7 +57,7 @@ Some online content will have changed since this study’s publication.
 
 OccamFi began to market its OCC launch to the public from **March 29th, 2021** with a “_Ready for DEFI on Cardano_” announcement on its Twitter feed. Followed by details of OccamFi’s Ethereum to Cardano liquidity bridge on March 30th, 2021.
 
-On **April 1st, 2021**, OccamFi shared information about OCC’s token private investment round and confirmed that participation from leading tech venture capital \(VC\) firms had concluded. The completion of VC funding led to the opportunity to buy OCC through OccamFi’s public offering on its LaunchPad OccamRazor.
+On **April 1st, 2021**, OccamFi shared information about OCC’s token private investment round and confirmed that participation from leading tech venture capital (VC) firms had concluded. The completion of VC funding led to the opportunity to buy OCC through OccamFi’s public offering on its LaunchPad OccamRazor.
 
 From the outset OccamFi’s announcements attracted commentary from the Cardano community. The reaction to the private VC funding touched upon Cardano’s culture of transparency, accessibility, and community involvement.
 
@@ -79,11 +79,11 @@ On **April 11th**, OccamFi presented a first outline of OCC tokenomics in a Medi
 
 ## OCC Launch Timeline Summary
 
-The day of the launch, **14th April**, started at **2.30pm** \(UTC\) with a timer announcing, “_Get ready for the moment we've all been waiting for!_”
+The day of the launch, **14th April**, started at **2.30pm** (UTC) with a timer announcing, “_Get ready for the moment we've all been waiting for!_”
 
 Among responses there was some confusion over where to buy the tokens, whether US citizens could participate and reports of the website being down.
 
-At **5:30 PM** \(UTC\), OccamFi announced that “_The long-awaited moment has finally arrived._” The OCC IDO was Live.
+At **5:30 PM** (UTC), OccamFi announced that “_The long-awaited moment has finally arrived._” The OCC IDO was Live.
 
 The response to this tweet were numerous and mostly negative.
 
@@ -93,16 +93,16 @@ Complaints included:
 * The website was down or inaccessible on mobile platforms.
 * Wasted ETH transaction fees.
 
-At **5:31 PM** \(UTC\) OccamFi tweeted a link to their FAQ “_A step-by-step guide to participating in our IDO_” on their GitBook.
+At **5:31 PM** (UTC) OccamFi tweeted a link to their FAQ “_A step-by-step guide to participating in our IDO_” on their GitBook.
 
 The negative responses to this tweet continued.
 
 Complaints included:
 
-* The expense of participating \(one person cited a minimum buy of 0.08 ETH costing $168 plus fees\).
+* The expense of participating (one person cited a minimum buy of 0.08 ETH costing $168 plus fees).
 * The website was down or inaccessible on mobile platforms.
 
-At **5:43 PM** \(UTC\), OccamFi tweeted out the suggestion to “_Please refresh the page_” to connect to the MetaMask Wallet.
+At **5:43 PM** (UTC), OccamFi tweeted out the suggestion to “_Please refresh the page_” to connect to the MetaMask Wallet.
 
 The negative responses to this tweet continued.
 
@@ -122,7 +122,7 @@ Complaints included:
 * High fees on Uniswap.
 * Messages being ignored on Telegram.
 
-At **6.00 PM** \(UTC\), OccamFi tweeted out a link to their GitBook on how to “Claim your tokens”.
+At **6.00 PM** (UTC), OccamFi tweeted out a link to their GitBook on how to “Claim your tokens”.
 
 The negative responses to this tweet continued.
 
@@ -131,7 +131,7 @@ Complaints included:
 * Criticism of the distribution model. That only 175 people were able to claim IDO tokens.
 * Immediately following an IDO with a Uniswap listing.
 
-At **6.13 PM** \(UTC\), OccamFi tweeted out an image of people jumping in air with joy, thanking people and citing “_unprecedented levels of participation_.
+At **6.13 PM** (UTC), OccamFi tweeted out an image of people jumping in air with joy, thanking people and citing “_unprecedented levels of participation_.
 
 OccamFi provided the information that “_almost 100k users_” tried to access the IDO which was sold out in under 30 seconds.
 
@@ -142,7 +142,7 @@ Complaints included:
 * The tweeted image appeared to celebrate a failure and trivialised the frustrations of those unable to access the IDO.
 * Frustration with Telegram support directing users to the FAQ.
 
-Two and half hours later, at 9:37 PM \(UTC\), OccamFi tweeted out the message that “_We understand that some of you were frustrated_”, with a link to a Medium article entitled “_An Open Letter to the Occam.fi and Cardano Community from the Occam Association_”.
+Two and half hours later, at 9:37 PM (UTC), OccamFi tweeted out the message that “_We understand that some of you were frustrated_”, with a link to a Medium article entitled “_An Open Letter to the Occam.fi and Cardano Community from the Occam Association_”.
 
 Responses to this article were mostly negative.
 
@@ -159,7 +159,7 @@ The timeline ends here.
 
 #### Website:
 
-[https://occam.fi/](https://occam.fi/)
+[https://occam.fi/](https://occam.fi)
 
 ![A screenshot of a video game
 
@@ -169,9 +169,9 @@ OccamFi has a straightforward one-page website that offloads it content across T
 
 Also, on the website is:
 
-A link to **Deck** a pdf presentation of Occam Razor’s rationale in the DEFI landscape \([https://occam.fi/docs/occam\_deck.pdf](https://occam.fi/docs/occam_deck.pdf)\).
+A link to **Deck** a pdf presentation of Occam Razor’s rationale in the DEFI landscape ([https://occam.fi/docs/occam_deck.pdf](https://occam.fi/docs/occam_deck.pdf)).
 
-A link to the **OccamRazor Whitepaper** \( [https://occam.fi/docs/occamrazer\_wp\_v1.pdf](https://occam.fi/docs/occamrazer_wp_v1.pdf) \) which outlines the protocols capability to support financial instruments that utilise bonding curves, price, and auction mechanics, staking pools and engagement incentives such as bounty hunting and referral systems.
+A link to the **OccamRazor Whitepaper** ( [https://occam.fi/docs/occamrazer_wp_v1.pdf](https://occam.fi/docs/occamrazer_wp_v1.pdf) ) which outlines the protocols capability to support financial instruments that utilise bonding curves, price, and auction mechanics, staking pools and engagement incentives such as bounty hunting and referral systems.
 
 #### Telegram
 
@@ -179,7 +179,7 @@ A Telegram account at [https://t.me/occamfi](https://t.me/occamfi) provides regu
 
 ![Graphical user interface, text, application, chat or text message
 
-Description automatically generated](../.gitbook/assets/2%20%282%29.png)
+Description automatically generated](<../.gitbook/assets/2 (2).png>)
 
 #### Medium
 
@@ -187,21 +187,21 @@ Description automatically generated](../.gitbook/assets/2%20%282%29.png)
 
 ![Graphical user interface, application
 
-Description automatically generated](../.gitbook/assets/3%20%281%29.png)
+Description automatically generated](<../.gitbook/assets/3 (1).png>)
 
-OccamFi has several articles on its Medium account. The earliest post is dated to March 29th, 2021. But not all articles are visible on the landing page \(no earliest article link\).
+OccamFi has several articles on its Medium account. The earliest post is dated to March 29th, 2021. But not all articles are visible on the landing page (no earliest article link).
 
-A notable post is “_An Open Letter to the Occam.fi and Cardano Community from the Occam Association_” \([https://medium.com/occam-finance/an-open-letter-to-the-occam-fi-and-cardano-community-from-the-occam-association-431177bc43e1](https://medium.com/occam-finance/an-open-letter-to-the-occam-fi-and-cardano-community-from-the-occam-association-431177bc43e1)\). Which responded to criticisms of the OCC launch.
+A notable post is “_An Open Letter to the Occam.fi and Cardano Community from the Occam Association_” ([https://medium.com/occam-finance/an-open-letter-to-the-occam-fi-and-cardano-community-from-the-occam-association-431177bc43e1](https://medium.com/occam-finance/an-open-letter-to-the-occam-fi-and-cardano-community-from-the-occam-association-431177bc43e1)). Which responded to criticisms of the OCC launch.
 
 #### Twitter
 
-OccamFi has an active Twitter account \([https://twitter.com/OccamFi](https://twitter.com/OccamFi)\) with 17.7K Followers. Activated March 2021.
+OccamFi has an active Twitter account ([https://twitter.com/OccamFi](https://twitter.com/OccamFi)) with 17.7K Followers. Activated March 2021.
 
 ![Graphical user interface, website
 
 Description automatically generated](../.gitbook/assets/4.png)
 
-OccamFi also uses the semrush social-media-tool \(https://www.semrush.com/features/social-media-tool/\)
+OccamFi also uses the semrush social-media-tool (https://www.semrush.com/features/social-media-tool/)
 
 #### Instagram
 
@@ -225,7 +225,7 @@ The top post is headlined as “!!! SCAM ALERT !!!”
 
 ![Graphical user interface, text, application, email
 
-Description automatically generated](../.gitbook/assets/7%20%281%29.png)
+Description automatically generated](<../.gitbook/assets/7 (1).png>)
 
 #### GitBook FAQ:
 
@@ -257,7 +257,7 @@ _We believe transparency to be paramount, so we will make the audits publicly av
 
 ## The OccamRazor Platform
 
-[https://razer.occam.fi/](https://razer.occam.fi/)
+[https://razer.occam.fi/](https://razer.occam.fi)
 
 ### OccamRazor - Initial page
 
@@ -265,7 +265,7 @@ _We believe transparency to be paramount, so we will make the audits publicly av
 
 Description automatically generated](../.gitbook/assets/10.png)
 
-The initial OccamRazor platform page presents the “Featured” OCC Token offering status. There are links at the top of the page to the OccamFi website, Platform FAQ \(GitBook https://occam-fi.gitbook.io/occam-faq/-MY6AK8LDbVHXnVAsex9/occamrazer-platform-faq\) and an “Apply for IDO” form.
+The initial OccamRazor platform page presents the “Featured” OCC Token offering status. There are links at the top of the page to the OccamFi website, Platform FAQ (GitBook https://occam-fi.gitbook.io/occam-faq/-MY6AK8LDbVHXnVAsex9/occamrazer-platform-faq) and an “Apply for IDO” form.
 
 There is a link to the Metamask wallet.
 
@@ -275,7 +275,7 @@ With a ticker symbol indicating conversion between OCC/ETH.
 
 1 ETH = 1,125 OCC and 1 OCC = 0.0008 ETH respectively.
 
-A gauge indicates that a soft cap \(minimum capitalisation\) of 200,000 OCC has been achieved in the initial offering. A calendar icon to the right displays the data range of the offering as between April 14 and April 21st, 2021.
+A gauge indicates that a soft cap (minimum capitalisation) of 200,000 OCC has been achieved in the initial offering. A calendar icon to the right displays the data range of the offering as between April 14 and April 21st, 2021.
 
 An unlocked padlock icon indicates that the liquidity pool is public to which anyone may participate.
 
@@ -287,7 +287,7 @@ A figures icon represents those who were able to take part as 175 participants.
 
 ![A screenshot of a computer
 
-Description automatically generated](../.gitbook/assets/11%20%281%29.png)
+Description automatically generated](<../.gitbook/assets/11 (1).png>)
 
 There is a link to the Metamask wallet.
 
@@ -304,7 +304,7 @@ The detailed view indicates:
 
 A Token section indicates:
 
-1. The Token as OCC \(OCC\)
+1. The Token as OCC (OCC)
 2. The Total Supply as 100,000,000 OCC
 3. And provides a Etherscan Address.
 
@@ -328,7 +328,7 @@ And provides links to the Website, Wwhitepaper, Twitter, Telegram and Medium.
 
 ![Graphical user interface, text, application, chat or text message
 
-Description automatically generated](../.gitbook/assets/2%20%282%29%20%281%29.png)
+Description automatically generated](<../.gitbook/assets/2 (2) (1).png>)
 
 **.**
 
@@ -354,41 +354,41 @@ The major source of news and engagement for the OCC launch is on OccamFi’s Twi
 
 #### Ready for DEFI on Cardano
 
-Ready for DEFI on Cardano \(https://twitter.com/OccamFi/status/1376313910282817541\)
+Ready for DEFI on Cardano (https://twitter.com/OccamFi/status/1376313910282817541)
 
-Link to Medium Article. \( [https://medium.com/occam-finance/the-razers-edge-of-defi-arrives-on-cardano-1bf188361abc](https://medium.com/occam-finance/the-razers-edge-of-defi-arrives-on-cardano-1bf188361abc)\)
+Link to Medium Article. ( [https://medium.com/occam-finance/the-razers-edge-of-defi-arrives-on-cardano-1bf188361abc](https://medium.com/occam-finance/the-razers-edge-of-defi-arrives-on-cardano-1bf188361abc))
 
 ### March 30th, 2021
 
-#### \#Ethereum to [\#Cardano](https://twitter.com/hashtag/Cardano?src=hashtag_click) liquidity bridge.
+#### #Ethereum to [#Cardano](https://twitter.com/hashtag/Cardano?src=hashtag_click) liquidity bridge.
 
-Tomorrow, we will reveal the first details of our unique [\#Ethereum](https://twitter.com/hashtag/Ethereum?src=hashtag_click) to [\#Cardano](https://twitter.com/hashtag/Cardano?src=hashtag_click) liquidity bridge.
+Tomorrow, we will reveal the first details of our unique [#Ethereum](https://twitter.com/hashtag/Ethereum?src=hashtag_click) to [#Cardano](https://twitter.com/hashtag/Cardano?src=hashtag_click) liquidity bridge.
 
-\([https://twitter.com/OccamFi/status/1377004274715086849](https://twitter.com/OccamFi/status/1377004274715086849)\)
+([https://twitter.com/OccamFi/status/1377004274715086849](https://twitter.com/OccamFi/status/1377004274715086849))
 
 ### March 31st, 2021
 
-#### Press Release \(a paid press release\)
+#### Press Release (a paid press release)
 
 https://cointelegraph.com/press-releases/occamrazer-the-first-defi-launchpad-for-cardano
 
 ### April 1st, 2021
 
-#### the [\#OCC](https://twitter.com/hashtag/OCC?src=hashtag_click) token private investment round.
+#### the [#OCC](https://twitter.com/hashtag/OCC?src=hashtag_click) token private investment round.
 
-Many of you asked about the [\#OCC](https://twitter.com/hashtag/OCC?src=hashtag_click) token private investment round. We're pleased to share that this has already concluded, with participation from leading [\#tech](https://twitter.com/hashtag/tech?src=hashtag_click) VC firms. Opportunity to buy OCC will come through our public offering. More details soon! [\#venturecapital](https://twitter.com/hashtag/venturecapital?src=hashtag_click) [\#ADA](https://twitter.com/hashtag/ADA?src=hashtag_click) [\#Cardano](https://twitter.com/hashtag/Cardano?src=hashtag_click)
+Many of you asked about the [#OCC](https://twitter.com/hashtag/OCC?src=hashtag_click) token private investment round. We're pleased to share that this has already concluded, with participation from leading [#tech](https://twitter.com/hashtag/tech?src=hashtag_click) VC firms. Opportunity to buy OCC will come through our public offering. More details soon! [#venturecapital](https://twitter.com/hashtag/venturecapital?src=hashtag_click) [#ADA](https://twitter.com/hashtag/ADA?src=hashtag_click) [#Cardano](https://twitter.com/hashtag/Cardano?src=hashtag_click)
 
-\(https://twitter.com/OccamFi/status/1377708559056703494\)
+(https://twitter.com/OccamFi/status/1377708559056703494)
 
 **Responses:**
 
 “_How about opening the data of what percentage was bought by VCs, the lack of transparency does not seem to me to be a fair launch. The Cardano community is used to transparency_.” - April 2nd, 2021
 
-“_Private sales.... Not what Cardano is all about. I hope this is a Aprils fools. If not, Go to Tron or the rainbow crew. Cardano needs openness and accessibility for all. Actors doing shady backyard sales belongs in the present._ [_\#missedthepoint_](https://twitter.com/hashtag/missedthepoint?src=hashtag_click) [_\#ADA_](https://twitter.com/hashtag/ADA?src=hashtag_click) [_\#CardanoCommunity_](https://twitter.com/hashtag/CardanoCommunity?src=hashtag_click) [_\#CARDANO_](https://twitter.com/hashtag/CARDANO?src=hashtag_click) “- April 1st, 2021
+“_Private sales.... Not what Cardano is all about. I hope this is a Aprils fools. If not, Go to Tron or the rainbow crew. Cardano needs openness and accessibility for all. Actors doing shady backyard sales belongs in the present._ [_#missedthepoint_](https://twitter.com/hashtag/missedthepoint?src=hashtag_click) [_#ADA_](https://twitter.com/hashtag/ADA?src=hashtag_click) [_#CardanoCommunity_](https://twitter.com/hashtag/CardanoCommunity?src=hashtag_click) [_#CARDANO_](https://twitter.com/hashtag/CARDANO?src=hashtag_click) “- April 1st, 2021
 
 _“Can’t wait! Go Cardano!”_ - April 1st, 2021
 
-_“Will_ [_$ADA_](https://twitter.com/search?q=%24ADA&src=cashtag_click) _holders get preference to buy as part of the public offering?”_ - April 1st, 2021
+_“Will_ [_$ADA_](https://twitter.com/search?q=%24ADA\&src=cashtag_click) _holders get preference to buy as part of the public offering?”_ - April 1st, 2021
 
 _“Typical”_ - April 1st, 2021
 
@@ -400,11 +400,11 @@ _“Typical”_ - April 1st, 2021
 
 #### _Analysing the Funding Landscape of Cardano_
 
-Why are we passionate about building a decentralized launchpad for [\#Cardano](https://twitter.com/hashtag/Cardano?src=hashtag_click)? Find out in our funding landscape article, where we take a deep dive into the routes projects can take to raise funds to build on Cardano. [\#DeFi](https://twitter.com/hashtag/DeFi?src=hashtag_click) [$ADA](https://twitter.com/search?q=%24ADA&src=cashtag_click) [\#OccamRazer](https://twitter.com/hashtag/OccamRazer?src=hashtag_click) [\#Launchpad](https://twitter.com/hashtag/Launchpad?src=hashtag_click)
+Why are we passionate about building a decentralized launchpad for [#Cardano](https://twitter.com/hashtag/Cardano?src=hashtag_click)? Find out in our funding landscape article, where we take a deep dive into the routes projects can take to raise funds to build on Cardano. [#DeFi](https://twitter.com/hashtag/DeFi?src=hashtag_click) [$ADA](https://twitter.com/search?q=%24ADA\&src=cashtag_click) [#OccamRazer](https://twitter.com/hashtag/OccamRazer?src=hashtag_click) [#Launchpad](https://twitter.com/hashtag/Launchpad?src=hashtag_click)
 
-\(https://twitter.com/OccamFi/status/1378318306843758592\)
+(https://twitter.com/OccamFi/status/1378318306843758592)
 
-Link to Medium Article “_Analysing the Funding Landscape of Cardano_” \(https://medium.com/occam-finance/analysing-the-funding-landscape-of-cardano-d3f1549bc4f3 \)
+Link to Medium Article “_Analysing the Funding Landscape of Cardano_” (https://medium.com/occam-finance/analysing-the-funding-landscape-of-cardano-d3f1549bc4f3 )
 
 **Responses:**
 
@@ -416,11 +416,11 @@ Link to Medium Article “_Analysing the Funding Landscape of Cardano_” \(http
 
 #### Ambassador beta testers
 
-We are opening [\#OccamRazer](https://twitter.com/hashtag/OccamRazer?src=hashtag_click) to selected [\#Cardano](https://twitter.com/hashtag/Cardano?src=hashtag_click) Ambassador beta testers. If you want to apply for testing and get a first look at our platform, read on to find out how! [\#DeFi](https://twitter.com/hashtag/DeFi?src=hashtag_click) [\#Blockchain](https://twitter.com/hashtag/Blockchain?src=hashtag_click) [\#Crypto](https://twitter.com/hashtag/Crypto?src=hashtag_click)
+We are opening [#OccamRazer](https://twitter.com/hashtag/OccamRazer?src=hashtag_click) to selected [#Cardano](https://twitter.com/hashtag/Cardano?src=hashtag_click) Ambassador beta testers. If you want to apply for testing and get a first look at our platform, read on to find out how! [#DeFi](https://twitter.com/hashtag/DeFi?src=hashtag_click) [#Blockchain](https://twitter.com/hashtag/Blockchain?src=hashtag_click) [#Crypto](https://twitter.com/hashtag/Crypto?src=hashtag_click)
 
-\([https://twitter.com/OccamFi/status/1379115234573619201](https://twitter.com/OccamFi/status/1379115234573619201)\)
+([https://twitter.com/OccamFi/status/1379115234573619201](https://twitter.com/OccamFi/status/1379115234573619201))
 
-Link to Medium Article “_Occam.fi to Open the OccamRazer Launchpad to Selected Cardano Community Beta Testers_“ \([https://medium.com/occam-finance/occam-fi-to-open-the-occamrazer-launchpad-to-selected-cardano-community-beta-testers-c8b3e8176d5d](https://medium.com/occam-finance/occam-fi-to-open-the-occamrazer-launchpad-to-selected-cardano-community-beta-testers-c8b3e8176d5d)\)
+Link to Medium Article “_Occam.fi to Open the OccamRazer Launchpad to Selected Cardano Community Beta Testers_“ ([https://medium.com/occam-finance/occam-fi-to-open-the-occamrazer-launchpad-to-selected-cardano-community-beta-testers-c8b3e8176d5d](https://medium.com/occam-finance/occam-fi-to-open-the-occamrazer-launchpad-to-selected-cardano-community-beta-testers-c8b3e8176d5d))
 
 **Quotes from article:**
 
@@ -445,7 +445,7 @@ Successful applicants will be given next-steps via email, so please provide an e
 
 Description automatically generated](../.gitbook/assets/15.png)
 
-Occam DEX and Launchpad with Mark Berger, President of Occam Association \| Rick McCracken, Cardano Live \#2, 4,824 views, Streamed live on YouTube 5 Apr 2021 \(https://www.youtube.com/watch?v=vTBLIZ7voz8\)
+Occam DEX and Launchpad with Mark Berger, President of Occam Association | Rick McCracken, Cardano Live #2, 4,824 views, Streamed live on YouTube 5 Apr 2021 (https://www.youtube.com/watch?v=vTBLIZ7voz8)
 
 **Quotes:**
 
@@ -455,7 +455,7 @@ Occam DEX and Launchpad with Mark Berger, President of Occam Association \| Rick
 
 _“… we are, most likely, going to launch the token on our launchpad so people can buy this in a decentralised way …”_ - Mark Berger
 
-“_There was a first audit done by a Swiss company called Scalable Solutions and there is a second audit in the works \(by a renowned security company\) …which will make \(audits\) publicly available…”_ - Mark Berger
+“_There was a first audit done by a Swiss company called Scalable Solutions and there is a second audit in the works (by a renowned security company) …which will make (audits) publicly available…”_ - Mark Berger
 
 “_Scalable Solutions did the original … security auditing, now just to clarify, are you the CEO of Scalable Solutions …?”_ - Rick McCracken
 
@@ -479,15 +479,15 @@ Does the Cardano community get same access to project funding as VC? Once vettin
 
 #### Occam Association team and Advisors
 
-You asked, we answered. We are delighted to share with you the core Occam Association team and Advisors. We hope you'll recognise some familiar faces! Our talent profile is growing, stay tuned for more updates. [\#Blockchain](https://twitter.com/hashtag/Blockchain?src=hashtag_click) [\#DeFi](https://twitter.com/hashtag/DeFi?src=hashtag_click) [\#Crypto](https://twitter.com/hashtag/Crypto?src=hashtag_click) [$ADA](https://twitter.com/search?q=%24ADA&src=cashtag_click)
+You asked, we answered. We are delighted to share with you the core Occam Association team and Advisors. We hope you'll recognise some familiar faces! Our talent profile is growing, stay tuned for more updates. [#Blockchain](https://twitter.com/hashtag/Blockchain?src=hashtag_click) [#DeFi](https://twitter.com/hashtag/DeFi?src=hashtag_click) [#Crypto](https://twitter.com/hashtag/Crypto?src=hashtag_click) [$ADA](https://twitter.com/search?q=%24ADA\&src=cashtag_click)
 
-\( [https://twitter.com/OccamFi/status/1379796346434113543](https://twitter.com/OccamFi/status/1379796346434113543)\)
+( [https://twitter.com/OccamFi/status/1379796346434113543](https://twitter.com/OccamFi/status/1379796346434113543))
 
-Link to Medium Article “_Meet the Occam.fi Team_“\( https://medium.com/occam-finance/meet-the-occam-fi-team-33bd12337bae\)
+Link to Medium Article “_Meet the Occam.fi Team_“( https://medium.com/occam-finance/meet-the-occam-fi-team-33bd12337bae)
 
 **Responses**
 
-“_Solid team : \) keep up the good work!”_ – April 8th, 2021
+“_Solid team : ) keep up the good work!”_ – April 8th, 2021
 
 _“Can you please elaborate more on your team of developers? What projects have they successfully developed? How many in your team? what is the experience and education of your head developer?”_ – April 8th, 2021
 
@@ -497,9 +497,9 @@ _“Can you please elaborate more on your team of developers? What projects have
 
 We at @OccamFi are honoured and delighted to announce that we are the new addition to @MoonrockCapital 's investment portfolio.
 
-\#RazersEdge \#CardanoCommunity \#DeFi \#OCC \#Cardano April 8th
+\#RazersEdge #CardanoCommunity #DeFi #OCC #Cardano April 8th
 
-\(https://twitter.com/OccamFi/status/1380212992655130631\)
+(https://twitter.com/OccamFi/status/1380212992655130631)
 
 **Responses**
 
@@ -513,7 +513,7 @@ _“Does this mean that Moonrock Capital gets OCC tokens before all of us have t
 
 _“Hi how can someone from the public invest in the presale please let me know thank you_” – April 8th
 
-“_Occam Finance might be the most bullish \#DeFi project that is supported by @MoonrockCapital can't wait to see first launchpad on the \#Cardano OccamRazer_” – April 9th
+“_Occam Finance might be the most bullish #DeFi project that is supported by @MoonrockCapital can't wait to see first launchpad on the #Cardano OccamRazer_” – April 9th
 
 ### April 9th
 
@@ -521,57 +521,57 @@ _“Hi how can someone from the public invest in the presale please let me know 
 
 Give a warm welcome to Chris Graffagnino @masterstake
 
-, \#Cardano veteran, and our latest Cardano-focused Community Advisor! We can't wait to see the value Chris will undoubtedly bring to the OccamFi ecosystem.
+, #Cardano veteran, and our latest Cardano-focused Community Advisor! We can't wait to see the value Chris will undoubtedly bring to the OccamFi ecosystem.
 
-Read his bio here. https://bit.ly/3s5zjee \#DeFi $ADA \#OCC – April 9th
+Read his bio here. https://bit.ly/3s5zjee #DeFi $ADA #OCC – April 9th
 
-\(https://twitter.com/OccamFi/status/1380505786800082944\)
+(https://twitter.com/OccamFi/status/1380505786800082944)
 
 #### The OCC token is not yet available for public sale.
 
 The OCC token is not yet available for public sale. Anyone offering the OCC token, or providing a contract address for which to send funds, officially has no affiliation whatsoever with Occam-Fi, the Occam Association, or the OccamRazer platform. - April 9th
 
-\(https://twitter.com/OccamFi/status/1380611937898205187\)
+(https://twitter.com/OccamFi/status/1380611937898205187)
 
 ### April 10th
 
 #### Bakyt Azimkanov is a crypto PR superstar
 
-Bakyt Azimkanov is a crypto PR superstar. He's also one of our core advisors. Learn more about Bakyt's experience, as well as his time at the \#Cardano Foundation, in our meet the team article.
+Bakyt Azimkanov is a crypto PR superstar. He's also one of our core advisors. Learn more about Bakyt's experience, as well as his time at the #Cardano Foundation, in our meet the team article.
 
 [https://bit.ly/3s5zjee](https://bit.ly/3s5zjee) – April 10th
 
-\(https://twitter.com/OccamFi/status/1380898370542272514\)
+(https://twitter.com/OccamFi/status/1380898370542272514)
 
 **Responses**
 
 “_Global PR & Communications Director of @CardanoStiftung_
 
- _Azimkanov is one of the most important names in Cardano Foundation. Occam has a trustworthy and professional team that has the ability to dominate \#DeFi space_” – April 10th
+ _Azimkanov is one of the most important names in Cardano Foundation. Occam has a trustworthy and professional team that has the ability to dominate #DeFi space_” – April 10th
 
 ### April 11th
 
 #### Meet Tiago Serôdio , our latest advisor
 
-Need more convincing we're here for the \#Cardanocommunity? Meet Tiago Serôdio , our latest advisor, and powerhouse behind the Cardano Foundation's Ambassador Program. Welcome Tiago! Read his bio here. [https://bit.ly/3s5zjee](https://bit.ly/3s5zjee) – April 11th
+Need more convincing we're here for the #Cardanocommunity? Meet Tiago Serôdio , our latest advisor, and powerhouse behind the Cardano Foundation's Ambassador Program. Welcome Tiago! Read his bio here. [https://bit.ly/3s5zjee](https://bit.ly/3s5zjee) – April 11th
 
-\(https://twitter.com/OccamFi/status/1381260755589292032\)
+(https://twitter.com/OccamFi/status/1381260755589292032)
 
 **Responses**
 
-“_don't need any more convincing, just need to know how to get into the whitelist ;\)”_ – April 11th
+“_don't need any more convincing, just need to know how to get into the whitelist ;)”_ – April 11th
 
 “_It’s good to see a português in a cardano project, bem vindo Tiago_” – April 11th
 
-“_This team seems really strong Thumbs up \#Cardano FTW_” – April 11th
+“_This team seems really strong Thumbs up #Cardano FTW_” – April 11th
 
 #### OCC Tokenomics and Utility
 
 **It's the moment you've all been waiting for**
 
-It's the moment you've all been waiting for! We're excited to reveal a first glimpse of our \#OCC tokenomics, outlining the early benefits of being an OCC OG! Our countdown timer marches on... \#OccamRazer \#Cardano \#DeFi – April 11th
+It's the moment you've all been waiting for! We're excited to reveal a first glimpse of our #OCC tokenomics, outlining the early benefits of being an OCC OG! Our countdown timer marches on... #OccamRazer #Cardano #DeFi – April 11th
 
-\(https://twitter.com/OccamFi/status/1381265819162787842\)
+(https://twitter.com/OccamFi/status/1381265819162787842)
 
 Link to Medium Article “OCC Tokenomics and Utility” - [https://medium.com/occam-finance/occ-tokenomics-and-utility-ac0b9a139499](https://medium.com/occam-finance/occ-tokenomics-and-utility-ac0b9a139499)
 
@@ -587,7 +587,7 @@ Staked OCC tokens will enable access to private OccamRazer pools.”
 
 “**3. OccamDAO investments — Continuous Ecosystem Diversification**
 
-Up to 12,000,000 OCC tokens \(or around 12% of the total supply\) will be allocated to the OccamDAO Investment Pool. OccamDAO is our decentralised governance layer that will be used to create a self-sustaining ecosystem for the Occam.fi platform overtime.”
+Up to 12,000,000 OCC tokens (or around 12% of the total supply) will be allocated to the OccamDAO Investment Pool. OccamDAO is our decentralised governance layer that will be used to create a self-sustaining ecosystem for the Occam.fi platform overtime.”
 
 **“4. Pool origination**
 
@@ -595,7 +595,7 @@ Projects may apply for verified status from the OccamDAO. This approves a projec
 
 **“5. Cast Out Tokenomics**
 
-Stake pool participants who unstake their OCC tokens incur a small fee, at ~0.60%.”
+Stake pool participants who unstake their OCC tokens incur a small fee, at \~0.60%.”
 
 **“Which Blockchain is OCC Issued On?**
 
@@ -615,11 +615,11 @@ OCC will first be launched for trading as an ERC-20 token. However, Occam.fi’s
 
 _"OCC will first be launched for trading as an ERC-20 token." and simultaneously launch as Cardano native token. Can't get why ERC20 is needed._ – April 11th
 
-“_I believe it's to pull liquidity from Etherum over to Cardano when Goguen launches.” –_ April 11th \(responding to above\)
+“_I believe it's to pull liquidity from Etherum over to Cardano when Goguen launches.” –_ April 11th (responding to above)
 
-“_I don't see a solid reason to justify the rush to launch on Ethereum\(Phase 1\) and make the Cardano community take the risk of buying ERC-20 tokens, paying Ethereum's absurd fees and taking the risks of smart contracts on Ethereum.”_ – April 11th
+“_I don't see a solid reason to justify the rush to launch on Ethereum(Phase 1) and make the Cardano community take the risk of buying ERC-20 tokens, paying Ethereum's absurd fees and taking the risks of smart contracts on Ethereum.”_ – April 11th
 
-“_Dude- don’t you see the play here? Extract liquidity from \#ETH ! not only as an on ramp_.” – April 11th \(responding to above\)
+“_Dude- don’t you see the play here? Extract liquidity from #ETH ! not only as an on ramp_.” – April 11th (responding to above)
 
 “_Did I read it correctly? Staking the OCC token, automatically allocates a portion of new projects tokens for you?”_ – April 11th
 
@@ -627,11 +627,11 @@ _"OCC will first be launched for trading as an ERC-20 token." and simultaneously
 
 #### BitcoinComExch becomes the official custodial provider for liquidity bridge.
 
-\(https://twitter.com/OccamFi/status/1382051059078684678\)
+(https://twitter.com/OccamFi/status/1382051059078684678)
 
 Is this our biggest announcement to date?! @BitcoinComExch
 
- becomes the official custodial provider for the \#OccamRazer \#Cardano to \#Ethereum liquidity bridge. The Cardano \#DeFi rocket is on the launchpad! – April 13th
+ becomes the official custodial provider for the #OccamRazer #Cardano to #Ethereum liquidity bridge. The Cardano #DeFi rocket is on the launchpad! – April 13th
 
 **Responses**
 
@@ -647,9 +647,9 @@ Is this our biggest announcement to date?! @BitcoinComExch
 
 Description automatically generated](../.gitbook/assets/16.jpeg)
 
-The timer is almost up and the wait is nearly over! Get ready for the moment we've all been waiting for! \#OccamRazer \#Launchpad \#DeFi - **2:30 PM, 14th April**
+The timer is almost up and the wait is nearly over! Get ready for the moment we've all been waiting for! #OccamRazer #Launchpad #DeFi - **2:30 PM, 14th April**
 
-\(https://twitter.com/OccamFi/status/1382325275590004736\)
+(https://twitter.com/OccamFi/status/1382325275590004736)
 
 **Responses**
 
@@ -657,7 +657,7 @@ The timer is almost up and the wait is nearly over! Get ready for the moment we'
 
 “Where will we be able to buy please ?” – April 14th
 
-“The OCC Token will be available first through Balancer LBP and then Uniswap via their subreddit” – April 14th \(Responding to above\)
+“The OCC Token will be available first through Balancer LBP and then Uniswap via their subreddit” – April 14th (Responding to above)
 
 “So where will people be able to purchase the tokens? I've asked for this now several times in various ways....”– April 14th
 
@@ -671,11 +671,11 @@ The timer is almost up and the wait is nearly over! Get ready for the moment we'
 
 Description automatically generated](../.gitbook/assets/17.png)
 
-The long-awaited moment has finally arrived. Our \#OCC IDO is LIVE! Get your hands on OCC tokens and accompany us in this transformational journey towards the new \#Cardano DeFi era! https://bit.ly/3tlZz5u
+The long-awaited moment has finally arrived. Our #OCC IDO is LIVE! Get your hands on OCC tokens and accompany us in this transformational journey towards the new #Cardano DeFi era! https://bit.ly/3tlZz5u
 
-\#OccamRazer \#Launchpad \#DeFi \#Cardano – **5:30 PM, April 14th**
+\#OccamRazer #Launchpad #DeFi #Cardano – **5:30 PM, April 14th**
 
-\(https://twitter.com/OccamFi/status/1382370573108527110\)
+(https://twitter.com/OccamFi/status/1382370573108527110)
 
 **Responses**
 
@@ -685,17 +685,17 @@ The long-awaited moment has finally arrived. Our \#OCC IDO is LIVE! Get your han
 
 “_This IDO was a joke. My transaction was reversed. Only 175 people got in. You should do a second round and this time offer 200 million OCC tokens to be sold. Let the MAX allocation be 1 ETH, like it was, and I bet every OCC token will be sold.”_ – April 14th
 
-_\#OCC \#Cardano You talk about being fair and no information was given on time, plus you can only use metamask. No time for any to deposit eth or get metamask ready. The worst IDO I have seen. You were diffenatly thinking of the Cardano community?_ – April 14th
+_#OCC #Cardano You talk about being fair and no information was given on time, plus you can only use metamask. No time for any to deposit eth or get metamask ready. The worst IDO I have seen. You were diffenatly thinking of the Cardano community?_ – April 14th
 
 _“Exactly! And people who use phones weren’t allowed in either...admin did terrible job in chat kept telling people just wait for the announcement after the countdown timer...you want to make it fair yet did the complete opposite and kept it a secret until last second_” – April 14th
 
-_“Guys, to be honest ... stop complaining. 165 people did receive a give away imo. Very generous ... they made from 1 ETH &gt;&gt;&gt; 200k.. nice Wrapped present - Let’s proceed, platform still has lots of potential for us as investor \#cardano_ – April 14th \(Responding to above\)
+_“Guys, to be honest ... stop complaining. 165 people did receive a give away imo. Very generous ... they made from 1 ETH >>> 200k.. nice Wrapped present - Let’s proceed, platform still has lots of potential for us as investor #cardano_ – April 14th (Responding to above)
 
 “_this is so fucked up, just wasted $150 in transaction fees and all I got were pending transactions_” – April 14th
 
 “_Well this went smooth and really helped make me feel like a part of huge and competent community... Why all the marketing and hype if you let only 175 people participate?”_ – April 14th
 
-“_Website not responding. Just means the interest is HUGE. Cant wait for this project and PRAYING this is my first IDO. \#OccamRazer”_ – April 14th
+“_Website not responding. Just means the interest is HUGE. Cant wait for this project and PRAYING this is my first IDO. #OccamRazer”_ – April 14th
 
 “_The contract number is not available on Metamask or UNI. What's going on??”_ – April 14th
 
@@ -705,11 +705,11 @@ _“Guys, to be honest ... stop complaining. 165 people did receive a give away 
 
 #### 5:31 PM, The FAQ
 
-OCC is launching on the OccamRazer platform. A step-by-step guide to participating in our IDO is now available in our FAQ. Check it out at: [https://bit.ly/3thmgrE](https://bit.ly/3thmgrE) \#OccamRazer \#DeFi \#Occ \#Cardano – **5:31 PM, April 14th**
+OCC is launching on the OccamRazer platform. A step-by-step guide to participating in our IDO is now available in our FAQ. Check it out at: [https://bit.ly/3thmgrE](https://bit.ly/3thmgrE) #OccamRazer #DeFi #Occ #Cardano – **5:31 PM, April 14th**
 
-\([https://twitter.com/OccamFi/status/1382370814851481615](https://twitter.com/OccamFi/status/1382370814851481615)\)
+([https://twitter.com/OccamFi/status/1382370814851481615](https://twitter.com/OccamFi/status/1382370814851481615))
 
-This tweet links to a comprehensive FAQ on OccamFi’s GitBook \(https://occam-fi.gitbook.io/occam-faq/-MY6AK8LDbVHXnVAsex9/\)
+This tweet links to a comprehensive FAQ on OccamFi’s GitBook (https://occam-fi.gitbook.io/occam-faq/-MY6AK8LDbVHXnVAsex9/)
 
 **Responses**
 
@@ -727,7 +727,7 @@ This tweet links to a comprehensive FAQ on OccamFi’s GitBook \(https://occam-f
 
 "_Sale is very expensive: 1ETH= 1250 OCC... For a total supply of 100 000 000."_ - April 14th
 
-""_How to participate" -&gt; run a bot. Telegram is a train wreck, I'm out. Good luck!"_ - April 14th
+""_How to participate" -> run a bot. Telegram is a train wreck, I'm out. Good luck!"_ - April 14th
 
 "_This is giving Cardano a bad name. I saw people who bought 100 Eth worth. I couldn't even find the desk top version, and it sold out before my eyes, with a community of people supporting you guys. It's just for the whales again, not for us average people. Thanks for nothing."_ - April 14th
 
@@ -739,7 +739,7 @@ Description automatically generated](../.gitbook/assets/18.png)
 
 “Please refresh the page once you have connected your MetaMask wallet to the OccamRazer platform, in case the interface does not load for you. We begin the IDO in less than five minutes. Thank you.” **5:43 PM – 14th April.**
 
-\(https://twitter.com/OccamFi/status/1382373970293444608\)
+(https://twitter.com/OccamFi/status/1382373970293444608)
 
 **Responses**
 
@@ -755,7 +755,7 @@ Description automatically generated](../.gitbook/assets/19.jpeg)
 
 "_So everyone on mobile is just excluded like that.."_ – April 14th
 
-"_Your website tells me that it is not suitable for mobile even when I connect from laptop \(I tried 2 laptops and 3 browsers\)..."_ – April 14th
+"_Your website tells me that it is not suitable for mobile even when I connect from laptop (I tried 2 laptops and 3 browsers)..."_ – April 14th
 
 "_wow this really takes "you snooze you lose" to the next level_"– April 14th
 
@@ -771,11 +771,11 @@ Description automatically generated](../.gitbook/assets/19.jpeg)
 
 #### 5:57 PM, IDO sold out in under 30 seconds
 
-The \#OCC \#OccamRazer IDO sold out in under 30 seconds. The OCC token is now available on UniSwap here: **5:57 PM – 14th April.**
+The #OCC #OccamRazer IDO sold out in under 30 seconds. The OCC token is now available on UniSwap here: **5:57 PM – 14th April.**
 
 [https://info.uniswap.org/pair/0xedf1fa5](https://info.uniswap.org/pair/0xedf1fa5) -
 
-\([https://twitter.com/OccamFi/status/1382377423757570052](https://twitter.com/OccamFi/status/1382377423757570052)\)
+([https://twitter.com/OccamFi/status/1382377423757570052](https://twitter.com/OccamFi/status/1382377423757570052))
 
 **Responses**
 
@@ -791,31 +791,31 @@ The \#OCC \#OccamRazer IDO sold out in under 30 seconds. The OCC token is now av
 
 “_The launch in the bull run ..also on the eth!!! They didn't wait the launch on CARDANO. In my opinion something is not good_” - April 14th
 
-“_And then tell people to buy on Uniswap with sky high fees while you are cashing out again and buying back later. Bad for \#Cardano this as well_”. - April 14th
+“_And then tell people to buy on Uniswap with sky high fees while you are cashing out again and buying back later. Bad for #Cardano this as well_”. - April 14th
 
 “_Also... immediately after the IDO in 1 min ... on the Uniswap list...claer a pump and dump / quick money_” - April 14th
 
-“_My message are being censored on the tg channel. What a joke for just saying the truth! You just did a middle finger to the \#Cardano community. Don't trust people in black suits._” - April 14th
+“_My message are being censored on the tg channel. What a joke for just saying the truth! You just did a middle finger to the #Cardano community. Don't trust people in black suits._” - April 14th
 
 #### 6.00 PM Claim your tokens
 
-After buying your \#OCC tokens, you must claim them! Learn how by visiting our step-by-step participation guide at [https://bit.ly/3thmgrE](https://bit.ly/3thmgrE)
+After buying your #OCC tokens, you must claim them! Learn how by visiting our step-by-step participation guide at [https://bit.ly/3thmgrE](https://bit.ly/3thmgrE)
 
-\([https://twitter.com/OccamFi/status/1382378125808521224](https://twitter.com/OccamFi/status/1382378125808521224)\) – 6.00PM, 14th April
+([https://twitter.com/OccamFi/status/1382378125808521224](https://twitter.com/OccamFi/status/1382378125808521224)) – 6.00PM, 14th April
 
-This tweet links to a comprehensive FAQ on OccamFi’s GitBook \(https://occam-fi.gitbook.io/occam-faq/-MY6AK8LDbVHXnVAsex9/\)
+This tweet links to a comprehensive FAQ on OccamFi’s GitBook (https://occam-fi.gitbook.io/occam-faq/-MY6AK8LDbVHXnVAsex9/)
 
 **Reponses**
 
 “_is this tweet literally for 175 people_?” - April 14th
 
-“_Such a shame. Long term supporter here as I “was" impressed with what you were saying in your articles that you want to achieve. But the way IDO was handled is exactly opposite. Like literally. People got rekt. Shame you used \#cardano name in this_”. - April 14th
+“_Such a shame. Long term supporter here as I “was" impressed with what you were saying in your articles that you want to achieve. But the way IDO was handled is exactly opposite. Like literally. People got rekt. Shame you used #cardano name in this_”. - April 14th
 
 “_Claim instructions aren't clear. How can the purchase be accessed once it is complete?”_ - April 14th
 
 “_Instant follow-up for the IDO with a UNI listing, knowing demand and FOMO. No respect for the community_”. - April 14th
 
-“_Don't get me wrong, it's a great project and all. But wtf is going through their\(devs\) heads thinking this was a good distribution idea. As in all of it. A fraction of a fraction went to regular people and bots_”. - April 14th
+“_Don't get me wrong, it's a great project and all. But wtf is going through their(devs) heads thinking this was a good distribution idea. As in all of it. A fraction of a fraction went to regular people and bots_”. - April 14th
 
 “_I've built my ADA because I like the slow growth, peer review, and focus on problem solving. Learning and sharing with others as I go. Defi is hot and a fair offering is great spirit, but that was a show put on to claim fair offering. Be better or just stay an ERC20 project_.” - April 14th
 
@@ -827,7 +827,7 @@ Description automatically generated with medium confidence](../.gitbook/assets/2
 
 Thank you to all those who participated in the OCC IDO. We experienced unprecedented levels of participation, with almost 100k users trying to access our IDO. Hence, we sold out in under 30 seconds! However, you can now purchase OCC on Uniswap here: [https://bit.ly/3wVF8Pi](https://bit.ly/3wVF8Pi)
 
-\([https://twitter.com/OccamFi/status/1382380902307803143](https://twitter.com/OccamFi/status/1382380902307803143)\) -6.13PM, April 14th
+([https://twitter.com/OccamFi/status/1382380902307803143](https://twitter.com/OccamFi/status/1382380902307803143)) -6.13PM, April 14th
 
 **Responses**
 
@@ -841,7 +841,7 @@ Shameful.” April 14th
 
 “_Aha yea their telegram admins are awful! I can’t believe they told multiple people their wasn’t going to be an IDO after the countdown. Does seem like a very “fair” thing to me_” April 14th.
 
-“_All things considering, well played sirs! =\)_” - April 14th.
+“_All things considering, well played sirs! =)_” - April 14th.
 
 “_Who bought at $0,35? And the page resolution was genius! I am on my PC and the website detects that I am on mobile... What a scam_!” - April 14th.
 
@@ -849,7 +849,7 @@ Shameful.” April 14th
 
 We understand that some of you were frustrated with the speed at which our IDO concluded. We address these concerns, and map out our communications in the coming days, in this open letter to our community. – 9:37 PM April 14th
 
-\(https://twitter.com/OccamFi/status/1382432862654369798\)
+(https://twitter.com/OccamFi/status/1382432862654369798)
 
 This tweet links to a Medium Article [https://medium.com/occam-finance/an-open-letter-to-the-occam-fi-and-cardano-community-from-the-occam-association-431177bc43e1](https://medium.com/occam-finance/an-open-letter-to-the-occam-fi-and-cardano-community-from-the-occam-association-431177bc43e1)
 
@@ -869,140 +869,107 @@ I can appreciate that folks feel frustrated, it is tough to feel the anticipatio
 
 ## Risk Areas
 
-These Risk Areas are informed by KPMG’s Blockchain Maturity Model \(https://assets.kpmg/content/dam/kpmg/nl/pdf/2017/advisory/blockchain-maturity-model.pdf\)
+These Risk Areas are informed by KPMG’s Blockchain Maturity Model (https://assets.kpmg/content/dam/kpmg/nl/pdf/2017/advisory/blockchain-maturity-model.pdf)
 
 ### Main Groupings
 
-| 1 | Access and user management |  |
-| :--- | :--- | :--- |
-| 2 | Authorization and provisioning management |  |
-| 3 | Data management |  |
-| 4 | Interoperability |  |
-| 5 | Scalability and performance |  |
-| 6 | Change management |  |
-| 7 | Privacy |  |
-| 8 | Security |  |
+| 1 | Access and user management                |   |
+| - | ----------------------------------------- | - |
+| 2 | Authorization and provisioning management |   |
+| 3 | Data management                           |   |
+| 4 | Interoperability                          |   |
+| 5 | Scalability and performance               |   |
+| 6 | Change management                         |   |
+| 7 | Privacy                                   |   |
+| 8 | Security                                  |   |
 
-| **1** | **Access and user management** |  |
-| :--- | :--- | :--- |
+| **1** | **Access and user management** |   |
+| ----- | ------------------------------ | - |
 
+| 1.1 | Management of cryptographic keys.   | Transparency of policy etc                                                                                                     |
+| --- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 1.2 | Unauthorized access of participants | <p>How to handle unauthorised or fraudulent access.</p><p>Cardano Registry has a legal team looking at this in their area.</p> |
+| 1.3 | How to uniquely identify users.     | DID to avoid duplicate identities in shared auctions etc                                                                       |
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">1.1</th>
-      <th style="text-align:left">Management of cryptographic keys.</th>
-      <th style="text-align:left">Transparency of policy etc</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">1.2</td>
-      <td style="text-align:left">Unauthorized access of participants</td>
-      <td style="text-align:left">
-        <p>How to handle unauthorised or fraudulent access.</p>
-        <p>Cardano Registry has a legal team looking at this in their area.</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">1.3</td>
-      <td style="text-align:left">How to uniquely identify users.</td>
-      <td style="text-align:left">DID to avoid duplicate identities in shared auctions etc</td>
-    </tr>
-  </tbody>
-</table>
+| **2** | **Authorization and provisioning management** |   |
+| ----- | --------------------------------------------- | - |
 
-| **2** | **Authorization and provisioning management** |  |
-| :--- | :--- | :--- |
+| 2.1 | Segregation of duties                              | Due diligence in segregating responsibilities. |
+| --- | -------------------------------------------------- | ---------------------------------------------- |
+| 2.2 | Incorrect authorizations                           | How to handle errors                           |
+| 2.3 | Abuse of high privileged or over authorized users. | How to play fairly                             |
 
+| 3.1 | Data confidentiality |   |
+| --- | -------------------- | - |
+| 3.2 | Data integrity       |   |
+| 3.3 | Data availability    |   |
 
-| 2.1 | Segregation of duties | Due diligence in segregating responsibilities. |
-| :--- | :--- | :--- |
-| 2.2 | Incorrect authorizations | How to handle errors |
-| 2.3 | Abuse of high privileged or over authorized users. | How to play fairly |
+| **4** | **Interoperability (Integrating with legacy systems)** |   |
+| ----- | ------------------------------------------------------ | - |
 
-| 3.1 | Data confidentiality |  |
-| :--- | :--- | :--- |
-| 3.2 | Data integrity |  |
-| 3.3 | Data availability |  |
+| 4.1 | off-chain           |   |
+| --- | ------------------- | - |
+| 4.2 | web 3               |   |
+| 4.3 | GitHub registry etc |   |
 
-| **4** | **Interoperability \(Integrating with legacy systems\)** |  |
-| :--- | :--- | :--- |
+| **5** | **Scalability and performance** |   |
+| ----- | ------------------------------- | - |
 
+|   | Repeats earlier issues above in 1 and 2 (management of cryptographic keys, unauthorized access of participants and uniquely identifiable users) at scale. |   |
+| - | --------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
+|   |                                                                                                                                                           |   |
+|   |                                                                                                                                                           |   |
 
-| 4.1 | off-chain |  |
-| :--- | :--- | :--- |
-| 4.2 | web 3 |  |
-| 4.3 | GitHub registry etc |  |
+|   | Clear agreement on handover between tasks by all participants |   |
+| - | ------------------------------------------------------------- | - |
+|   | Standards adoption across project.                            |   |
+|   | GitHub Version control etc.                                   |   |
 
-| **5** | **Scalability and performance** |  |
-| :--- | :--- | :--- |
-
-
-|  | Repeats earlier issues above in 1 and 2 \(management of cryptographic keys, unauthorized access of participants and uniquely identifiable users\) at scale. |  |
-| :--- | :--- | :--- |
-|  |  |  |
-|  |  |  |
-
-|  | Clear agreement on handover between tasks by all participants |  |
-| :--- | :--- | :--- |
-|  | Standards adoption across project. |  |
-|  | GitHub Version control etc. |  |
-
-|  | The ‘right to be forgotten’. |  |
-| :--- | :--- | :--- |
-|  | GDPR. \(European Privacy Legislation\) |  |
-|  |  |  |
+|   | The ‘right to be forgotten’.         |   |
+| - | ------------------------------------ | - |
+|   | GDPR. (European Privacy Legislation) |   |
+|   |                                      |   |
 
 ## **OccamFi OCC Launch Risk Matrix**
 
 **Pending the third-party audit reporting of the OccamFi Launch many risk areas can only be inferred at this stage because of the closed source.**
 
-| **1** | **Access and user management** |  |
-| :--- | :--- | :--- |
+| **1** | **Access and user management** |   |
+| ----- | ------------------------------ | - |
 
+|   | Issues Unknown (Closed Source)           | To be resolved by pending Audit Report |
+| - | ---------------------------------------- | -------------------------------------- |
+|   | The speed of the sale “under 30 seconds” | To be resolved by pending Audit Report |
 
-|  | Issues Unknown \(Closed Source\) | To be resolved by pending Audit Report |
-| :--- | :--- | :--- |
-|  | The speed of the sale “under 30 seconds” | To be resolved by pending Audit Report |
+| **2** | **Authorization and provisioning management** |   |
+| ----- | --------------------------------------------- | - |
 
-| **2** | **Authorization and provisioning management** |  |
-| :--- | :--- | :--- |
+|   | There was some perception of privileged access amongst the Cardano community. | To be resolved by pending Audit Report |
+| - | ----------------------------------------------------------------------------- | -------------------------------------- |
+|   | The initial audits were by an “in-house” company _Scalable Solutions_.        | To be resolved by Third Party Audit    |
 
+|   | Issues Unknown (Closed Source) | To be resolved by pending Audit Report |
+| - | ------------------------------ | -------------------------------------- |
 
-|  | There was some perception of privileged access amongst the Cardano community. | To be resolved by pending Audit Report |
-| :--- | :--- | :--- |
-|  | The initial audits were by an “in-house” company _Scalable Solutions_. | To be resolved by Third Party Audit |
+| **4** | **Interoperability (Integrating with legacy systems)** |   |
+| ----- | ------------------------------------------------------ | - |
 
-|  | Issues Unknown \(Closed Source\) | To be resolved by pending Audit Report |
-| :--- | :--- | :--- |
+|   | Issues Unknown (Closed Source)                                      | To be resolved by pending Audit Report |
+| - | ------------------------------------------------------------------- | -------------------------------------- |
+|   | website incorrectly identifying desktop/laptops as mobile platforms | To be resolved by pending Audit Report |
 
+| **5** | **Scalability and performance** |   |
+| ----- | ------------------------------- | - |
 
-| **4** | **Interoperability \(Integrating with legacy systems\)** |  |
-| :--- | :--- | :--- |
+|   | There clearly were scalability and performance issues that led to the launchpad crashing and buyers being redirected to exchanges. | To be clarified by pending Audit Report |
+| - | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+|   | Website was down or inaccessible on mobile platforms                                                                               | To be clarified by pending Audit Report |
 
+|   | Issues Unknown (Closed Source) | To be resolved by pending Audit Report |
+| - | ------------------------------ | -------------------------------------- |
 
-|  | Issues Unknown \(Closed Source\) | To be resolved by pending Audit Report |
-| :--- | :--- | :--- |
-|  | website incorrectly identifying desktop/laptops as mobile platforms | To be resolved by pending Audit Report |
+|   | Issues Unknown (Closed Source) | To be resolved by pending Audit Report |
+| - | ------------------------------ | -------------------------------------- |
 
-| **5** | **Scalability and performance** |  |
-| :--- | :--- | :--- |
-
-
-|  | There clearly were scalability and performance issues that led to the launchpad crashing and buyers being redirected to exchanges. | To be clarified by pending Audit Report |
-| :--- | :--- | :--- |
-|  | Website was down or inaccessible on mobile platforms | To be clarified by pending Audit Report |
-
-|  | Issues Unknown \(Closed Source\) | To be resolved by pending Audit Report |
-| :--- | :--- | :--- |
-
-
-|  | Issues Unknown \(Closed Source\) | To be resolved by pending Audit Report |
-| :--- | :--- | :--- |
-
-
-|  | Issues Unknown \(Closed Source\) | To be resolved by pending Audit Report |
-| :--- | :--- | :--- |
-
-
+|   | Issues Unknown (Closed Source) | To be resolved by pending Audit Report |
+| - | ------------------------------ | -------------------------------------- |
