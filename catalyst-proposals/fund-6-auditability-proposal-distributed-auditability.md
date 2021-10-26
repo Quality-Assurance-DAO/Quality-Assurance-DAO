@@ -72,7 +72,7 @@ This Fund 6 Auditability proposal will draw upon the successful Fund 5 Developer
 
 How different teams and individuals report the progress of their funded proposals will be researched. This will be done in collaboration with the funded cohort, IOG and Catalyst ecosystem toolmakers.
 
-The initial intention of the Fund 5 - QA-DAO proposal is to examine how the Fund 5 - Developer Ecosystem  cohort reports its progress. 
+The initial intention of the Fund 5 - QA-DAO proposal is to examine how the Fund 5 - Developer Ecosystem  cohort reports its progress.&#x20;
 
 ### 0.2 Prototyping
 
@@ -146,6 +146,8 @@ Building on Core Swarm prototypes from Phase 0 specific auditing workflows will 
 
 TBA
 
-##  **Requested funds in USD:**
+\
+**Requested funds in USD:**
+---------------------------
 
 TBA

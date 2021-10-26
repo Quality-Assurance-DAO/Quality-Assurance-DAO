@@ -185,3 +185,19 @@ Cohort Progress report due : 10th October 2021
 ![](<../.gitbook/assets/2021-10-11 (14).png>)
 
 ![](<../.gitbook/assets/2021-10-11 (16).png>)
+
+## KPI Report - 26th October 2021
+
+### KPI Report
+
+![](../.gitbook/assets/KPI-1.png)
+
+![](../.gitbook/assets/KPI-2.png)
+
+![](../.gitbook/assets/KPI-3.png)
+
+![](../.gitbook/assets/2021-10-26.png)
+
+![](<../.gitbook/assets/2021-10-26 (1).png>)
+
+![](<../.gitbook/assets/2021-10-26 (2).png>)

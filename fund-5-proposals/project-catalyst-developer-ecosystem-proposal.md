@@ -6,7 +6,7 @@ description: A deconstructed, dissected, and resurrected Catalyst Fund 5 Proposa
 
 ![](../.gitbook/assets/0.jpeg)
 
- David Bohl, CC0, via Wikimedia Commons
+&#x20;David Bohl, CC0, via Wikimedia Commons
 
 | **Author**    | Stephen Whitenstall |
 | ------------- | ------------------- |
@@ -66,9 +66,9 @@ QA-DAO has begun with an experimental assessment of the various open-source pers
 
 Feedback Challenge-Open-Source
 
-###  **Project Management: The DAO of Peer-Facilitation. Fund 7.** 
+### &#x20;**Project Management: The DAO of Peer-Facilitation. Fund 7.** 
 
-####  **B1) DAO-Peer-Facilitation**
+#### &#x20;**B1) DAO-Peer-Facilitation**
 
 **DAO-Peer-Facilitation**: A Distributed Peer Facilitation repository, is currently being prepared which will test the reform of Project Management from top-down planning to distributed peer facilitation and empowerment models.
 
@@ -86,14 +86,14 @@ A QA test of how the Catalyst Funding Process could be reoriented from top-down 
 
 **DAO-Maturity-Model**: a repository adapting Quality Assurance Maturity-Models to distributed autonomous organisation (DAO), which aims to progress DAOs to Institutional Audit Standards is currently being prepared.
 
-####  **C2) Catalyst Maturity-Models**:
+#### &#x20;**C2) Catalyst Maturity-Models**:
 
 **Catalyst Maturity-Models**: QA Assessment of Catalyst Funding Process\
 A QA test of whether the Catalyst Funding Process fits in a Blockchain Maturity Model and progress DAOs to Institutional Audit Standards is planned.
 
 ## **Transparency: (Expected Launch Dates)**
 
-###  **Alpha Version 0.0 – Released**
+### &#x20;**Alpha Version 0.0 – Released**
 
 \
 All work on this proposal prior to the repository going public was captured in a Alpha Version 0.0 which can be downloaded as a zip file from ( [https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/releases/tag/v0.0-alpha](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/releases/tag/v0.0-alpha) )
@@ -121,7 +121,9 @@ An Alpha Release 2.0 will capture the state of this proposal when it reaches the
 \
 [https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/projects/2](https://github.com/Quality-Assurance-DAO/F5-Developer-ecosystem-Proposal/projects/2)
 
-## **Outputs: (Expected Launch Dates)** 
+**Outputs: (Expected Launch Dates)**\
+
+
 
 ### **Alpha Version 1.0 - Proposal Word Document Release - Due: 28/04/2021:** 
 
@@ -212,4 +214,6 @@ A high-level process outlining a means to reward community contributions has bee
 
 [https://github.com/Quality-Assurance-DAO/DAO-Open-Source/blob/main/Documents/Tokens/01-Keep-It-Simple.md](https://github.com/Quality-Assurance-DAO/DAO-Open-Source/blob/main/Documents/Tokens/01-Keep-It-Simple.md)
 
-##  **Requested funds in USD: $**5.
+\
+**Requested funds in USD: $**5.
+-------------------------------
