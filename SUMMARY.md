@@ -30,6 +30,7 @@
 
 * [Catalyst-Swarm-Genesis GitBook](f6-swarm-gitbook/catalyst-swarm-genesis-gitbook.md)
 * [Reporting](f6-swarm-gitbook/reporting.md)
+* [Budget](f6-swarm-gitbook/budget.md)
 
 ## F5-QA-DAO
 
@@ -37,8 +38,6 @@
 * [Fund 5, Developer Ecosystem Proposal - Governance](f5-qa-dao/fund-5-developer-ecosystem-proposal-governance.md)
 * [Fund 5, Developer Ecosystem - Governance Detail](f5-qa-dao/fund-5-developer-ecosystem-governance-detail.md)
 * [F5-QA-DAO-Reporting](f5-qa-dao/reporting.md)
-
-
 
 ## Studies
 
