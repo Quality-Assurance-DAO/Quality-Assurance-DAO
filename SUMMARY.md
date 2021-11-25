@@ -37,3 +37,7 @@
 ## Fund 6 Proposals
 
 * [DLT-Entrepreneurship-Toolbox Open Source Training](fund-6-proposals/dlt-entrepreneurship-toolbox-open-source-training.md)
+
+## F6-Swarm-GitBook
+
+* [Catalyst-Swarm-Genesis GitBook](f6-swarm-gitbook/catalyst-swarm-genesis-gitbook.md)
