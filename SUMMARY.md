@@ -2,17 +2,6 @@
 
 * [Welcome to Quality Assurance DAO](README.md)
 
-## Partners
-
-* [Secret Decks](partners/secret-decks.md)
-* [Ekphrasis](partners/ekphrasis.md)
-
-## Community Support
-
-* [Catalyst Circle](community-support/catalyst-circle.md)
-* [Catalyst-Swarm](community-support/untitled.md)
-* [The Catalyst School](community-support/the-catalyst-school.md)
-
 ## Fund 6 Proposals <a href="catalyst-proposals" id="catalyst-proposals"></a>
 
 * [Fund 6 - Summary](catalyst-proposals/summary.md)
