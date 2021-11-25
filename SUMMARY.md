@@ -12,10 +12,9 @@
 
 * [Catalyst Circle](community-support/catalyst-circle.md)
 * [Catalyst-Swarm](community-support/untitled.md)
-* [The Catalyst Alliance](community-support/the-catalyst-alliance.md)
 * [The Catalyst School](community-support/the-catalyst-school.md)
 
-## Fund 6 Proposals <a id="catalyst-proposals"></a>
+## Fund 6 Proposals <a href="catalyst-proposals" id="catalyst-proposals"></a>
 
 * [Fund 6 - Summary](catalyst-proposals/summary.md)
 * [Distributed decision making - Oversight of Catalyst Circle](catalyst-proposals/distributed-decision-making-oversight-of-catalyst-circle.md)
@@ -37,4 +36,3 @@
 ## Fund 6 Proposals
 
 * [DLT-Entrepreneurship-Toolbox Open Source Training](fund-6-proposals/dlt-entrepreneurship-toolbox-open-source-training.md)
-
