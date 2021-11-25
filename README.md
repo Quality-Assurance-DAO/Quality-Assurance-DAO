@@ -91,6 +91,43 @@ Danielo Ospina (Aragon), Stephen Whitenstall, Tevo, Seomon (Catalyst Swarm) and 
 
 {% embed url="https://www.youtube.com/watch?v=kv-qXx8UvPc&t" %}
 
+# Partners
+
+## Ekphrasis
+
+This GitBook is a repository of academic content across the wider Cardano community. From IOHK, Project Catalyst and University of Edinburgh as well as many other sources.
+
+It is maintained by under the benevolent dictatorship of Stephen Whitenstall, \(Catalyst Swarm/Secret Decks/QA-DAO\).
+
+{% embed url="https://stephen-rowan.gitbook.io/ekphrasis/" %}
+
+
+## Secret Decks
+
+{% embed url="https://www.secretdecks.com/" %}
+
+# Community support
+
+## Catalyst Circle
+
+QA-DAO provides oversight on the activities of the Catalyst Circle an initiative that has been initiated by IOHK to advance governance in Project Catalyst.
+
+{% embed url="https://catalyst-swarm.gitbook.io/catalyst-circle/" %}
+
+## The Catalyst School
+
+QA-DAO is helping to develop course documentation for The Catalyst School
+
+{% embed url="https://catalyst-swarm.gitbook.io/the-catalyst-school/" %}
+
+## Catalyst-Swarm
+
+QA-DAO supports the documentation and tracking of Catalyst-Swarm.
+
+{% embed url="https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/" %}
+
+
+
 
 
 
