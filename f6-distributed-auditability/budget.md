@@ -6,16 +6,18 @@
 
 ## Budget
 
-|                                    |  Nov-21 | Dec-21 | Jan-22 |
-| ---------------------------------- | ------: | -----: | -----: |
-|                                    |         |        |        |
-| Fund ADA                           | 2463.05 |        |        |
-| Hours worked                       |         |        |        |
-| Auditability Workflows             |      17 |        |        |
-| Continuous Integration Development |       1 |        |        |
-| Continuous Integration Deployment  |       1 |        |        |
-| Subtotal                           |      18 |        |        |
-| Cost @ $40 hr                      |     720 |        |        |
-| ADA price end of month $           |    1.71 |        |        |
-| Cost end of month - $ to ADA       |  1231.2 |        |        |
-| Fund Balance                       | 1231.85 |        |        |
+
+
+|                                    |   Nov-21 | Dec-21 | Jan-22 |
+| ---------------------------------- | -------: | -----: | -----: |
+|                                    |          |        |        |
+| Fund ADA                           |  2463.05 |        |        |
+| Hours worked                       |          |        |        |
+| Auditability Workflows             |       17 |        |        |
+| Continuous Integration Development |        1 |        |        |
+| Continuous Integration Deployment  |        1 |        |        |
+| Subtotal                           |       18 |        |        |
+| Cost @ $40 hr                      |      720 |        |        |
+| ADA price end of month $           |     1.71 |        |        |
+| Cost end of month - $ to ADA       | 421.0526 |        |        |
+| Fund Balance                       |  2042.00 |        |        |
