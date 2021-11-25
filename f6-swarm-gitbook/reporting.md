@@ -1,7 +1,3 @@
----
-description: F6: Catalyst value onboarding Proposal - Catalyst-Swarm-Genesis GitBook
----
-
 # F6-Swarm-GitBook-Reporting
 
 ## 25th November 2021 - KPI Report
