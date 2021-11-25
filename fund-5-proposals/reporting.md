@@ -29,31 +29,36 @@ This is a general metric for the overall health of the Catalyst ecosystem. If th
 Each of your project proposals initially set out KPIs specific to demonstrating your return-on-intention. In this section we'd like you to provide updates on how you're tracking against your KPIs
 #### What are your project KPIs that you are measuring? *
 Please list the KPIs you are measuring in your project. For example: example KPI 1: Total Github commits example KPI 2: Month on Month growth or total Number of Transactions example KPI 3: Month on Month growth of Monthly Active Users (MAU) example KPI 4: Anything else are you measuring ?
-### KPI 1 : Governance - • The pathway of a funded cohort and KPI 2 • An assessment of funded cohort reporting requirements
+- KPI 1 : Governance - • The pathway of a funded cohort
+- KPI 2 • An assessment of funded cohort reporting requirements
+### KPI 1
 How are you tracking against KPI 1? *
 Tell us how the project is progressing relative to the KPIs you set at the beginning of the project.
 - On track to reach our goal	
-### Please provide us with some relevant data about your performance against KPI 1 *
-Tell us what you have achieved to date in numbers 
+> Please provide us with some relevant data about your performance against KPI 1 *
+> Tell us what you have achieved to date in numbers 
 - 5
+### KPI 2
 How are you tracking against KPI 2? 
 - On track to reach our goal	
 ### Please provide data about your performance against KPI 2.
 Tell us what you have achieved to date in numbers 
 - 5
+### KPI 3
 How are you tracking against KPI 3? 
 - 0
-### Please provide data about your performance against KPI 3.
+> Please provide data about your performance against KPI 3.
 Tell us what you have achieved to date in numbers.
 How are you tracking against KPI 4? 
 - 0
-### Please provide data about your performance against KPI 4.
+### KPI 4
+> Please provide data about your performance against KPI 4.
 Tell us what you have achieved to date in numbers. If there is no KPI 4 put 0. 
 - 0
 ### Please tell us a little more about your KPIs
 > Please tell us a little more about your KPIs and how you are tracking against them - for example are you happy that your KPIs are still relevant/appropriate? *
-We'd like you to tell us anything else relevant that provides more context about your measurable achievements. If you have more than 4 KPIs please provide detail about any others not captured above. 
-My KPIs arise from (6) Governance : Due : TBA This deliverable will be a"leap of faith" interaction with voters and are a QA assessment of the Governance phase of a funded proposal. In lieu of a quantitative metric I am using "out of 10" to indicate progress. So 5 out of 10 = halfway through project.
+> We'd like you to tell us anything else relevant that provides more context about your measurable achievements. If you have more than 4 KPIs please provide detail about any others not captured above. 
+- My KPIs arise from (6) Governance : Due : TBA This deliverable will be a"leap of faith" interaction with voters and are a QA assessment of the Governance phase of a funded proposal. In lieu of a quantitative metric I am using "out of 10" to indicate progress. So 5 out of 10 = halfway through project.
 > And that's it. Thank you. Before you go, do you have any feedback about how this reporting process has been? We’d like to know any thoughts you have, optional of course.
 
 
