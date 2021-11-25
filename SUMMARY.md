@@ -23,6 +23,7 @@
 * [Auditability Proposal - Distributed Auditability](catalyst-proposals/fund-6-auditability-proposal-distributed-auditability.md)
 * [Insight Sharing - Distributed Auditability](catalyst-proposals/fund-6-insight-sharing-distributed-auditability.md)
 * [Reporting](f6-distributed-auditability/distributed-auditability.md)
+* [Budget](f6-distributed-auditability/budget.md)
 
 ## F6 Oversight of Catalyst Circle
 
