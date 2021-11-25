@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome to Quality Assurance DAO](README.md)
-* [Media](media.md)
 
 ## Partners
 
