@@ -22,19 +22,7 @@
 * [Insight Sharing - Distributed Auditability](catalyst-proposals/fund-6-insight-sharing-distributed-auditability.md)
 * [Scale-UP Cardano's Community Hubs - Homeless Hub](catalyst-proposals/fund-6-scale-up-cardanos-community-hubs-homeless-hub.md)
 
-## F5-QA-DAO
-
-* [Fund 5, Developer Ecosystem Proposal](f5-qa-dao/project-catalyst-developer-ecosystem-proposal.md)
-* [Fund 5, Developer Ecosystem Proposal - Governance](f5-qa-dao/fund-5-developer-ecosystem-proposal-governance.md)
-* [Fund 5, Developer Ecosystem - Governance Detail](f5-qa-dao/fund-5-developer-ecosystem-governance-detail.md)
-* [F5-QA-DAO-Reporting](f5-qa-dao/reporting.md)
-
-## Studies
-
-* [OccamFi OCC IDO](studies/untitled.md)
-* [Original QA-DAO Presentation](studies/original-qa-dao-presentation.md)
-
-## Fund 6 Proposals
+## F6-Open-Source-Training
 
 * [DLT-Entrepreneurship-Toolbox Open Source Training](fund-6-proposals/dlt-entrepreneurship-toolbox-open-source-training.md)
 
@@ -42,3 +30,17 @@
 
 * [Catalyst-Swarm-Genesis GitBook](f6-swarm-gitbook/catalyst-swarm-genesis-gitbook.md)
 * [Reporting](f6-swarm-gitbook/reporting.md)
+
+## F5-QA-DAO
+
+* [Fund 5, Developer Ecosystem Proposal](f5-qa-dao/project-catalyst-developer-ecosystem-proposal.md)
+* [Fund 5, Developer Ecosystem Proposal - Governance](f5-qa-dao/fund-5-developer-ecosystem-proposal-governance.md)
+* [Fund 5, Developer Ecosystem - Governance Detail](f5-qa-dao/fund-5-developer-ecosystem-governance-detail.md)
+* [F5-QA-DAO-Reporting](f5-qa-dao/reporting.md)
+
+
+
+## Studies
+
+* [OccamFi OCC IDO](studies/untitled.md)
+* [Original QA-DAO Presentation](studies/original-qa-dao-presentation.md)
