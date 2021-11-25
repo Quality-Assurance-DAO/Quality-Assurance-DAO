@@ -41,7 +41,7 @@ Tell us how the project is progressing relative to the KPIs you set at the begin
 ### KPI 2
 How are you tracking against KPI 2? 
 - On track to reach our goal	
-### Please provide data about your performance against KPI 2.
+> Please provide data about your performance against KPI 2.
 Tell us what you have achieved to date in numbers 
 - 5
 ### KPI 3
