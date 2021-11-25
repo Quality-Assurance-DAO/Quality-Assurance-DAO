@@ -27,6 +27,7 @@
 * [Fund 5, Developer Ecosystem Proposal](fund-5-proposals/project-catalyst-developer-ecosystem-proposal.md)
 * [Fund 5, Developer Ecosystem Proposal - Governance](fund-5-proposals/fund-5-developer-ecosystem-proposal-governance.md)
 * [Fund 5, Developer Ecosystem - Governance Detail](fund-5-proposals/fund-5-developer-ecosystem-governance-detail.md)
+* [Reporting](fund-5-proposals/reporting.md)
 
 ## Studies
 
