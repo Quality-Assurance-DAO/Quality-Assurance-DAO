@@ -22,12 +22,12 @@
 * [Insight Sharing - Distributed Auditability](catalyst-proposals/fund-6-insight-sharing-distributed-auditability.md)
 * [Scale-UP Cardano's Community Hubs - Homeless Hub](catalyst-proposals/fund-6-scale-up-cardanos-community-hubs-homeless-hub.md)
 
-## Fund 5 Proposals
+## F5-QA-DAO
 
-* [Fund 5, Developer Ecosystem Proposal](fund-5-proposals/project-catalyst-developer-ecosystem-proposal.md)
-* [Fund 5, Developer Ecosystem Proposal - Governance](fund-5-proposals/fund-5-developer-ecosystem-proposal-governance.md)
-* [Fund 5, Developer Ecosystem - Governance Detail](fund-5-proposals/fund-5-developer-ecosystem-governance-detail.md)
-* [F5-QA-DAO-Reporting](fund-5-proposals/reporting.md)
+* [Fund 5, Developer Ecosystem Proposal](f5-qa-dao/project-catalyst-developer-ecosystem-proposal.md)
+* [Fund 5, Developer Ecosystem Proposal - Governance](f5-qa-dao/fund-5-developer-ecosystem-proposal-governance.md)
+* [Fund 5, Developer Ecosystem - Governance Detail](f5-qa-dao/fund-5-developer-ecosystem-governance-detail.md)
+* [F5-QA-DAO-Reporting](f5-qa-dao/reporting.md)
 
 ## Studies
 
