@@ -45,3 +45,7 @@
 
 * [OccamFi OCC IDO](studies/untitled.md)
 * [Original QA-DAO Presentation](studies/original-qa-dao-presentation.md)
+
+## F6 Distributed Auditability
+
+* [Distributed Auditability](f6-distributed-auditability/distributed-auditability.md)
