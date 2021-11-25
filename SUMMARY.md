@@ -25,6 +25,8 @@
 ## F6-Open-Source-Training
 
 * [DLT-Entrepreneurship-Toolbox Open Source Training](fund-6-proposals/dlt-entrepreneurship-toolbox-open-source-training.md)
+* [Reporting](f6-open-source-training/reporting.md)
+* [Budget](f6-open-source-training/budget.md)
 
 ## F6-Swarm-GitBook
 
