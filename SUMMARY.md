@@ -41,3 +41,4 @@
 ## F6-Swarm-GitBook
 
 * [Catalyst-Swarm-Genesis GitBook](f6-swarm-gitbook/catalyst-swarm-genesis-gitbook.md)
+* [Reporting](f6-swarm-gitbook/reporting.md)
