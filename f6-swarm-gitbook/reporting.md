@@ -40,3 +40,36 @@ Stephen Whitenstall
 
 * Catalyst-swarm-genesis GitBook - https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/
 
+### Tell us about any other collaborations that have happened because of your participation in this project? *
+> This is a general metric for the overall health of the Catalyst ecosystem. If this does not apply to your project please indicate N/A.
+
+- Catalyst Swarm
+
+### What are your project KPIs that you are measuring?
+> Please list the KPIs you are measuring in your project. For example: example KPI 1: Total Github commits example KPI 2: Month on Month growth or total Number of Transactions example KPI 3: Month on Month growth of Monthly Active Users (MAU) example KPI 4: Anything else are you measuring ?
+
+- KPI 1 - Maintenance
+- KPI 2 - Marketing
+
+### How are you tracking against KPI 1? 
+> Tell us how the project is progressing relative to the KPIs you set at the beginning of the project.
+- On track to reach our goal
+
+### Please provide us with some relevant data about your performance against KPI 1 Tell us what you have achieved to date in numbers
+- 10
+
+### How are you tracking against KPI 2? 
+> Tell us how the project is progressing relative to the KPIs you set at the beginning of the project.
+- Behind on our expectations
+
+### Please provide us with some relevant data about your performance against KPI 1 Tell us what you have achieved to date in numbers
+- 1
+
+### Please tell us a little more about your KPIs
+> Please tell us a little more about your KPIs and how you are tracking against them - for example are you happy that your KPIs are still relevant/appropriate? * We'd like you to tell us anything else relevant that provides more context about your measurable achievements. If you have more than 4 KPIs please provide detail about any others not captured above.
+- The numbers refer to hours spent updating and marketing the Swarm Gitbook 
+
+###  And that's it. Thank you. Before you go, do you have any feedback about how this reporting process has been? We’d like to know any thoughts you have, optional of course.
+- Unable to input 0 in KPI numbers
+
+
