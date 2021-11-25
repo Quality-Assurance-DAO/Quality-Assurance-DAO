@@ -17,9 +17,17 @@
 ## Fund 6 Proposals <a href="catalyst-proposals" id="catalyst-proposals"></a>
 
 * [Fund 6 - Summary](catalyst-proposals/summary.md)
-* [Distributed decision making - Oversight of Catalyst Circle](catalyst-proposals/distributed-decision-making-oversight-of-catalyst-circle.md)
+
+## F6 Distributed Auditability
+
+* [Distributed Auditability](f6-distributed-auditability/distributed-auditability.md)
 * [Auditability Proposal - Distributed Auditability](catalyst-proposals/fund-6-auditability-proposal-distributed-auditability.md)
 * [Insight Sharing - Distributed Auditability](catalyst-proposals/fund-6-insight-sharing-distributed-auditability.md)
+
+## F6 Oversight of Catalyst Circle
+* [Distributed decision making - Oversight of Catalyst Circle](catalyst-proposals/distributed-decision-making-oversight-of-catalyst-circle.md)
+
+## F6 Homeless Hub
 * [Scale-UP Cardano's Community Hubs - Homeless Hub](catalyst-proposals/fund-6-scale-up-cardanos-community-hubs-homeless-hub.md)
 
 ## F6-Open-Source-Training
@@ -46,6 +54,3 @@
 * [OccamFi OCC IDO](studies/untitled.md)
 * [Original QA-DAO Presentation](studies/original-qa-dao-presentation.md)
 
-## F6 Distributed Auditability
-
-* [Distributed Auditability](f6-distributed-auditability/distributed-auditability.md)
