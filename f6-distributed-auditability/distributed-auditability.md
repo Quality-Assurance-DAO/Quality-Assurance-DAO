@@ -179,6 +179,18 @@ No
 
 No
 
+### Can you define the type of success you have had?
+
+#### New partnership(s)
+
+Other
+
+### Please tell us about your success?&#x20;
+
+Research and prototyping : Creation in principle of a Catalyst Audit Circle (F7 proposal submitted) and a Community Governance Oversight group (F7 proposal submitted). Liaison with Jack O'Brien (Eastern Town Hall) on GitHub Action automation of proposal reporting.
+
+
+
 
 
 
