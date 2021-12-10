@@ -195,6 +195,18 @@ Research and prototyping : Creation in principle of a Catalyst Audit Circle (F7 
 
 Commence Continuous Integration Development in January 2022. Should have scoped more time and resources for Research and prototyping in this proposal.
 
+### When will you go live with the product or service you are developing?
+
+Q2 2022 (Apr to Jun 2022)
+
+### Project Report&#x20;
+
+### Over the past month did you collaborate with anyone from the Cardano or Catalyst network?
+
+Yes
+
+
+
 
 
 
