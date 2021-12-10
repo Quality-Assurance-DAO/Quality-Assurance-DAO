@@ -104,3 +104,54 @@ How many products or services has this project generated?
 > And that's it. Thank you. Before you go, do you have any feedback about how this reporting process has been? We’d like to know any thoughts you have, optional of course.
 
 * No way to put 0 against a KPI that has not started
+
+
+
+## 10th December 2021 - Progress Report
+
+### Email
+
+swhitenstall@googlemail.com
+
+### Your Full Name
+
+Stephen Whitenstall
+
+### URL for your project (as listed on Ideascale) or your Proposal name.
+
+> Proposal name must match your Ideascale proposal title.
+
+* [https://cardano.ideascale.com/a/dtd/Distributed-Auditability/366707-48088](https://cardano.ideascale.com/a/dtd/Distributed-Auditability/366707-48088)
+
+### In which fund is your project?
+
+> If you have more than one funded project, which fund is the project you are reporting on in this form?
+
+* Fund 6
+
+### Project Update
+
+### Have you started working on your project?
+
+Yes
+
+### Project launched report&#x20;
+
+### Is the project on track?
+
+No
+
+### If you selected 'No' please tell us by how much it will be delayed&#x20;
+
+The start of Phase 1 is delayed until January 2022
+
+### Have you had any problems or issues on the project in the last month?
+
+#### We will not share this information
+
+&#x20;Yes
+
+
+
+
+
