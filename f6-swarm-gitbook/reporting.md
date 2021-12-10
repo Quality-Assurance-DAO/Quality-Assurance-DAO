@@ -149,3 +149,21 @@ No
 
 
 
+### Over the past month did you collaborate with anyone from the Cardano or Catalyst network?&#x20;
+
+No.
+
+### If yes, please tell us a bit more about your collaboration&#x20;
+
+No collaboration with IOG on the GitBook - this proposal is more a documentation project.
+
+### Do you have any questions for the Catalyst team or community?
+
+No
+
+### How happy are you with the development of the project?
+
+7
+
+
+
