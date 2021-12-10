@@ -169,13 +169,13 @@ Resource
 
 Due to other commitments there has been limited resources available to work on this project.
 
-Does this issue require the immediate attention of Catalyst?&#x20;
+### Does this issue require the immediate attention of Catalyst?&#x20;
 
-We will not share this information&#x20;
+#### We will not share this information&#x20;
 
 No
 
-Have you had any major successes or wins on the project in the last month?
+### Have you had any major successes or wins on the project in the last month?
 
 No
 
