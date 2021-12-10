@@ -189,6 +189,12 @@ Other
 
 Research and prototyping : Creation in principle of a Catalyst Audit Circle (F7 proposal submitted) and a Community Governance Oversight group (F7 proposal submitted). Liaison with Jack O'Brien (Eastern Town Hall) on GitHub Action automation of proposal reporting.
 
+### What is your next milestone?
+
+#### What will you achieve in the next 2 to 4 weeks&#x20;
+
+Commence Continuous Integration Development in January 2022. Should have scoped more time and resources for Research and prototyping in this proposal.
+
 
 
 
