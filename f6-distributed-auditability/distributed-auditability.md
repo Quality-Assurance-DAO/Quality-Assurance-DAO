@@ -205,6 +205,22 @@ Q2 2022 (Apr to Jun 2022)
 
 Yes
 
+### If yes, please tell us a bit more about your collaboration
+
+IOHK on auditability issues and proposals. Eastern Town Hall on automation of reporting.
+
+### Are there any other important developments you would like to tell us about?
+
+No
+
+### Do you have any questions for the Catalyst team or community?
+
+No
+
+### **How happy are you with the development of the project?**
+
+5
+
 
 
 
