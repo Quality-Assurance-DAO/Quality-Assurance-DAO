@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Background](README.md)
+* [Overview](README.md)
+* [Background](<README (1).md>)
 * [Partners](partners.md)
 
 ## Fund 6 Proposals <a href="#catalyst-proposals" id="catalyst-proposals"></a>
