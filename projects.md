@@ -19,3 +19,9 @@ Completed. Proposal. ID : 500060. Innovative approach to open source. Reform PM 
 * **Challenge :** [F5: Developer ecosystem](https://cardano.ideascale.com/c/campaigns/25939/about)
 * **Completed** - Stephen Whitenstall (QADAO) - Budget $ 5
 * **Lidonation :** - [https://www.lidonation.com/en/proposals/quality-assurance-dao](https://www.lidonation.com/en/proposals/quality-assurance-dao)
+
+### Fund 6
+
+#### Catalyst-Swarm-Genesis GitBook
+
+Completed. Co-Proposal. ID: 600037. Resource the documentation & tracking of the Catalyst-Swarm Genesis GitBook. Communicate the content of the Catalyst-Swarm Genesis GitBook. Budget $ 3480
