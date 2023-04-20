@@ -102,12 +102,6 @@ It is maintained by under the benevolent dictatorship of Stephen Whitenstall, (C
 
 ## Community support
 
-### Catalyst Circle
-
-QA-DAO provides oversight on the activities of the Catalyst Circle an initiative that has been initiated by IOHK to advance governance in Project Catalyst.
-
-{% embed url="https://catalyst-swarm.gitbook.io/catalyst-circle/" %}
-
 ### The Catalyst School
 
 QA-DAO is helping to develop course documentation for The Catalyst School

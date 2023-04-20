@@ -10,6 +10,10 @@ QA-DAO provides oversight on the activities of the Catalyst Circle an initiative
 
 {% embed url="https://catalyst-swarm.gitbook.io/catalyst-circle/" %}
 
+## Catalyst School
+
+QA-DAO is helping to develop course documentation for The Catalyst School
+
 ## Secret Decks
 
 {% embed url="https://www.secretdecks.com/" %}
