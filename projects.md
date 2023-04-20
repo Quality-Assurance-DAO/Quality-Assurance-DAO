@@ -2,7 +2,7 @@
 
 ## Ongoing Projects
 
-## SingularityNET Ambassdors&#x20;
+### SingularityNET Ambassadors&#x20;
 
 ## Funded Projects
 
