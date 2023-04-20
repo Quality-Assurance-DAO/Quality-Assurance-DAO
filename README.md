@@ -17,3 +17,7 @@ We provide everything from summary to detailed exposition. Using common tools su
 ## **Facilitation and Co-production**
 
 QA-DAO is affiliated with the Facilitators collective in Project Catalyst and seeks co-production through collaboration with other communities.
+
+## **Governance and Community Support**
+
+Collaborations with communities such as Homeless Hub, Philosophy in Pubs and Catalyst Swarm.
