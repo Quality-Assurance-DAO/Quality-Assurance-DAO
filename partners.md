@@ -25,3 +25,11 @@ QA-DAO supports the documentation and tracking of Catalyst-Swarm.
 ## Secret Decks
 
 {% embed url="https://www.secretdecks.com/" %}
+
+## SingularityNET
+
+### SingularityNET Ambassador Program
+
+QA-DAO works with the SingularityNET Ambassadorn programme.
+
+{% embed url="https://quality-assurance-dao.gitbook.io/singularitynet-archive/" %}
