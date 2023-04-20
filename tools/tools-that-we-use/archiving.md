@@ -8,6 +8,10 @@ Conifer is a web archiving service that creates an interactive copy of any web p
 
 {% embed url="https://conifer.rhizome.org/" %}
 
+### Conifer User Guide
+
+{% embed url="https://guide.conifer.rhizome.org/docs/ui-overview/" %}
+
 ## How can we preserve Google Documents?
 
 {% embed url="http://digital-archiving.blogspot.com/2017/04/how-can-we-preserve-google-documents_35.html" %}
