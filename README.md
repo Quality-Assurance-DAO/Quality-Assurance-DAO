@@ -99,11 +99,3 @@ This GitBook is a repository of academic content across the wider Cardano commun
 It is maintained by under the benevolent dictatorship of Stephen Whitenstall, (Catalyst Swarm/Secret Decks/QA-DAO).
 
 {% embed url="https://stephen-rowan.gitbook.io/ekphrasis/" %}
-
-## Community support
-
-### Catalyst-Swarm
-
-QA-DAO supports the documentation and tracking of Catalyst-Swarm.
-
-{% embed url="https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/" %}
