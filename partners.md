@@ -16,6 +16,10 @@ QA-DAO is helping to develop course documentation for The Catalyst School.
 
 {% embed url="https://catalyst-swarm.gitbook.io/the-catalyst-school/" %}
 
+## Catalyst-Swarm
+
+QA-DAO supports the documentation and tracking of Catalyst-Swarm.
+
 ## Secret Decks
 
 {% embed url="https://www.secretdecks.com/" %}
