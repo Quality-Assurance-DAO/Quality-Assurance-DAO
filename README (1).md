@@ -6,17 +6,11 @@ description: A brief history of QA-DAO
 
 ##
 
-A brief history of QA-DAO
+## What is Quality Assurance DAO ?
 
-## Welcome to Quality Assurance DAO
+Quality Assurance DAO was founded by Stephen Whitenstall in April 2021 and grew out of a Project Catalyst Fund 5 Proposal
 
-### What is Quality Assurance DAO ?
-
-{% hint style="info" %}
-QA-DAO has submitted proposals in Project Catalyst since Fund 5.
-{% endhint %}
-
-Quality Assurance DAO (QA-DAO) is an ongoing open source project that provides support for the Cardano Project Catalyst Community.
+![Quality Assurance DAO Fund 5 Proposal](.gitbook/assets/2021-07-18-6-.png)
 
 In Fund 5 of Project Catalyst QA-DAO submitted a proposal "[Quality Assurance DAO](https://stephen-rowan.gitbook.io/quality-assurance-dao/catalyst-proposals/project-catalyst-developer-ecosystem-proposal)" in the Developer Ecosystem Challenge that sought to encourage open-source collaboration & innovation and to do a QA Assessment of Catalyst Proposal Process itself. This proposal was successful in receiving votes and was funded in August 2021. Governance of the Quality Assurance DAO Fund 5 proposal may be followed [here](https://stephen-rowan.gitbook.io/quality-assurance-dao/catalyst-proposals/fund-5-developer-ecosystem-proposal-governance).
 
@@ -45,12 +39,6 @@ QA-DAO provides support and training for the Project Catalyst community via the 
 {% hint style="info" %}
 QA-DAO collates current research in the Cardano ecosystem and original research from the Catalyst community in the [Ekphrasis ](https://stephen-rowan.gitbook.io/ekphrasis/)journal.
 {% endhint %}
-
-### Background
-
-The Quality Assurance DAO was founded by Stephen Whitenstall in April 2021 and grew out of a Project Catalyst Fund 5 Proposal
-
-![Quality Assurance DAO Fund 5 Proposal](.gitbook/assets/2021-07-18-6-.png)
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Quality-Assurance-DAO/351678-48088" %}
 
