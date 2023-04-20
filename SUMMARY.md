@@ -47,5 +47,5 @@
 
 ## Tools
 
-* [Tools that we use](tools/tools-that-we-use.md)
-* [Archiving](tools/archiving.md)
+* [Tools that we use](tools/tools-that-we-use/README.md)
+  * [Archiving](tools/tools-that-we-use/archiving.md)
