@@ -1,8 +1,8 @@
 # Projects
 
-## Other Projects
+## Ongoing Projects
 
-x
+## SingularityNET Ambassdors&#x20;
 
 ## Funded Projects
 

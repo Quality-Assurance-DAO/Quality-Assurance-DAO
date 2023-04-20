@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Background](README.md)
+* [Background](<README (1).md>)
 * [Projects](projects.md)
 * [Partners](partners.md)
 
