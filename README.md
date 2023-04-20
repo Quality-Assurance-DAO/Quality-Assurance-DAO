@@ -21,3 +21,7 @@ QA-DAO is affiliated with the Facilitators collective in Project Catalyst and se
 ## **Governance and Community Support**
 
 Collaborations with communities such as Homeless Hub, Philosophy in Pubs and Catalyst Swarm.
+
+## **Project Management and Automation**
+
+QA-DAO works closely with Treasury Guild & Governance Guild to provide Project Management and Automation.
