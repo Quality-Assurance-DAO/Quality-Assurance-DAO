@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome to Quality Assurance DAO](README.md)
+* [Partners](partners.md)
 
 ## Fund 6 Proposals <a href="#catalyst-proposals" id="catalyst-proposals"></a>
 
