@@ -8,4 +8,8 @@ description: The Distributed Autonomous Organisation of Quality Assurance
 
 ## **Auditing and Oversight**
 
-QA-DAO reports on & tracks Catalyst Governance experiments such as the Catalyst Circle. And supports Catalyst Circle Facilitators and Secretaries.
+QA-DAO reports on & tracks Governance experiments within blockchains such as Cardano and SingularityNet.
+
+## **Documentation and Communication**
+
+We provide everything from summary to detailed exposition. Using common tools such as GitBook and GitHub.
