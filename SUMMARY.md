@@ -2,7 +2,7 @@
 
 * [Welcome to Quality Assurance DAO](README.md)
 
-## Fund 6 Proposals <a href="catalyst-proposals" id="catalyst-proposals"></a>
+## Fund 6 Proposals <a href="#catalyst-proposals" id="catalyst-proposals"></a>
 
 * [Fund 6 - Summary](catalyst-proposals/summary.md)
 
@@ -44,3 +44,7 @@
 
 * [OccamFi OCC IDO](studies/untitled.md)
 * [Original QA-DAO Presentation](studies/original-qa-dao-presentation.md)
+
+## Tools
+
+* [Tools that we use](tools/tools-that-we-use.md)
