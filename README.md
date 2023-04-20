@@ -100,10 +100,6 @@ It is maintained by under the benevolent dictatorship of Stephen Whitenstall, (C
 
 {% embed url="https://stephen-rowan.gitbook.io/ekphrasis/" %}
 
-### Secret Decks
-
-{% embed url="https://www.secretdecks.com/" %}
-
 ## Community support
 
 ### Catalyst Circle
