@@ -2,7 +2,11 @@
 description: The Distributed Autonomous Organisation of Quality Assurance
 ---
 
-# Welcome to Quality Assurance DAO
+# Background
+
+##
+
+A brief history of QA-DAO
 
 ## Welcome to Quality Assurance DAO
 
