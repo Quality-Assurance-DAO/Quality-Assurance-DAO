@@ -1,5 +1,5 @@
 ---
-description: The Distributed Autonomous Organisation of Quality Assurance
+description: A brief history of QA-DAO
 ---
 
 # Background
