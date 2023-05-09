@@ -16,11 +16,11 @@ The slides for this presentation are here
 
 {% embed url="https://docs.google.com/presentation/d/1JYOYoImQxmyW2i3HldMvJqtYanAxNRSqNIxMs1AaNUw/edit?usp=sharing" %}
 
-{% file src="../../.gitbook/assets/Catalyst Audit Circle close-out report slides.pptx" %}
+{% file src="../../../.gitbook/assets/Catalyst Audit Circle close-out report slides.pptx" %}
 
 ## Ideascale entry
 
-<figure><img src="../../.gitbook/assets/Screenshot from 2023-05-09 15-32-14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot from 2023-05-09 15-32-14.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://cardano.ideascale.com/c/idea/60520" %}
 
