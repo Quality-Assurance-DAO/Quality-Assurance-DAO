@@ -4,6 +4,7 @@
 * [Background](<README (1).md>)
 * [Projects](projects.md)
 * [Partners](partners.md)
+* [Onboarding](onboarding.md)
 
 ## Fund 6 Proposals <a href="#catalyst-proposals" id="catalyst-proposals"></a>
 
