@@ -13,10 +13,7 @@
     * [Insight Sharing - Distributed Auditability](catalyst-proposals/fund-6-insight-sharing-distributed-auditability.md)
     * [Reporting](f6-distributed-auditability/distributed-auditability.md)
     * [Budget](f6-distributed-auditability/budget.md)
-
-## F6 Oversight of Catalyst Circle
-
-* [F6 Oversight of Catalyst Circle](catalyst-proposals/distributed-decision-making-oversight-of-catalyst-circle.md)
+  * [F6 Oversight of Catalyst Circle](catalyst-proposals/summary/distributed-decision-making-oversight-of-catalyst-circle.md)
 
 ## F6 Homeless Hub
 
