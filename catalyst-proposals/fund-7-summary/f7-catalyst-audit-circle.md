@@ -4,6 +4,8 @@
 
 ## Close out Video
 
+This is the close-out video for Catalyst Audit Circle, which was a Fund 7 proposal in the "Improve and Grow Auditability" challenge. It aimed to problem-sense audit issues in the community and discuss solutions. The project ran from March to June 2022.
+
 {% embed url="https://youtu.be/YeUH3Q6cqSw" %}
 
 Completed.&#x20;
