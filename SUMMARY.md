@@ -3,7 +3,6 @@
 * [Overview](README.md)
 * [Background](<README (1).md>)
 * [Partners](partners.md)
-* [Onboarding](onboarding.md)
 
 ## Project Catalyst Proposals <a href="#catalyst-proposals" id="catalyst-proposals"></a>
 
@@ -32,7 +31,8 @@
 * [OccamFi OCC IDO](studies/untitled.md)
 * [Original QA-DAO Presentation](studies/original-qa-dao-presentation.md)
 
-## Tools
+## Resources
 
-* [Tools that we use](tools/tools-that-we-use/README.md)
-  * [Archiving](tools/tools-that-we-use/archiving.md)
+* [Tools that we use](resources/tools-that-we-use/README.md)
+  * [Archiving](resources/tools-that-we-use/archiving.md)
+* [Onboarding](resources/onboarding.md)
