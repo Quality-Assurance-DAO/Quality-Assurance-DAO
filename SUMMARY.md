@@ -28,6 +28,7 @@
 * [Fund 7 - Summary](catalyst-proposals/fund-7-summary.md)
 * [Fund 8 - Summary](catalyst-proposals/fund-8-summary.md)
 * [Fund 9 - Summary](catalyst-proposals/fund-9-summary.md)
+* [F7 Catalyst Audit Circle](catalyst-proposals/f7-catalyst-audit-circle.md)
 
 ## Studies
 
