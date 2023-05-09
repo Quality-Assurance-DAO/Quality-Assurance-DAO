@@ -1,10 +1,10 @@
 ---
-description: Homeless Hub Fund 6 Proposal
+description: Scale-UP Cardano's Community Hubs - Homeless Hub
 ---
 
-# Scale-UP Cardano's Community Hubs - Homeless Hub
+# F6 Homeless Hub
 
-![](../.gitbook/assets/2021-08-30-4-.png)
+![](../../.gitbook/assets/2021-08-30-4-.png)
 
 | Title   | F6: Scale-UP Cardano's Community Hubs |
 | ------- | ------------------------------------- |
@@ -71,4 +71,3 @@ This hub would have its roots in the homeless community but can also engage othe
 ### References
 
 {% embed url="https://www.crisis.org.uk/media/241452/a_home_for_all_understanding_migrant_homelessness_in_great_britain_2019.pdf" %}
-

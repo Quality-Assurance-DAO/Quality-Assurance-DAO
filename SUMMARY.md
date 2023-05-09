@@ -14,14 +14,11 @@
     * [Reporting](f6-distributed-auditability/distributed-auditability.md)
     * [Budget](f6-distributed-auditability/budget.md)
   * [F6 Oversight of Catalyst Circle](catalyst-proposals/summary/distributed-decision-making-oversight-of-catalyst-circle.md)
-
-## F6 Homeless Hub
-
-* [Scale-UP Cardano's Community Hubs - Homeless Hub](catalyst-proposals/fund-6-scale-up-cardanos-community-hubs-homeless-hub.md)
+  * [F6 Homeless Hub](catalyst-proposals/summary/fund-6-scale-up-cardanos-community-hubs-homeless-hub.md)
 
 ## F6-Open-Source-Training
 
-* [DLT-Entrepreneurship-Toolbox Open Source Training](fund-6-proposals/dlt-entrepreneurship-toolbox-open-source-training.md)
+* [F6 Open Source Training](fund-6-proposals/dlt-entrepreneurship-toolbox-open-source-training.md)
 * [Reporting](f6-open-source-training/reporting.md)
 * [Budget](f6-open-source-training/budget.md)
 

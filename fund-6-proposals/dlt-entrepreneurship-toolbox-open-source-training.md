@@ -1,4 +1,8 @@
-# DLT-Entrepreneurship-Toolbox Open Source Training
+---
+description: DLT-Entrepreneurship-Toolbox Open Source Training
+---
+
+# F6 Open Source Training
 
 ![](../.gitbook/assets/2021-08-30-5-.png)
 
@@ -12,7 +16,7 @@
 
 ## **Summary**
 
-Welcome to the landing page for the Project Catalyst Fund 6 DLT-Entrepreneurship-Toolbox proposal - Open Source Training. 
+Welcome to the landing page for the Project Catalyst Fund 6 DLT-Entrepreneurship-Toolbox proposal - Open Source Training.
 
 ## **Fund 6 Proposal**
 
@@ -37,16 +41,16 @@ https://www.linkedin.com/in/stephen-whitenstall-166727210/
 ### **Website/GitHub repository (not required)**
 
 {% hint style="info" %}
- [https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-6-proposals/dlt-entrepreneurship-toolbox-open-source-training](https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-6-proposals/dlt-entrepreneurship-toolbox-open-source-training)
+[https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-6-proposals/dlt-entrepreneurship-toolbox-open-source-training](https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-6-proposals/dlt-entrepreneurship-toolbox-open-source-training)
 {% endhint %}
 
 ### **Detailed Plan**
 
-### **Revisiting the Problem Statement **
+### \*\*Revisiting the Problem Statement \*\*
 
 Project Catalyst is rapidly expanding, and its decentralized funding platform needs to support industry standard collaborative coding, tracking and documentation tools such as GitHub. 1000s of Cardano developers use version control tools such as GitHub, but there is often a gap in knowledge for early stage entrepreneurs who do not have the knowledge to take advantage of GitHub's organisational and collaborative features.
 
-### **Introducing the Solution (**How I address the challenge question).
+### \*\*Introducing the Solution (\*\*How I address the challenge question).
 
 In partnership with the Catalyst School – QA-DAO will offer introductory training materials for early stage entrepreneurs to develop skills in open-source tools such as GitHub.\
 This will comprise a series of workshops comprising of a short screencast, screen share and Q\&A on the use of GitHub in Project Catalyst projects.
@@ -185,4 +189,3 @@ The following metrics will measure the progress and success of this proposal:
 3\) Survey if gaps have been filled in the entrepreneurial skills base of participants.
 
 4\) Survey if use of open-source infrastructure promotes sustainability of venture plans.
-
