@@ -1,3 +1,7 @@
+---
+description: Problem-sense audit issues in the community and discuss solutions
+---
+
 # F7 Catalyst Audit Circle
 
 
