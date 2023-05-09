@@ -25,10 +25,10 @@
   * [F6 Catalyst-Swarm-Genesis GitBook](f6-swarm-gitbook/catalyst-swarm-genesis-gitbook.md)
     * [Reporting](f6-swarm-gitbook/reporting.md)
     * [Budget](f6-swarm-gitbook/budget.md)
-* [Fund 7 - Summary](catalyst-proposals/fund-7-summary.md)
+* [Fund 7 - Summary](catalyst-proposals/fund-7-summary/README.md)
+  * [F7 Catalyst Audit Circle](catalyst-proposals/fund-7-summary/f7-catalyst-audit-circle.md)
 * [Fund 8 - Summary](catalyst-proposals/fund-8-summary.md)
 * [Fund 9 - Summary](catalyst-proposals/fund-9-summary.md)
-* [F7 Catalyst Audit Circle](catalyst-proposals/f7-catalyst-audit-circle.md)
 
 ## Studies
 

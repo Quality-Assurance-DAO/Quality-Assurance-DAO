@@ -10,6 +10,6 @@ Establish a Catalyst auditing circle to guide improvements needed to maximise ea
 
 Budget $ 12700
 
-<figure><img src="../.gitbook/assets/Screenshot from 2023-05-09 15-32-14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot from 2023-05-09 15-32-14.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://cardano.ideascale.com/c/idea/60520" %}
