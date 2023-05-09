@@ -97,7 +97,7 @@ Governance of the Quality-Assurance DAO , Fund 5, Developer Ecosystem Proposal i
 
 ## Cohort Meeting #2 - September 7th, 2021
 
-![](../../../.gitbook/assets/2021-09-07.png)
+![](../.gitbook/assets/2021-09-07.png)
 
 Greetings All Cohorts! 👋
 
@@ -127,13 +127,13 @@ Zoom Video Communications ([https://bit.ly/37kHZFB](https://bit.ly/37kHZFB)) Wel
 
 ### Telegram
 
-![](../../../.gitbook/assets/2021-09-09-6-.png)
+![](../.gitbook/assets/2021-09-09-6-.png)
 
 ## Cohort Report #2
 
 ### 22nd September 2021
 
-![](../../../.gitbook/assets/2021-09-22-15-.png)
+![](../.gitbook/assets/2021-09-22-15-.png)
 
 > Hi there - I (QA-DAO) completed the new Progress Report without any issues. For anyone interested completion of the old and new forms can be compared on my GitBook : Old Form ([https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-5-proposals/fund-5-developer-ecosystem-governance-detail#cohort-progress-report-1](https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-5-proposals/fund-5-developer-ecosystem-governance-detail#cohort-progress-report-1) ) and New Form ([https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-5-proposals/fund-5-developer-ecosystem-governance-detail#cohort-progress-report-2](https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-5-proposals/fund-5-developer-ecosystem-governance-detail#cohort-progress-report-2)). All my cohort reporting is documented here - from the onboarding form onwards. I plan to use these materials to illustrate and provide commentary on the funded cohort experience. All the best S.
 
@@ -141,4 +141,4 @@ Zoom Video Communications ([https://bit.ly/37kHZFB](https://bit.ly/37kHZFB)) Wel
 
 ### Boostcamp application
 
-![](../../../.gitbook/assets/2021-10-07.png)
+![](../.gitbook/assets/2021-10-07.png)

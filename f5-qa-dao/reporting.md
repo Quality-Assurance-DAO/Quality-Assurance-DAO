@@ -206,5 +206,4 @@ Stephen Whitenstall
 
 > And that's it. Thank you. Before you go, do you have any feedback about how this reporting process has been? We’d like to know any thoughts you have, optional of course.
 
-- There is an error in KPI 3 on this form - when you select No KPIs it still expects a number - had to input 5 against no KPI
-
+* There is an error in KPI 3 on this form - when you select No KPIs it still expects a number - had to input 5 against no KPI
