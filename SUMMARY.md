@@ -26,6 +26,8 @@
     * [Reporting](f6-swarm-gitbook/reporting.md)
     * [Budget](f6-swarm-gitbook/budget.md)
 * [Fund 7 - Summary](catalyst-proposals/fund-7-summary.md)
+* [Fund 8 - Summary](catalyst-proposals/fund-8-summary.md)
+* [Fund 9 - Summary](catalyst-proposals/fund-9-summary.md)
 
 ## Studies
 
