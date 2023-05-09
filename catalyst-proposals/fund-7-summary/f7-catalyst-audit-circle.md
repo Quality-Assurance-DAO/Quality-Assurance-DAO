@@ -8,6 +8,14 @@ This is the close-out video for Catalyst Audit Circle, which was a Fund 7 propos
 
 {% embed url="https://youtu.be/YeUH3Q6cqSw" %}
 
+The slides for this presentation are here
+
+{% embed url="https://docs.google.com/presentation/d/1JYOYoImQxmyW2i3HldMvJqtYanAxNRSqNIxMs1AaNUw/edit?usp=sharing" %}
+
+{% file src="../../.gitbook/assets/Catalyst Audit Circle close-out report slides.pptx" %}
+
+## Notes
+
 Completed.&#x20;
 
 Co-Proposal.&#x20;
