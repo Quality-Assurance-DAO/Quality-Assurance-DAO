@@ -4,13 +4,13 @@ description: Project Catalyst Fund 6, Insight Sharing - Distributed Auditability
 
 # Insight Sharing - Distributed Auditability
 
-![](../../../.gitbook/assets/2021-08-30-1-.png)
+![](../.gitbook/assets/2021-08-30-1-.png)
 
 | Title   | Project Catalyst Fund 6                    |
 | ------- | ------------------------------------------ |
 | Subject | Insight Sharing - Distributed Auditability |
 
-![Wikimedia Commons Image](../../../.gitbook/assets/0.png)
+![Wikimedia Commons Image](../.gitbook/assets/0.png)
 
 | Author    | Stephen Whitenstall |
 | --------- | ------------------- |

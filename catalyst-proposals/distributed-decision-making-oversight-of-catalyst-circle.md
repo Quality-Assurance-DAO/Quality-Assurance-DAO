@@ -1,4 +1,8 @@
-# Distributed decision making - Oversight of Catalyst Circle
+---
+description: Distributed decision making - Oversight of Catalyst Circle
+---
+
+# F6 Oversight of Catalyst Circle
 
 ![](../.gitbook/assets/2021-08-30-2-.png)
 
@@ -25,7 +29,7 @@ Resource an active site that documents the activities of the Catalyst Circle
 
 ## Relevant experience (identifying information)
 
-Stephen has 30 years' experience in organizing academic, community and business projects 
+Stephen has 30 years' experience in organizing academic, community and business projects
 
 ### Website/GitHub repository (not required)
 
@@ -35,7 +39,7 @@ Stephen has 30 years' experience in organizing academic, community and business 
 
 ## **Presentation / tracking**
 
-A more readable GitBook version of this proposal can found [here](https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-6-proposals/distributed-decision-making-oversight-of-catalyst-circle). 
+A more readable GitBook version of this proposal can found [here](https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-6-proposals/distributed-decision-making-oversight-of-catalyst-circle).
 
 The text of this proposal is version controlled [here ](https://github.com/Quality-Assurance-DAO/F6-Distributed-decision-making-Oversight-of-Catalyst-Circle/blob/main/Proposal/F6-Distributed-decision-making-Oversight-of-Catalyst-Circle.md)and tracked [here ](https://github.com/Quality-Assurance-DAO/F6-Distributed-decision-making-Oversight-of-Catalyst-Circle/projects/1).
 
@@ -55,21 +59,21 @@ This proposal is separate from the Catalyst Circle Secretary / Facilitator roles
 
 ### Relevant experience
 
-Stephen Whitenstall: Stephen Whitenstall has 30 years' experience in organizing academic, community and business projects. He develops, maintains documentation and provides technical project management support for Catalyst Swarm. As QA-DAO he tracks and documents the Catalyst Circle and maintains 'Ekphrasis' a repository of academic content from across the Cardano community. 
+Stephen Whitenstall: Stephen Whitenstall has 30 years' experience in organizing academic, community and business projects. He develops, maintains documentation and provides technical project management support for Catalyst Swarm. As QA-DAO he tracks and documents the Catalyst Circle and maintains 'Ekphrasis' a repository of academic content from across the Cardano community.
 
 {% embed url="https://www.linkedin.com/in/stephen-whitenstall-166727210" %}
 
 ### A live record of additions to the GitBook
 
-A live record of additions to the GitBook back end GitHub repository can be seen here :  
+A live record of additions to the GitBook back end GitHub repository can be seen here :
 
 {% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle/graphs/contributors?from=2021-07-11&to=2021-09-01&type=a" %}
 
 ### Tracking the time spent on maintaining the GitBook
 
-QA-DAO ( [https://stephen-rowan.gitbook.io/quality-assurance-dao/](https://stephen-rowan.gitbook.io/quality-assurance-dao/) ) has been tracking the time spent on maintaining the GitBook. 
+QA-DAO ( [https://stephen-rowan.gitbook.io/quality-assurance-dao/](https://stephen-rowan.gitbook.io/quality-assurance-dao/) ) has been tracking the time spent on maintaining the GitBook.
 
-The raw Clockify data to 30th August 2021 can be found here : 
+The raw Clockify data to 30th August 2021 can be found here :
 
 {% embed url="https://github.com/Catalyst-Swarm/Catalyst-Circle-Co-ordination/blob/main/Documents/Clockify_Detailed_Report_01_01_2021-31_12_2021(1).csv" %}
 
@@ -92,7 +96,7 @@ A shift to note-taking on a proprietary platform inhibited documentation and tra
 | Monday 23rd August 2021 | [Meeting 4 - August 26th 2021](https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-4-august-26th-2021)                                                                                              | 02:17        |
 |                         | [CA & vCA Rewarding Model - 27th August 2021](https://catalyst-swarm.gitbook.io/catalyst-circle/community-advisors/community-advisor-activity#27th-august-2021-ca-and-vca-rewarding-model-project-catalyst-fund-6) |              |
 | Monday 30th August 2021 |                                                                                                                                                                                                                    | 00:55        |
-| **Total hours to date** | ****                                                                                                                                                                                                               | **27:40**    |
+| **Total hours to date** | \*\*\*\*                                                                                                                                                                                                           | **27:40**    |
 
 ### **Roadmap ( Definition of success after 3, 6 and 12 months)**
 
