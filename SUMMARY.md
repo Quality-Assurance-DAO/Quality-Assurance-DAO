@@ -2,7 +2,6 @@
 
 * [Overview](README.md)
 * [Background](<README (1).md>)
-* [Projects](projects.md)
 * [Partners](partners.md)
 * [Onboarding](onboarding.md)
 
