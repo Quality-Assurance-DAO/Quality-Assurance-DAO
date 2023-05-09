@@ -18,6 +18,10 @@ The slides for this presentation are here
 
 {% file src="../../../.gitbook/assets/Catalyst Audit Circle close-out report slides.pptx" %}
 
+## Closing Report
+
+{% embed url="https://quality-assurance-dao.gitbook.io/audit-hub/audit-circle-fund-7-closing-report" %}
+
 ## Ideascale entry
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2023-05-09 15-32-14.png" alt=""><figcaption></figcaption></figure>
