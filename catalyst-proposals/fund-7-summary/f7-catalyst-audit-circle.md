@@ -1,5 +1,11 @@
 # F7 Catalyst Audit Circle
 
+
+
+## Close out Video
+
+{% embed url="https://youtu.be/YeUH3Q6cqSw" %}
+
 Completed.&#x20;
 
 Co-Proposal.&#x20;
