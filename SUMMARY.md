@@ -18,12 +18,9 @@
   * [F6 Open Source Training](catalyst-proposals/summary/dlt-entrepreneurship-toolbox-open-source-training/README.md)
     * [Reporting](catalyst-proposals/summary/dlt-entrepreneurship-toolbox-open-source-training/reporting.md)
     * [Budget](catalyst-proposals/summary/dlt-entrepreneurship-toolbox-open-source-training/budget.md)
-
-## F6-Swarm-GitBook
-
-* [F6 Catalyst-Swarm-Genesis GitBook](f6-swarm-gitbook/catalyst-swarm-genesis-gitbook.md)
-* [Reporting](f6-swarm-gitbook/reporting.md)
-* [Budget](f6-swarm-gitbook/budget.md)
+  * [F6 Catalyst-Swarm-Genesis GitBook](catalyst-proposals/summary/catalyst-swarm-genesis-gitbook/README.md)
+    * [Reporting](catalyst-proposals/summary/catalyst-swarm-genesis-gitbook/reporting.md)
+    * [Budget](catalyst-proposals/summary/catalyst-swarm-genesis-gitbook/budget.md)
 
 ## F5-QA-DAO
 
