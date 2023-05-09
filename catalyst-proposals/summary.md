@@ -6,11 +6,11 @@ description: Summary of Fund 6 Proposals QA-DAO is involved in.
 
 ## Improve and Grow Auditability - Distributed Auditability
 
-![](../../.gitbook/assets/2021-08-30-1-.png)
+![](../.gitbook/assets/2021-08-30-1-.png)
 
 ### Ideascale
 
-![](../../.gitbook/assets/2021-08-30.png)
+![](../.gitbook/assets/2021-08-30.png)
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Distributed-Auditability/366707-48088" %}
 
@@ -22,7 +22,7 @@ description: Summary of Fund 6 Proposals QA-DAO is involved in.
 
 ## Scale-UP Cardano's Community Hubs - Homeless Hub
 
-![](../../.gitbook/assets/2021-08-30-4-.png)
+![](../.gitbook/assets/2021-08-30-4-.png)
 
 ### Ideascale
 
@@ -36,7 +36,7 @@ description: Summary of Fund 6 Proposals QA-DAO is involved in.
 
 ## DLT Entrepreneurship Toolbox - Open Source Training
 
-![](../../.gitbook/assets/2021-08-30-5-.png)
+![](../.gitbook/assets/2021-08-30-5-.png)
 
 ### Ideascale
 
@@ -50,7 +50,7 @@ description: Summary of Fund 6 Proposals QA-DAO is involved in.
 
 ## Catalyst value onboarding Ekphrasis - Academic GitBook
 
-![](../../.gitbook/assets/2021-08-30-6-.png)
+![](../.gitbook/assets/2021-08-30-6-.png)
 
 ### Ideascale
 
@@ -64,11 +64,11 @@ description: Summary of Fund 6 Proposals QA-DAO is involved in.
 
 ## Distributed decision making - Oversight of Catalyst Circle
 
-![](../../.gitbook/assets/2021-08-30-2-.png)
+![](../.gitbook/assets/2021-08-30-2-.png)
 
 ### Ideascale
 
-![](../../.gitbook/assets/2021-08-30-3-.png)
+![](../.gitbook/assets/2021-08-30-3-.png)
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Oversight-of-Catalyst-Circle/370088-48088" %}
 
@@ -80,7 +80,7 @@ description: Summary of Fund 6 Proposals QA-DAO is involved in.
 
 ## Fund7 challenge setting - Equip Socially Excluded Communities
 
-![](../../.gitbook/assets/2021-08-30-7-.png)
+![](../.gitbook/assets/2021-08-30-7-.png)
 
 ### Ideascale
 

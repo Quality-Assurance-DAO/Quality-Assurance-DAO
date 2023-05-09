@@ -8,14 +8,11 @@
 
 ## Project Catalyst Proposals <a href="#catalyst-proposals" id="catalyst-proposals"></a>
 
-* [Fund 6 - Summary](catalyst-proposals/summary/README.md)
-  * [F6 Distributed Auditability](catalyst-proposals/summary/fund-6-auditability-proposal-distributed-auditability.md)
-
-## F6 Distributed Auditability
-
-* [Insight Sharing - Distributed Auditability](catalyst-proposals/fund-6-insight-sharing-distributed-auditability.md)
-* [Reporting](f6-distributed-auditability/distributed-auditability.md)
-* [Budget](f6-distributed-auditability/budget.md)
+* [Fund 6 - Summary](catalyst-proposals/summary.md)
+  * [F6 Distributed Auditability](catalyst-proposals/summary/fund-6-auditability-proposal-distributed-auditability/README.md)
+    * [Insight Sharing - Distributed Auditability](catalyst-proposals/summary/fund-6-auditability-proposal-distributed-auditability/fund-6-insight-sharing-distributed-auditability.md)
+    * [Reporting](catalyst-proposals/summary/fund-6-auditability-proposal-distributed-auditability/distributed-auditability.md)
+    * [Budget](catalyst-proposals/summary/fund-6-auditability-proposal-distributed-auditability/budget.md)
 
 ## F6 Oversight of Catalyst Circle
 

@@ -1,22 +1,22 @@
 ---
-description: 'Project Catalyst Fund 6, Insight Sharing - Distributed Auditability'
+description: Project Catalyst Fund 6, Insight Sharing - Distributed Auditability
 ---
 
 # Insight Sharing - Distributed Auditability
 
-![](../.gitbook/assets/2021-08-30-1-.png)
+![](../../../.gitbook/assets/2021-08-30-1-.png)
 
-| Title | Project Catalyst Fund 6 |
-| :--- | :--- |
+| Title   | Project Catalyst Fund 6                    |
+| ------- | ------------------------------------------ |
 | Subject | Insight Sharing - Distributed Auditability |
 
-![Wikimedia Commons Image](../.gitbook/assets/0.png)
+![Wikimedia Commons Image](../../../.gitbook/assets/0.png)
 
-| Author | Stephen Whitenstall |
-| :--- | :--- |
-| Published | 15/08/2021 |
-| Version | 1 |
-| Revision | 0 |
+| Author    | Stephen Whitenstall |
+| --------- | ------------------- |
+| Published | 15/08/2021          |
+| Version   | 1                   |
+| Revision  | 0                   |
 
 Creative Commons Attribution
 
@@ -48,13 +48,13 @@ How to make the auditing process of funded proposals efficient, distributed, and
 
 Project Catalyst Funded Proposals have no consistent reporting of what they intend to deliver or how budgets are being spent. Reporting information is presented in a variety of formats, and this inhibits the general ADA holder/voter from easily assessing progress and quality of delivery.
 
-### 1\) Access to and use of fund data
+### 1) Access to and use of fund data
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Access-to-and-use-of-fund-data/365775-48088" %}
 
-Access to how often projects get funded and the total funding amount spent is expected in the next few months \(via Fund 5 “[Catalyst Site: Project tracking](https://cardano.ideascale.com/a/dtd/350699-48088)”\). But this data requires careful analysis and needs to be supplemented with specific metrics on how a funded proposal’s budget is spent and what stages have been achieved. It is also necessary to communicate the state of a funded proposal as widely as possible and in an accessible, consistent format.
+Access to how often projects get funded and the total funding amount spent is expected in the next few months (via Fund 5 “[Catalyst Site: Project tracking](https://cardano.ideascale.com/a/dtd/350699-48088)”). But this data requires careful analysis and needs to be supplemented with specific metrics on how a funded proposal’s budget is spent and what stages have been achieved. It is also necessary to communicate the state of a funded proposal as widely as possible and in an accessible, consistent format.
 
-###  2\) Networks of trust and reputation
+### 2) Networks of trust and reputation
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Networks-of-trust-reputation/365777-48088" %}
 
@@ -62,13 +62,13 @@ The de facto situation relies to a large extent on an informal network of trust 
 
 Such an informal network risks introducing unwarranted assessments of trust and reputation. Community assessments and ultimately the decisions of voters may rest merely on past associations. There is the danger that after a few funding rounds such an informal network begins to establish itself as a permissioned culture that draws on a permissionless chain.
 
-### 3\) Matching the quality approach of IOHK
+### 3) Matching the quality approach of IOHK
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Matching-quality-approach-of-IOHK/365773-48088" %}
 
 The challenge then is to raise the bar of quality in Project Catalyst to a level of maturity that ultimately matches the quality approach of IOHK with its peer-reviewed research and evidence-based methods. So, a high level of quality assurance becomes integral to the success and reputation of a funded proposal.
 
-### 4\) Distributed Auditability
+### 4) Distributed Auditability
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Distributed-Auditability/365770-48088" %}
 
@@ -78,13 +78,13 @@ At its heart Project Catalyst is an experiment to develop distributed governance
 
 Distributed Auditability also needs to take account of both qualitative and quantitative measures of a funded proposal’s success. Whilst quantitative reporting can be largely automated, qualitative assessments require engagement between proposers and the community.
 
-### 5\) Auditability & Challenge Teams
+### 5) Auditability & Challenge Teams
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Challenge-Team-support/365574-48088" %}
 
 #### Description
 
-The announcement of “Challenge Teams” at the Catalyst Town Hall of 11th August 2021 \(Catalyst Fund6 Townhall \#1\) introduces a new dimension to this auditability challenge. This circumstance opens the possibility of funding to provide ancillary support for Challenge teams.
+The announcement of “Challenge Teams” at the Catalyst Town Hall of 11th August 2021 (Catalyst Fund6 Townhall #1) introduces a new dimension to this auditability challenge. This circumstance opens the possibility of funding to provide ancillary support for Challenge teams.
 
 This audibility challenge may also inform how Challenge Teams should be structured. Such as including some input from those who supported and voted for the presentation of the challenge. This would ameliorate the risk of introducing a Challenge "closed shop".
 
@@ -100,7 +100,7 @@ There is massive potential in Challenge Teams leading by example. By making it d
 How can we create a positive developer experience that helps the developer focus on building successful apps?
 {% endhint %}
 
-### 6\) Auditability and the Developer ecosystem.
+### 6) Auditability and the Developer ecosystem.
 
 The treasury for this challenge has increased from $600,000 to $1,005,000 in ada.
 
@@ -122,7 +122,7 @@ Support for quality assurance of Developer ecosystem proposals was demonstrated 
 How can we help the Catalyst community to get better at distributed decision making within the next two Catalyst rounds?
 {% endhint %}
 
-### 7\) Communication of decision making.
+### 7) Communication of decision making.
 
 #### Description
 
@@ -138,7 +138,7 @@ $200,000 in ada
 What non-Art use cases of NFTs can distinguish Cardano as the blockchain of choice for NFT based businesses?
 {% endhint %}
 
-### 8\) Auditability of NFT Business models
+### 8) Auditability of NFT Business models
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Auditability-of-NFT-Business-models/365792-48088?submitted=1" %}
 
@@ -150,9 +150,8 @@ To achieve this outcome any NFT Business model proposal should be ready to demon
 
 A transparent legal status that assures customers and clients of liabilities and where responsibility lies for business delivery.
 
-A clear commitment to Cardano values \(as the blockchain of choice\) of connectedness, transparency, and fairness.
+A clear commitment to Cardano values (as the blockchain of choice) of connectedness, transparency, and fairness.
 
 A well-documented, maintained and tracked system of governance. So that clients and customers may have a clear understanding of why, when, and how business decisions are made.
 
 An unambiguous apportion of intellectual property so that clients and customers know their data is safe.
-
