@@ -25,6 +25,7 @@
   * [F6 Catalyst-Swarm-Genesis GitBook](f6-swarm-gitbook/catalyst-swarm-genesis-gitbook.md)
     * [Reporting](f6-swarm-gitbook/reporting.md)
     * [Budget](f6-swarm-gitbook/budget.md)
+* [Fund 7 - Summary](catalyst-proposals/fund-7-summary.md)
 
 ## Studies
 
