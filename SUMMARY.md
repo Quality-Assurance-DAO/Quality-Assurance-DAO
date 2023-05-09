@@ -8,7 +8,11 @@
 
 ## Project Catalyst Proposals <a href="#catalyst-proposals" id="catalyst-proposals"></a>
 
-* [Fund 5 - Summary](catalyst-proposals/fund-5-summary.md)
+* [Fund 5 - Summary](catalyst-proposals/fund-5-summary/README.md)
+  * [F5 QADAO](catalyst-proposals/fund-5-summary/project-catalyst-developer-ecosystem-proposal/README.md)
+    * [Fund 5, Developer Ecosystem Proposal - Governance](catalyst-proposals/fund-5-summary/project-catalyst-developer-ecosystem-proposal/fund-5-developer-ecosystem-proposal-governance.md)
+    * [Fund 5, Developer Ecosystem - Governance Detail](catalyst-proposals/fund-5-summary/project-catalyst-developer-ecosystem-proposal/fund-5-developer-ecosystem-governance-detail.md)
+    * [F5-QA-DAO-Reporting](catalyst-proposals/fund-5-summary/project-catalyst-developer-ecosystem-proposal/reporting.md)
 * [Fund 6 - Summary](catalyst-proposals/summary.md)
   * [F6 Distributed Auditability](catalyst-proposals/fund-6-auditability-proposal-distributed-auditability.md)
     * [Insight Sharing - Distributed Auditability](catalyst-proposals/fund-6-insight-sharing-distributed-auditability.md)
@@ -24,11 +28,6 @@
     * [Budget](f6-swarm-gitbook/budget.md)
 
 ## F5-QA-DAO
-
-* [Fund 5, Developer Ecosystem Proposal](f5-qa-dao/project-catalyst-developer-ecosystem-proposal.md)
-* [Fund 5, Developer Ecosystem Proposal - Governance](f5-qa-dao/fund-5-developer-ecosystem-proposal-governance.md)
-* [Fund 5, Developer Ecosystem - Governance Detail](f5-qa-dao/fund-5-developer-ecosystem-governance-detail.md)
-* [F5-QA-DAO-Reporting](f5-qa-dao/reporting.md)
 
 ## Studies
 

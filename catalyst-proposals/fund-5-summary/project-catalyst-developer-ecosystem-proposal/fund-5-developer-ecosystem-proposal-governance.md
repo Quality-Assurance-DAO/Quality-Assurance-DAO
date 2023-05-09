@@ -8,7 +8,7 @@ description: Governance of Quality-Assurance DAO , Fund 5, Developer Ecosystem P
 
 This section reports the progress of the **Fund 5 - Quality Assurance DAO** project as it documents and assesses the **Fund 5 Governance process**. This will include documentation of :
 
-* The pathway of a funded cohort and 
+* The pathway of a funded cohort and
 * An assessment of funded cohort reporting requirements.
 
 ## Cohort On-boarding - Email Survey
@@ -39,7 +39,7 @@ This section reports the progress of the **Fund 5 - Quality Assurance DAO** proj
 
 _**Your Full Name**_ Stephen Whitenstall
 
-### Proposal Name  _Proposal name must match your Ideascale title_
+### Proposal Name _Proposal name must match your Ideascale title_
 
 _Quality-Assurance-DAO_
 
@@ -51,7 +51,7 @@ Meeting with other Fund 5 Cohort members agreed to collaborate on sharing Cataly
 
 ### Describe two significant setbacks, obstacles, or failures you had this month and what you learned from each (regardless of whether or not you solved them).
 
-_Your answer will not be shared with the public. Text box will expand as you type. _
+\_Your answer will not be shared with the public. Text box will expand as you type. \_
 
 _Lack of response from IOHK by email on changes to onboarding data and Collaboration with IOHK. I learnt that email might not be the most effective way to contact IOHK - will try Telegram. Also aware that this is a very busy time for IOHK._
 
@@ -59,15 +59,15 @@ _Lack of response from IOHK by email on changes to onboarding data and Collabora
 
 Fund5
 
-### Which Challenge is your Proposal in?  \__
+### Which Challenge is your Proposal in? \_\_
 
 _F5: Developer Ecosystem_
 
-### _Fund5: Developer Ecosystem - Reporting Project Launch Date?_  Actual or Projected Launch Date
+### _Fund5: Developer Ecosystem - Reporting Project Launch Date?_ Actual or Projected Launch Date
 
 DD 11 / MM 04 / YYYY 2021
 
-### Has your Project Launched?  \__
+### Has your Project Launched? \_\_
 
 _Yes_
 
@@ -97,7 +97,7 @@ Governance of the Quality-Assurance DAO , Fund 5, Developer Ecosystem Proposal i
 
 ## Cohort Meeting #2 - September 7th, 2021
 
-![](../.gitbook/assets/2021-09-07.png)
+![](../../../.gitbook/assets/2021-09-07.png)
 
 Greetings All Cohorts! 👋
 
@@ -127,21 +127,18 @@ Zoom Video Communications ([https://bit.ly/37kHZFB](https://bit.ly/37kHZFB)) Wel
 
 ### Telegram
 
-![](../.gitbook/assets/2021-09-09-6-.png)
+![](../../../.gitbook/assets/2021-09-09-6-.png)
 
 ## Cohort Report #2
 
 ### 22nd September 2021
 
-![](../.gitbook/assets/2021-09-22-15-.png)
+![](../../../.gitbook/assets/2021-09-22-15-.png)
 
 > Hi there - I (QA-DAO) completed the new Progress Report without any issues. For anyone interested completion of the old and new forms can be compared on my GitBook : Old Form ([https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-5-proposals/fund-5-developer-ecosystem-governance-detail#cohort-progress-report-1](https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-5-proposals/fund-5-developer-ecosystem-governance-detail#cohort-progress-report-1) ) and New Form ([https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-5-proposals/fund-5-developer-ecosystem-governance-detail#cohort-progress-report-2](https://stephen-rowan.gitbook.io/quality-assurance-dao/fund-5-proposals/fund-5-developer-ecosystem-governance-detail#cohort-progress-report-2)). All my cohort reporting is documented here - from the onboarding form onwards. I plan to use these materials to illustrate and provide commentary on the funded cohort experience. All the best S.
-
-
 
 ## 7th October 2021
 
 ### Boostcamp application
 
-![](../.gitbook/assets/2021-10-07.png)
-
+![](../../../.gitbook/assets/2021-10-07.png)
