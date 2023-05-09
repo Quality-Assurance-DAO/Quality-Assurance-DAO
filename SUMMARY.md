@@ -8,8 +8,9 @@
 
 ## Project Catalyst Proposals <a href="#catalyst-proposals" id="catalyst-proposals"></a>
 
+* [Project Catalyst Overview](catalyst-proposals/project-catalyst-overview.md)
 * [Fund 5 - Summary](catalyst-proposals/fund-5-summary/README.md)
-  * [F5 QADAO](f5-qa-dao/project-catalyst-developer-ecosystem-proposal.md)
+  * [F5 Quality-Assurance-DAO](f5-qa-dao/project-catalyst-developer-ecosystem-proposal.md)
     * [Fund 5, Developer Ecosystem Proposal - Governance](f5-qa-dao/fund-5-developer-ecosystem-proposal-governance.md)
     * [Fund 5, Developer Ecosystem - Governance Detail](f5-qa-dao/fund-5-developer-ecosystem-governance-detail.md)
     * [F5-QA-DAO-Reporting](f5-qa-dao/reporting.md)
