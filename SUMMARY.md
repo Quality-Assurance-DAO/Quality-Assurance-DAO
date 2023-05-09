@@ -21,7 +21,7 @@
 
 ## F6-Swarm-GitBook
 
-* [Catalyst-Swarm-Genesis GitBook](f6-swarm-gitbook/catalyst-swarm-genesis-gitbook.md)
+* [F6 Catalyst-Swarm-Genesis GitBook](f6-swarm-gitbook/catalyst-swarm-genesis-gitbook.md)
 * [Reporting](f6-swarm-gitbook/reporting.md)
 * [Budget](f6-swarm-gitbook/budget.md)
 
