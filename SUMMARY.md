@@ -6,13 +6,13 @@
 * [Partners](partners.md)
 * [Onboarding](onboarding.md)
 
-## Fund 6 Proposals <a href="#catalyst-proposals" id="catalyst-proposals"></a>
+## Project Catalyst Proposals <a href="#catalyst-proposals" id="catalyst-proposals"></a>
 
-* [Fund 6 - Summary](catalyst-proposals/summary.md)
+* [Fund 6 - Summary](catalyst-proposals/summary/README.md)
+  * [F6 Distributed Auditability](catalyst-proposals/summary/fund-6-auditability-proposal-distributed-auditability.md)
 
 ## F6 Distributed Auditability
 
-* [Auditability Proposal - Distributed Auditability](catalyst-proposals/fund-6-auditability-proposal-distributed-auditability.md)
 * [Insight Sharing - Distributed Auditability](catalyst-proposals/fund-6-insight-sharing-distributed-auditability.md)
 * [Reporting](f6-distributed-auditability/distributed-auditability.md)
 * [Budget](f6-distributed-auditability/budget.md)

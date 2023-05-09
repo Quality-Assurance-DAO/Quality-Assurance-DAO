@@ -2,17 +2,15 @@
 description: Fund 6 - Auditability Proposal - Distributed Auditability
 ---
 
-# Auditability Proposal - Distributed Auditability
+# F6 Distributed Auditability
 
-![](../.gitbook/assets/2021-08-30-1-.png)
+![](../../.gitbook/assets/2021-08-30-1-.png)
 
 | Title   | Project Catalyst Fund 6 - Auditability Challenge |
 | ------- | ------------------------------------------------ |
 | Subject | Distributed Auditability                         |
 
-![ Continuous delivery - Wikimedia Commons](<../.gitbook/assets/0 (1).png>)
-
-
+![Continuous delivery - Wikimedia Commons](<../../.gitbook/assets/0 (1).png>)
 
 | **Author**    | Stephen Whitenstall |
 | ------------- | ------------------- |
@@ -20,7 +18,7 @@ description: Fund 6 - Auditability Proposal - Distributed Auditability
 
 Creative Commons Attribution
 
-## **Ideascale link : **
+## \*\*Ideascale link : \*\*
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Distributed-Auditability/366707-48088" %}
 
@@ -72,15 +70,15 @@ This Fund 6 Auditability proposal will draw upon the successful Fund 5 Developer
 
 How different teams and individuals report the progress of their funded proposals will be researched. This will be done in collaboration with the funded cohort, IOG and Catalyst ecosystem toolmakers.
 
-The initial intention of the Fund 5 - QA-DAO proposal is to examine how the Fund 5 - Developer Ecosystem  cohort reports its progress.&#x20;
+The initial intention of the Fund 5 - QA-DAO proposal is to examine how the Fund 5 - Developer Ecosystem cohort reports its progress.
 
 ### 0.2 Prototyping
 
 Stephen provides support to Catalyst Swarm by documenting and tracking it's activities. This has been done continuously since 7th July 2021 by raising GitHub issues that track Core Swarm Activities such as meetings, After Town Halls, events (Idea Fest) and Saturday Swarm Sessions.
 
-![Catalyst-Swarm Issue Templates](../.gitbook/assets/2021-08-21-2-.png)
+![Catalyst-Swarm Issue Templates](../../.gitbook/assets/2021-08-21-2-.png)
 
-![Catalyst-Swarm Project Board](../.gitbook/assets/2021-08-21-3-.png)
+![Catalyst-Swarm Project Board](../../.gitbook/assets/2021-08-21-3-.png)
 
 The ongoing experience of working with a widely distributed team working on many different projects has led to developing automation solutions such as Issue templates and forms. This is now being extended by using Continuous Integration tools such as GitHub Actions.
 
@@ -98,49 +96,7 @@ Once funded Distributed Auditability will offer or participate in workshops with
 
 Building on Core Swarm prototypes from Phase 0 specific auditing workflows will be automated using GitHub Actions.
 
-![Example of a GitHub Action automation of Team Activities Documentation](../.gitbook/assets/2021-08-21-1-.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Example of a GitHub Action automation of Team Activities Documentation](../../.gitbook/assets/2021-08-21-1-.png)
 
 ## **Estimated cost**:
 
